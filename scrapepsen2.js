@@ -5,7 +5,7 @@ const similarity = require('./similar');
 module.exports = () => {
   return new Promise(async (resolve, reject) => {
     try {
-      const gamesData = JSON.parse(fs.readFileSync('psen3.json'));
+      const gamesData = JSON.parse(fs.readFileSync('psen1.json'));
 
       // Launch Browser
       const browser = await puppeteer.launch({
@@ -32,7 +32,7 @@ module.exports = () => {
               const sim = similarity(gamesData[c].title, gameTitle);
               if (sim >= 0.9) {
                 const gamelink = await gamesTiles[b].$eval('.grid-cell__body a', el => el.href.trim());
-                console.log(`Matched ${gamesData[c].title} -- href: ${gamelink}`);
+                console.log(`Matched "${gamesData[c].title}" -- href: "${gamelink}"`);
                 gamesData[c].url = gamelink;
                 break;
               }
@@ -40,7 +40,7 @@ module.exports = () => {
           }
         }
         fs.writeFileSync('currentpage.txt', a);
-        fs.writeFileSync('psen4.json', JSON.stringify(gamesData));
+        fs.writeFileSync('psen2.json', JSON.stringify(gamesData));
         console.log(`Done with page: ${a}`);
       }
 

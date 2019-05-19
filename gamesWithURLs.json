@@ -11,12 +11,6 @@
   "metacritic": "95",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00557_00-THELASTOFUS00000"
 }, {
-  "title": "God of War",
-  "metacritic": "94"
-}, {
-  "title": "XCOM 2: War of the Chosen",
-  "metacritic": "93"
-}, {
   "title": "Persona 5",
   "metacritic": "93",
   "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA06638_00-PERSONA512345678"
@@ -25,18 +19,17 @@
   "metacritic": "93",
   "url": "https://store.playstation.com/en-gb/product/EP0101-CUSA01154_00-MAINGAME00000000"
 }, {
-  "title": "Uncharted 4: A Thief's End",
-  "metacritic": "93"
-}, {
   "title": "Journey",
-  "metacritic": "92"
+  "metacritic": "92",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00470_00-JOURNEYPS4061115"
 }, {
   "title": "Bloodborne",
   "metacritic": "92",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00207_00-BLOODBORNE0000EU"
 }, {
   "title": "Undertale",
-  "metacritic": "92"
+  "metacritic": "92",
+  "url": "https://store.playstation.com/en-gb/product/EP3746-CUSA09415_00-CB00000000000084"
 }, {
   "title": "The Witcher 3: Wild Hunt",
   "metacritic": "92",
@@ -51,7 +44,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA08809_00-SOTC0000000000EU"
 }, {
   "title": "The Witcher 3: Wild Hunt - Blood and Wine",
-  "metacritic": "91"
+  "metacritic": "91",
+  "url": "https://store.playstation.com/en-gb/product/EP4497-CUSA01439_00-0000000000DLCBOB"
 }, {
   "title": "Celeste",
   "metacritic": "91",
@@ -62,23 +56,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP2054-CUSA02754_00-INSIDE0000000000"
 }, {
   "title": "NieR: Automata - Game of the YoRHa Edition",
-  "metacritic": "91"
-}, {
-  "title": "flower",
-  "metacritic": "91"
+  "metacritic": "91",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA04480_00-GOTYORHADIGITAL0"
 }, {
   "title": "Resident Evil 2",
   "metacritic": "90",
-  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA01815_00-BH0HD00000000001"
-}, {
-  "title": "Diablo III: Ultimate Evil Edition",
-  "metacritic": "90"
-}, {
-  "title": "Overwatch",
-  "metacritic": "90"
-}, {
-  "title": "Shovel Knight",
-  "metacritic": "90"
+  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA09171_00-BH2R000000000001"
 }, {
   "title": "Rayman Legends",
   "metacritic": "90",
@@ -88,17 +71,13 @@
   "metacritic": "90",
   "url": "https://store.playstation.com/en-gb/product/EP4427-CUSA00382_00-FEZTHEGAMEPOLYTR"
 }, {
-  "title": "Monster Hunter: World",
-  "metacritic": "90"
-}, {
-  "title": "Tales From The Borderlands: Episode 5 - The Vault of the Traveler",
-  "metacritic": "90"
-}, {
   "title": "The Witcher 3: Wild Hunt - Hearts of Stone",
-  "metacritic": "90"
+  "metacritic": "90",
+  "url": "https://store.playstation.com/en-gb/product/EP4497-CUSA01439_00-0000000000DLCEP1"
 }, {
   "title": "Astro Bot: Rescue Mission",
-  "metacritic": "90"
+  "metacritic": "90",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA12392_00-PLATFORMERVR00EU"
 }, {
   "title": "Sekiro: Shadows Die Twice",
   "metacritic": "90",
@@ -110,10 +89,7 @@
 }, {
   "title": "Mega Man X Legacy Collection",
   "metacritic": "89",
-  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA02521_00-MEGAMANLEGACY000"
-}, {
-  "title": "Titanfall 2",
-  "metacritic": "89"
+  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA10713_00-RXAC100000000001"
 }, {
   "title": "Dark Souls III",
   "metacritic": "89",
@@ -123,18 +99,13 @@
   "metacritic": "89",
   "url": "https://store.playstation.com/en-gb/product/EP0748-CUSA13643_00-TETRISEFFECT0000"
 }, {
-  "title": "Final Fantasy XIV: Stormblood",
-  "metacritic": "89"
-}, {
   "title": "Bastion",
-  "metacritic": "89"
+  "metacritic": "89",
+  "url": "https://store.playstation.com/en-gb/product/EP4484-CUSA02057_00-BASTIONBUNDLE000"
 }, {
   "title": "Apex Legends",
   "metacritic": "89",
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA12552_00-APEXLEGENDRSPWN1"
-}, {
-  "title": "Dragon Age: Inquisition",
-  "metacritic": "89"
 }, {
   "title": "Battlefield 1",
   "metacritic": "89",
@@ -156,25 +127,17 @@
   "metacritic": "88",
   "url": "https://store.playstation.com/en-gb/product/EP2103-CUSA01344_00-BINDINGOFISAACP4"
 }, {
-  "title": "NieR: Automata",
-  "metacritic": "88"
-}, {
   "title": "Rise of the Tomb Raider: 20 Year Celebration",
   "metacritic": "88",
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA05716_00-RISEOFTOMBRAIDER"
-}, {
-  "title": "NBA 2K17",
-  "metacritic": "88"
 }, {
   "title": "Dishonored 2",
   "metacritic": "88",
   "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA03603_00-DISHONOREDTWOPS4"
 }, {
-  "title": "ZEN Pinball 2: Star Wars Rebels",
-  "metacritic": "88"
-}, {
   "title": "Divinity: Original Sin Enhanced Edition",
-  "metacritic": "88"
+  "metacritic": "88",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA02762_00-DIVINITYPS4BUNDL"
 }, {
   "title": "Injustice 2: Legendary Edition",
   "metacritic": "88",
@@ -184,9 +147,6 @@
   "metacritic": "88",
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA08161_00-DMC5000000000001"
 }, {
-  "title": "Batman: The Enemy Within - Episode 5: Same Stitch",
-  "metacritic": "88"
-}, {
   "title": "Owlboy",
   "metacritic": "88",
   "url": "https://store.playstation.com/en-gb/product/EP3965-CUSA09920_00-OWLBOY0000000000"
@@ -194,12 +154,6 @@
   "title": "Keep Talking and Nobody Explodes",
   "metacritic": "88",
   "url": "https://store.playstation.com/en-gb/product/EP0633-CUSA06561_00-KTANEBOMBGAME001"
-}, {
-  "title": "The Talos Principle",
-  "metacritic": "88"
-}, {
-  "title": "Nex Machina: Death Machine",
-  "metacritic": "88"
 }, {
   "title": "Nioh",
   "metacritic": "88",
@@ -214,13 +168,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP2145-CUSA00319_00-GUACSTCE00000000"
 }, {
   "title": "Bloodborne: The Old Hunters",
-  "metacritic": "87"
+  "metacritic": "87",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00207_00-SPEXPANSIONDLC03"
 }, {
   "title": "XCOM 2",
-  "metacritic": "87"
-}, {
-  "title": "Injustice 2",
-  "metacritic": "87"
+  "metacritic": "87",
+  "url": "https://store.playstation.com/en-gb/product/EP1001-CUSA04530_00-XCOM200000000000"
 }, {
   "title": "The Witness",
   "metacritic": "87",
@@ -231,7 +184,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP3862-CUSA10484_00-DEADCELLS0000000"
 }, {
   "title": "Street Fighter V: Arcade Edition",
-  "metacritic": "87"
+  "metacritic": "87",
+  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA01222_00-SF5DELUXE2000000"
 }, {
   "title": "Night in the Woods",
   "metacritic": "87",
@@ -242,7 +196,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA08992_00-DBPROJECTZGOKU18"
 }, {
   "title": "Batman: Arkham Knight",
-  "metacritic": "87"
+  "metacritic": "87",
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA00135_00-BAKPREORDER00001"
 }, {
   "title": "Marvel's Spider-Man",
   "metacritic": "87",
@@ -253,20 +208,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA08364_00-OKAMIHD000000001"
 }, {
   "title": "TowerFall Ascension",
-  "metacritic": "87"
-}, {
-  "title": "FIFA 14",
-  "metacritic": "87"
-}, {
-  "title": "Pro Evolution Soccer 2016",
-  "metacritic": "87"
+  "metacritic": "87",
+  "url": "https://store.playstation.com/en-gb/product/EP2120-CUSA00534_00-TOWERFALLCROSSBU"
 }, {
   "title": "Zero Escape: The Nonary Games",
   "metacritic": "87",
   "url": "https://store.playstation.com/en-gb/product/EP1024-CUSA06937_00-ZEROESCAPE999ZEN"
-}, {
-  "title": "Wolfenstein II: The New Colossus",
-  "metacritic": "87"
 }, {
   "title": "Odin Sphere Leifthrasir",
   "metacritic": "87",
@@ -280,12 +227,6 @@
   "metacritic": "87",
   "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA01589_00-DARKSOULS2000003"
 }, {
-  "title": "Sonic Mania Plus",
-  "metacritic": "87"
-}, {
-  "title": "NBA 2K16",
-  "metacritic": "87"
-}, {
   "title": "Fallout 4",
   "metacritic": "87",
   "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA02961_00-FALLOUT4FULLGAME"
@@ -294,23 +235,21 @@
   "metacritic": "86",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA02344_00-UNCHARTEDTRILOGY"
 }, {
-  "title": "Tales from the Borderlands: A Telltale Game Series",
-  "metacritic": "86"
-}, {
   "title": "F1 2017",
-  "metacritic": "86"
+  "metacritic": "86",
+  "url": "https://store.playstation.com/en-gb/product/EP4001-CUSA07557_00-F12017EMASTER000"
 }, {
   "title": "Velocity 2X",
-  "metacritic": "86"
+  "metacritic": "86",
+  "url": "https://store.playstation.com/en-gb/product/EP4143-CUSA00071_00-FUTURLABV2XPRE00"
 }, {
   "title": "Stardew Valley",
-  "metacritic": "86"
-}, {
-  "title": "Blues and Bullets - Episode 1: The End of Peace",
-  "metacritic": "86"
+  "metacritic": "86",
+  "url": "https://store.playstation.com/en-gb/product/EP2319-CUSA06829_00-STARDEW00000VITA"
 }, {
   "title": "Steins;Gate Elite",
-  "metacritic": "86"
+  "metacritic": "86",
+  "url": "https://store.playstation.com/en-gb/product/EP3617-CUSA14124_00-STEINSGATEBUNDLE"
 }, {
   "title": "Thimbleweed Park",
   "metacritic": "86",
@@ -329,7 +268,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA05531_00-FFXIIGAMEPS400EU"
 }, {
   "title": "MLB The Show 19",
-  "metacritic": "86"
+  "metacritic": "86",
+  "url": "https://store.playstation.com/en-gb/product/UP9000-CUSA13355_00-MLB1900PREORDPSN"
 }, {
   "title": "Sonic Mania",
   "metacritic": "86",
@@ -339,35 +279,25 @@
   "metacritic": "86",
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA03842_00-BH70000000000001"
 }, {
-  "title": "Final Fantasy XIV: Heavensward",
-  "metacritic": "86"
-}, {
-  "title": "Final Fantasy XIV Online: A Realm Reborn",
-  "metacritic": "86"
-}, {
   "title": "Dragon Quest XI: Echoes of an Elusive Age",
   "metacritic": "86",
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA08518_00-DQXIDIGEDITIONOL"
-}, {
-  "title": "Destiny: The Taken King",
-  "metacritic": "86"
 }, {
   "title": "Guilty Gear Xrd: Rev 2",
   "metacritic": "86",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA08260_00-GGXRDREV2EU00100"
 }, {
   "title": "OlliOlli2: Welcome to Olliwood",
-  "metacritic": "86"
-}, {
-  "title": "Resogun: Heroes",
-  "metacritic": "86"
+  "metacritic": "86",
+  "url": "https://store.playstation.com/en-gb/product/EP4409-CUSA00709_00-OLLIOLLIOLLICROS"
 }, {
   "title": "DiRT Rally",
   "metacritic": "85",
   "url": "https://store.playstation.com/en-gb/product/EP4001-CUSA03648_00-DIRTRALLYLABELNA"
 }, {
   "title": "Crypt of the NecroDancer",
-  "metacritic": "85"
+  "metacritic": "85",
+  "url": "https://store.playstation.com/en-gb/product/EP1156-CUSA04094_00-CROSSBUYPS4PSVIT"
 }, {
   "title": "Battlefield 4",
   "metacritic": "85",
@@ -381,34 +311,17 @@
   "metacritic": "85",
   "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA02092_00-DOOMEUROPEROWSKU"
 }, {
-  "title": "NBA 2K14",
-  "metacritic": "85"
-}, {
   "title": "Hollow Knight: Voidheart Edition",
   "metacritic": "85",
   "url": "https://store.playstation.com/en-gb/product/EP1805-CUSA13285_00-HOLLOWKNIGHT18EU"
 }, {
-  "title": "Life is Strange",
-  "metacritic": "85"
-}, {
   "title": "SteamWorld Dig 2",
-  "metacritic": "85"
-}, {
-  "title": "Nioh: Bloodshed's End",
-  "metacritic": "85"
+  "metacritic": "85",
+  "url": "https://store.playstation.com/en-gb/product/EP4473-CUSA07987_00-00SWDIG2CROSSBUY"
 }, {
   "title": "Rocket League",
   "metacritic": "85",
   "url": "https://store.playstation.com/en-gb/product/EP2002-CUSA01433_00-ROCKETLEAGUEEU01"
-}, {
-  "title": "Final Fantasy IX",
-  "metacritic": "85"
-}, {
-  "title": "Resogun: Defenders",
-  "metacritic": "85"
-}, {
-  "title": "Pro Evolution Soccer 2017",
-  "metacritic": "85"
 }, {
   "title": "DJMax Respect",
   "metacritic": "85",
@@ -422,17 +335,13 @@
   "metacritic": "85",
   "url": "https://store.playstation.com/en-gb/product/EP1063-CUSA08570_00-YSVIIIGAME000000"
 }, {
-  "title": "Yakuza 0",
-  "metacritic": "85"
-}, {
   "title": "MLB The Show 17",
-  "metacritic": "85"
+  "metacritic": "85",
+  "url": "https://store.playstation.com/en-gb/product/UP9000-CUSA06387_00-MLBTHESHOW17SHEU"
 }, {
   "title": "Beat Saber",
-  "metacritic": "85"
-}, {
-  "title": "Destiny 2",
-  "metacritic": "85"
+  "metacritic": "85",
+  "url": "https://store.playstation.com/en-gb/product/EP5067-CUSA14143_00-BEATSABERFULL000"
 }, {
   "title": "Assault Android Cactus",
   "metacritic": "85",
@@ -451,7 +360,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP8916-CUSA11441_00-SHANTAEULTIMATE1"
 }, {
   "title": "Rogue Legacy",
-  "metacritic": "85"
+  "metacritic": "85",
+  "url": "https://store.playstation.com/en-gb/product/EP4488-NPEJ00386_00-B000000000001301"
 }, {
   "title": "Wipeout: Omega Collection",
   "metacritic": "85",
@@ -459,24 +369,23 @@
 }, {
   "title": "Mortal Kombat XL",
   "metacritic": "85",
-  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA00970_00-MORTALKOMBATX000"
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA03679_00-MORTALKOMBATXL00"
 }, {
   "title": "Geometry Wars 3: Dimensions",
-  "metacritic": "85"
+  "metacritic": "85",
+  "url": "https://store.playstation.com/en-gb/product/EP0002-CUSA00801_00-GEOMETRYWARSNPS4"
 }, {
   "title": "Ratchet & Clank",
   "metacritic": "85",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA01928_00-RCPS400000000000"
-}, {
-  "title": "MLB The Show 16",
-  "metacritic": "85"
 }, {
   "title": "Far Cry 4",
   "metacritic": "85",
   "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA00462_00-FC4GAMEPS4000001"
 }, {
   "title": "Moss",
-  "metacritic": "85"
+  "metacritic": "85",
+  "url": "https://store.playstation.com/en-gb/product/EP1966-CUSA09760_00-MOSSGAME00000000"
 }, {
   "title": "Tomb Raider: Definitive Edition",
   "metacritic": "85",
@@ -487,21 +396,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP8923-CUSA07792_00-DEAST00000000001"
 }, {
   "title": "Super Meat Boy",
-  "metacritic": "85"
+  "metacritic": "85",
+  "url": "https://store.playstation.com/en-gb/product/EP1051-CUSA03454_00-0614198109191981"
 }, {
   "title": "Pyre",
   "metacritic": "85",
   "url": "https://store.playstation.com/en-gb/product/EP4484-CUSA05763_00-PYREGAME20170000"
 }, {
-  "title": "FIFA 17",
-  "metacritic": "85"
-}, {
   "title": "DiRT 4",
   "metacritic": "85",
   "url": "https://store.playstation.com/en-gb/product/EP4001-CUSA07062_00-DIRT4E0000000000"
-}, {
-  "title": "Gone Home: Console Edition",
-  "metacritic": "85"
 }, {
   "title": "428: Shibuya Scramble",
   "metacritic": "85",
@@ -512,7 +416,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA09243_00-NNK2GAME00000000"
 }, {
   "title": "Statik",
-  "metacritic": "84"
+  "metacritic": "84",
+  "url": "https://store.playstation.com/en-gb/product/EP2462-CUSA06929_00-STATIKSIEE000001"
 }, {
   "title": "Valkyria Chronicles Remastered",
   "metacritic": "84",
@@ -531,7 +436,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA05786_00-KINGDOMHEART1525"
 }, {
   "title": "Red Matter",
-  "metacritic": "84"
+  "metacritic": "84",
+  "url": "https://store.playstation.com/en-gb/product/EP3405-CUSA14366_00-0000000REDMATTER"
 }, {
   "title": "Middle-earth: Shadow of Mordor",
   "metacritic": "84",
@@ -545,9 +451,6 @@
   "metacritic": "84",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA04629_00-BBCFPS4000001000"
 }, {
-  "title": "Hitman: Definitive Edition",
-  "metacritic": "84"
-}, {
   "title": "Salt and Sanctuary",
   "metacritic": "84",
   "url": "https://store.playstation.com/en-gb/product/EP0609-CUSA04261_00-SALTNSANCTUARY00"
@@ -557,10 +460,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA08495_00-DARKSOULSHD00000"
 }, {
   "title": "Day of the Tentacle Remastered",
-  "metacritic": "84"
-}, {
-  "title": "ZEN Pinball 2: South Park: Super-Sweet Pinball",
-  "metacritic": "84"
+  "metacritic": "84",
+  "url": "https://store.playstation.com/en-gb/product/EP2154-CUSA01959_00-DOTTSCEEPS4BUNDL"
 }, {
   "title": "DiRT Rally 2.0",
   "metacritic": "84",
@@ -575,7 +476,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP1599-CUSA06296_00-THUMPERPS4FULL00"
 }, {
   "title": "Axiom Verge",
-  "metacritic": "84"
+  "metacritic": "84",
+  "url": "https://store.playstation.com/en-gb/product/EP0850-CUSA02312_00-AXIOMVERGEPSVPS4"
 }, {
   "title": "Sound Shapes",
   "metacritic": "84",
@@ -589,35 +491,17 @@
   "metacritic": "84",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA07875_00-UNCHD4LOSTLEGACY"
 }, {
-  "title": "SoulCalibur VI",
-  "metacritic": "84"
-}, {
   "title": "ZEN Pinball 2: Aliens Vs. Pinball",
-  "metacritic": "84"
-}, {
-  "title": "Hatsune Miku: Project Diva Future Tone - Colorful Tone",
-  "metacritic": "84"
-}, {
-  "title": "Hatsune Miku: Project Diva Future Tone - Future Sound",
-  "metacritic": "84"
-}, {
-  "title": "Resogun",
-  "metacritic": "84"
+  "metacritic": "84",
+  "url": "https://store.playstation.com/en-gb/product/EP4042-NPEB00911_00-ZENPINBALL2ALN0K"
 }, {
   "title": "Lara Croft GO",
-  "metacritic": "84"
-}, {
-  "title": "Oddworld: Abe's Oddysee - New 'n' Tasty",
-  "metacritic": "84"
-}, {
-  "title": "Hitman - Episode 2: Sapienza",
-  "metacritic": "84"
+  "metacritic": "84",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA06507_00-LCGOBDL000000001"
 }, {
   "title": "BioShock: The Collection",
-  "metacritic": "84"
-}, {
-  "title": "Hitman",
-  "metacritic": "84"
+  "metacritic": "84",
+  "url": "https://store.playstation.com/en-gb/product/EP1001-CUSA03985_00-BIOSHOCKCOLLECTN"
 }, {
   "title": "Ghost of a Tale",
   "metacritic": "84",
@@ -636,7 +520,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA01244_00-FFX0FFX200EU0PS4"
 }, {
   "title": "Assassin's Creed Origins: The Curse of the Pharaohs",
-  "metacritic": "83"
+  "metacritic": "83",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA05625_00-DLCEXPENSIONS002"
 }, {
   "title": "DmC: Devil May Cry Definitive Edition",
   "metacritic": "83",
@@ -646,41 +531,25 @@
   "metacritic": "83",
   "url": "https://store.playstation.com/en-gb/product/EP1063-CUSA13171_00-DISGAEA1HDPS4000"
 }, {
-  "title": "Pro Evolution Soccer 2018",
-  "metacritic": "83"
-}, {
-  "title": "Call of Duty: Black Ops 4",
-  "metacritic": "83"
-}, {
   "title": "Guacamelee! 2",
   "metacritic": "83",
   "url": "https://store.playstation.com/en-gb/product/EP2145-CUSA07112_00-GUACAMELEETWOOOO"
-}, {
-  "title": "Assassin's Creed IV: Black Flag",
-  "metacritic": "83"
 }, {
   "title": "Kingdom Hearts III",
   "metacritic": "83",
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA12025_00-KINGDOMHEARTSX30"
 }, {
-  "title": "Prey: Mooncrash",
-  "metacritic": "83"
-}, {
   "title": "Darkest Dungeon",
-  "metacritic": "83"
-}, {
-  "title": "Resident Evil HD Remaster",
-  "metacritic": "83"
+  "metacritic": "83",
+  "url": "https://store.playstation.com/en-gb/product/EP2483-CUSA05967_00-RHSDDPS4BND00001"
 }, {
   "title": "Puyo Puyo Tetris",
-  "metacritic": "83"
+  "metacritic": "83",
+  "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA06509_00-PUYOTETRIS000000"
 }, {
   "title": "Call of Duty: Modern Warfare Remastered",
   "metacritic": "83",
   "url": "https://store.playstation.com/en-gb/product/EP0002-CUSA05379_00-CODMWRTHEGAME001"
-}, {
-  "title": "ZEN Pinball 2: Portal Pinball",
-  "metacritic": "83"
 }, {
   "title": "Dragon Quest Builders",
   "metacritic": "83",
@@ -702,15 +571,9 @@
   "metacritic": "83",
   "url": "https://store.playstation.com/en-gb/product/EP8008-CUSA02212_00-JAMESTOWNPLUS000"
 }, {
-  "title": "Terraria",
-  "metacritic": "83"
-}, {
   "title": "Death Mark",
   "metacritic": "83",
   "url": "https://store.playstation.com/en-gb/product/EP1024-CUSA12947_00-EXPHORROR2018HRP"
-}, {
-  "title": "Battle Chef Brigade",
-  "metacritic": "83"
 }, {
   "title": "Mortal Kombat 11",
   "metacritic": "83",
@@ -721,33 +584,24 @@
   "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA00593_00-MCOMPLREDUXDISC1"
 }, {
   "title": "The Swapper",
-  "metacritic": "83"
+  "metacritic": "83",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-NPEJ00331_00-B000000000001122"
 }, {
   "title": "LEGO Marvel Super Heroes",
   "metacritic": "83",
   "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA00044_00-LEGOMARVEL000000"
 }, {
-  "title": "Call of Duty: Advanced Warfare",
-  "metacritic": "83"
-}, {
-  "title": "Marvel Heroes Omega",
-  "metacritic": "83"
-}, {
-  "title": "MLB 14: The Show",
-  "metacritic": "83"
-}, {
   "title": "Project CARS",
-  "metacritic": "83"
+  "metacritic": "83",
+  "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA00940_00-PCARSDIGED000001"
 }, {
   "title": "FIFA 19",
   "metacritic": "83",
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA11608_00-FIFAFOOTBALL2019"
 }, {
   "title": "Mortal Kombat X",
-  "metacritic": "83"
-}, {
-  "title": "NBA 2K15",
-  "metacritic": "83"
+  "metacritic": "83",
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA00970_00-MORTALKOMBATX000"
 }, {
   "title": "Danganronpa 1-2 Reload",
   "metacritic": "83",
@@ -762,10 +616,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA01009_00-TWAU00000000GAME"
 }, {
   "title": "Horizon Zero Dawn: The Frozen Wilds",
-  "metacritic": "83"
+  "metacritic": "83",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA01021_00-HRZ000000000DLC1"
 }, {
   "title": "The Unfinished Swan",
-  "metacritic": "83"
+  "metacritic": "83",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00796_00-UNFINISHEDSWBUND"
 }, {
   "title": "SUPERHOT",
   "metacritic": "83",
@@ -780,20 +636,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA07997_00-SF30FULLGAME0001"
 }, {
   "title": "SteamWorld Heist",
-  "metacritic": "83"
+  "metacritic": "83",
+  "url": "https://store.playstation.com/en-gb/product/EP4473-CUSA01478_00-SWHCROSSBUY00000"
 }, {
   "title": "Tales From The Borderlands: Episode 3 - Catch A Ride",
-  "metacritic": "83"
+  "metacritic": "83",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA00860_00-TFTBL0000000DLC3"
 }, {
   "title": "Iconoclasts",
-  "metacritic": "83"
+  "metacritic": "83",
+  "url": "https://store.playstation.com/en-gb/product/EP1268-CUSA09325_00-ICLCROSSBUYEU000"
 }, {
   "title": "Assassin's Creed Odyssey",
   "metacritic": "83",
   "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA09303_00-GAME000000000000"
-}, {
-  "title": "ZEN Pinball 2: The Walking Dead",
-  "metacritic": "83"
 }, {
   "title": "Move or Die",
   "metacritic": "83",
@@ -815,46 +671,37 @@
   "metacritic": "82",
   "url": "https://store.playstation.com/en-gb/product/EP2182-CUSA05329_00-0000000000000000"
 }, {
-  "title": "FIFA 16",
-  "metacritic": "82"
-}, {
   "title": "Nuclear Throne",
   "metacritic": "82",
   "url": "https://store.playstation.com/en-gb/product/EP1480-CUSA03964_00-PS4NUCLEARTHRONE"
 }, {
   "title": "Project CARS 2",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA04093_00-PROJECTCARS20000"
 }, {
   "title": "The Pinball Arcade",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP2058-CUSA07869_00-HDDBOOTPBS000001"
 }, {
   "title": "Borderlands: The Handsome Collection",
   "metacritic": "82",
   "url": "https://store.playstation.com/en-gb/product/EP1001-CUSA01446_00-BORDERLANDSHDCOL"
 }, {
   "title": "Madden NFL 18",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA03860_00-MADDENNFL18GAME1"
 }, {
   "title": "Madden NFL 17",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA02073_00-MADDENNFL17GAME1"
 }, {
   "title": "F1 2016",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP4001-CUSA04509_00-F12016EMASTER000"
 }, {
   "title": "Destiny 2: Forsaken",
-  "metacritic": "82"
-}, {
-  "title": "The Walking Dead: Michonne - Episode 2: Give No Shelter",
-  "metacritic": "82"
-}, {
-  "title": "N++",
-  "metacritic": "82"
-}, {
-  "title": "Pro Evolution Soccer 2015",
-  "metacritic": "82"
-}, {
-  "title": "Dark Souls III: The Ringed City",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP0002-CUSA06172_00-DESTINY2FORSAKEN"
 }, {
   "title": "Tom Clancy's The Division 2",
   "metacritic": "82",
@@ -865,42 +712,36 @@
   "url": "https://store.playstation.com/en-gb/product/EP0122-CUSA02165_00-ASTEBREED0000000"
 }, {
   "title": "I Expect You To Die",
-  "metacritic": "82"
-}, {
-  "title": "Galak-Z: The Dimensional",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP0941-CUSA07396_00-IEYTD00000000001"
 }, {
   "title": "Sportsfriends",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP4471-CUSA00484_00-SPORTSFRIENDS001"
 }, {
   "title": "Super Time Force Ultra",
-  "metacritic": "82"
-}, {
-  "title": "ZEN Pinball 2: Iron & Steel Pack",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP2003-CUSA02013_00-CROSSBUYSTFUCAPY"
 }, {
   "title": "Dead Rising 2",
   "metacritic": "82",
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA04672_00-DEADRISING002PS4"
 }, {
   "title": "Splasher",
-  "metacritic": "82"
-}, {
-  "title": "Defender's Quest: Valley of the Forgotten DX Edition",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP1302-CUSA06591_00-0000000000000000"
 }, {
   "title": "Hitman 2",
-  "metacritic": "82"
-}, {
-  "title": "Skullgirls: 2nd Encore",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP3969-CUSA12414_00-HITMANSTANDARD00"
 }, {
   "title": "Invisible, Inc. Console Edition",
   "metacritic": "82",
   "url": "https://store.playstation.com/en-gb/product/EP2107-CUSA04281_00-INVISINCPS4E0001"
 }, {
   "title": "Resident Evil 4",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA04704_00-BH4HD00000000001"
 }, {
   "title": "Spyro Reignited Trilogy",
   "metacritic": "82",
@@ -914,31 +755,29 @@
   "metacritic": "82",
   "url": "https://store.playstation.com/en-gb/product/EP0045-CUSA04384_00-LOVERS0000000000"
 }, {
-  "title": "Enter the Gungeon",
-  "metacritic": "82"
-}, {
   "title": "Child of Light",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-NPEJ00305_00-B000000000001030"
 }, {
   "title": "The Last Guardian",
   "metacritic": "82",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA03745_00-LASTGUARDIANEU00"
 }, {
   "title": "Sprint Vector",
-  "metacritic": "82"
-}, {
-  "title": "Rocksmith 2014 Edition",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP2147-CUSA10901_00-SV1RELEASE000001"
 }, {
   "title": "Don't Starve: Mega Pack",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP2107-CUSA00327_00-DONTSTARVEMEGAE1"
 }, {
   "title": "Assetto Corsa: Ultimate Edition",
   "metacritic": "82",
   "url": "https://store.playstation.com/en-gb/product/EP4040-CUSA11487_00-ASSETTOCORSASPEC"
 }, {
   "title": "MLB The Show 18",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/UP9000-CUSA09450_00-MLBTHESHOW18SHEU"
 }, {
   "title": "The Messenger",
   "metacritic": "82",
@@ -950,7 +789,7 @@
 }, {
   "title": "SteamWorld Dig",
   "metacritic": "82",
-  "url": "https://store.playstation.com/en-gb/product/EP4473-CUSA00499_00-STEAMWORLDDIG000"
+  "url": "https://store.playstation.com/en-gb/product/EP4473-CUSA07987_00-00SWDIG2CROSSBUY"
 }, {
   "title": "Tekken 7",
   "metacritic": "82",
@@ -961,21 +800,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA10738_00-MM11000000000000"
 }, {
   "title": "PixelJunk Shooter Ultimate",
-  "metacritic": "82"
+  "metacritic": "82",
+  "url": "https://store.playstation.com/en-gb/product/EP4415-CUSA00510_00-SHOOTERULTIMATE0"
 }, {
   "title": "FIFA 15",
   "metacritic": "82",
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA00722_00-FIFAFOOTBALL2015"
 }, {
-  "title": "ZEN Pinball 2",
-  "metacritic": "82"
-}, {
   "title": "Burnout Paradise Remastered",
   "metacritic": "82",
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA10851_00-STELLARPARADISE0"
-}, {
-  "title": "Orcs Must Die! Unchained",
-  "metacritic": "82"
 }, {
   "title": "The Elder Scrolls V: Skyrim Special Edition",
   "metacritic": "81",
@@ -987,7 +821,7 @@
 }, {
   "title": "Madden NFL 15",
   "metacritic": "81",
-  "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA00088_00-MADDENNFL25GAME1"
+  "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA10014_00-MADDENNFL19GAME1"
 }, {
   "title": "Slime-san: Superslime Edition",
   "metacritic": "81",
@@ -1005,9 +839,6 @@
   "metacritic": "81",
   "url": "https://store.playstation.com/en-gb/product/EP1063-CUSA08532_00-DANGANV3PS400000"
 }, {
-  "title": "Hitman - Episode 6: Hokkaido",
-  "metacritic": "81"
-}, {
   "title": "Tearaway Unfolded",
   "metacritic": "81",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00562_00-TEARAWAYUNFOLDED"
@@ -1017,20 +848,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA01210_00-TRACKMANIA001000"
 }, {
   "title": "Deus Ex: Mankind Divided - A Criminal Past",
-  "metacritic": "81"
+  "metacritic": "81",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA01836_00-DLC0200000000001"
 }, {
   "title": "A Plague Tale: Innocence",
   "metacritic": "81",
   "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA10812_00-APLAGUETALEGAME0"
-}, {
-  "title": "ICEY",
-  "metacritic": "81"
-}, {
-  "title": "The First Tree: Console Edition",
-  "metacritic": "81"
-}, {
-  "title": "Life is Strange: Episode 3 - Chaos Theory",
-  "metacritic": "81"
 }, {
   "title": "Cities: Skylines - PlayStation 4 Edition",
   "metacritic": "81",
@@ -1048,24 +871,13 @@
   "metacritic": "81",
   "url": "https://store.playstation.com/en-gb/product/EP4064-CUSA10870_00-OVERCOOKED200000"
 }, {
-  "title": "Skylanders SuperChargers",
-  "metacritic": "81"
-}, {
-  "title": "Life is Strange: Episode 5 - Polarized",
-  "metacritic": "81"
-}, {
-  "title": "Helldivers",
-  "metacritic": "81"
-}, {
   "title": "Brothers: A Tale of Two Sons",
   "metacritic": "81",
   "url": "https://store.playstation.com/en-gb/product/EP4040-CUSA02305_00-BROTHERSLICENSE4"
 }, {
   "title": "Broken Age",
-  "metacritic": "81"
-}, {
-  "title": "Life is Strange: Episode 4 - Dark Room",
-  "metacritic": "81"
+  "metacritic": "81",
+  "url": "https://store.playstation.com/en-gb/product/EP2154-CUSA01963_00-BROKENAGEBUNDLE0"
 }, {
   "title": "Shantae: Half-Genie Hero",
   "metacritic": "81",
@@ -1083,50 +895,37 @@
   "metacritic": "81",
   "url": "https://store.playstation.com/en-gb/product/EP1095-CUSA12459_00-COTMPS4APPEU0000"
 }, {
-  "title": "Life is Strange 2: Episode 1 - Roads",
-  "metacritic": "81"
-}, {
-  "title": "Timespinner",
-  "metacritic": "81"
-}, {
-  "title": "Final Fantasy XV",
-  "metacritic": "81"
-}, {
   "title": "Assassin's Creed Origins",
   "metacritic": "81",
   "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA05625_00-GAMEACEMPIRE0000"
 }, {
-  "title": "The Walking Dead: Season Two - A Telltale Games Series",
-  "metacritic": "81"
-}, {
   "title": "Risk of Rain",
-  "metacritic": "81"
+  "metacritic": "81",
+  "url": "https://store.playstation.com/en-gb/product/EP0338-CUSA04241_00-2488202488202490"
 }, {
   "title": "The Exorcist: Legion VR",
-  "metacritic": "81"
+  "metacritic": "81",
+  "url": "https://store.playstation.com/en-gb/product/EP4686-CUSA11215_00-EXORCISTCHAPTER1"
 }, {
   "title": "Minit",
   "metacritic": "81",
   "url": "https://store.playstation.com/en-gb/product/EP3643-CUSA09536_00-0000000MINITGAME"
 }, {
   "title": "Tales From The Borderlands: Episode 2 - Atlas Mugged",
-  "metacritic": "81"
-}, {
-  "title": "Star Wars Pinball: The Force Awakens",
-  "metacritic": "81"
+  "metacritic": "81",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA00860_00-TFTBL0000000DLC2"
 }, {
   "title": "Moonlighter",
   "metacritic": "81",
   "url": "https://store.playstation.com/en-gb/product/EP4361-CUSA10138_00-0000000000000001"
 }, {
   "title": "Far Cry 5",
-  "metacritic": "81"
-}, {
-  "title": "Swords & Soldiers II: Shawarmageddon",
-  "metacritic": "81"
+  "metacritic": "81",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA05847_00-FARCRY5GAME00000"
 }, {
   "title": "The Vanishing of Ethan Carter",
-  "metacritic": "81"
+  "metacritic": "81",
+  "url": "https://store.playstation.com/en-gb/product/EP1210-CUSA03048_00-ETHANCARTERPS4EU"
 }, {
   "title": "Sine Mora EX",
   "metacritic": "81",
@@ -1140,27 +939,17 @@
   "metacritic": "81",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA05866_00-STEINSGATEZEROP4"
 }, {
-  "title": "ZEN Pinball 2: Ant-Man Pinball",
-  "metacritic": "81"
-}, {
-  "title": "Redout",
-  "metacritic": "81"
-}, {
-  "title": "Call of Duty: Black Ops III",
-  "metacritic": "81"
-}, {
   "title": "God of War III Remastered",
-  "metacritic": "81"
+  "metacritic": "81",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA01715_00-0000GODOFWAR3PS4"
 }, {
   "title": "Darksiders: Warmastered Edition",
   "metacritic": "81",
   "url": "https://store.playstation.com/en-gb/product/EP4389-CUSA05275_00-DARKSIDERSDEEU01"
 }, {
-  "title": "Disgaea 5: Alliance of Vengeance",
-  "metacritic": "80"
-}, {
   "title": "Watch Dogs",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA04294_00-WD2FULLGAME00000"
 }, {
   "title": "The Bit.Trip",
   "metacritic": "80",
@@ -1179,20 +968,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP1651-CUSA09374_00-CLEVENDEAVUCH000"
 }, {
   "title": "Subnautica",
-  "metacritic": "80"
-}, {
-  "title": "Disney Infinity 3.0 Edition",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP5426-CUSA13893_00-2222444466669999"
 }, {
   "title": "BlazBlue: Chrono Phantasma Extend",
   "metacritic": "80",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA03254_00-BBCPPS4000001000"
 }, {
   "title": "Transpose",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP2871-CUSA12773_00-0000000000000001"
 }, {
   "title": "Pix the Cat",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP4518-CUSA01122_00-PIXTHECATBDLEU01"
 }, {
   "title": "Yakuza Kiwami",
   "metacritic": "80",
@@ -1206,20 +995,9 @@
   "metacritic": "80",
   "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA00051_00-INJUSTICEULTIMAT"
 }, {
-  "title": "Life is Strange: Before the Storm - Farewell",
-  "metacritic": "80"
-}, {
   "title": "Mega Man X Legacy Collection 1 + 2",
-  "metacritic": "80"
-}, {
-  "title": "LEGO Dimensions",
-  "metacritic": "80"
-}, {
-  "title": "The Walking Dead: The Telltale Series - A New Frontier Episode 1: Ties That Bind Part One",
-  "metacritic": "80"
-}, {
-  "title": "Prison Architect",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA10713_00-RXAC120000000001"
 }, {
   "title": "Metro Exodus",
   "metacritic": "80",
@@ -1230,10 +1008,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA02230_00-DISHONOREDGAMEUK"
 }, {
   "title": "Ace Combat 7: Skies Unknown",
-  "metacritic": "80"
-}, {
-  "title": "MLB 15: The Show",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA07202_00-ACE7GEDIGITAL000"
 }, {
   "title": "RiME",
   "metacritic": "80",
@@ -1243,9 +1019,6 @@
   "metacritic": "80",
   "url": "https://store.playstation.com/en-gb/product/EP0002-CUSA07399_00-CRASHNSANETRLOGY"
 }, {
-  "title": "Skulls of the Shogun: Bone-a-Fide Edition",
-  "metacritic": "80"
-}, {
   "title": "Giana Sisters: Twisted Dreams - Director's Cut",
   "metacritic": "80",
   "url": "https://store.playstation.com/en-gb/product/EP4402-CUSA01452_00-GIANASISTERS00DC"
@@ -1254,11 +1027,9 @@
   "metacritic": "80",
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA10267_00-OCTAHEDRON000001"
 }, {
-  "title": "Bow to Blood",
-  "metacritic": "80"
-}, {
   "title": "Aragami: Shadow Edition",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP1563-CUSA04811_00-SHADOWEDITION001"
 }, {
   "title": "FAR: Lone Sails",
   "metacritic": "80",
@@ -1266,13 +1037,11 @@
 }, {
   "title": "The Jackbox Party Pack 5",
   "metacritic": "80",
-  "url": "https://store.playstation.com/en-gb/product/EP8915-CUSA02691_00-JBGPARTYPACKPS41"
+  "url": "https://store.playstation.com/en-gb/product/EP8915-CUSA12053_00-JBGPARTYPACK5PS4"
 }, {
   "title": "Atelier Arland Series Deluxe Pack",
-  "metacritic": "80"
-}, {
-  "title": "Tales From The Borderlands: Episode 1 - Zer0 Sum",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP4108-CUSA14011_00-BDLARLAND1230000"
 }, {
   "title": "Hyper Light Drifter",
   "metacritic": "80",
@@ -1281,9 +1050,6 @@
   "title": "Gravity Rush 2",
   "metacritic": "80",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA04943_00-GRAVITYRUSH20000"
-}, {
-  "title": "NHL 19",
-  "metacritic": "80"
 }, {
   "title": "Score Rush Extended",
   "metacritic": "80",
@@ -1294,20 +1060,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA00168_00-NFS14000PS4000EU"
 }, {
   "title": "Grim Fandango Remastered",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP2154-CUSA01858_00-GRIMFANDANGOBUND"
 }, {
   "title": "Madden NFL 19",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA10014_00-MADDENNFL19GAME1"
 }, {
   "title": "Phoenix Wright: Ace Attorney Trilogy",
   "metacritic": "80",
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA11512_00-AAT123FULLGAME00"
 }, {
-  "title": "Star Wars Pinball: Heroes Within",
-  "metacritic": "80"
-}, {
   "title": "Ghost Giant",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP0837-CUSA15339_00-GHOSTGIANT000000"
 }, {
   "title": "Wasteland 2: Director's Cut",
   "metacritic": "80",
@@ -1321,31 +1087,25 @@
   "metacritic": "80",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00004_00-SECONDSONSHIP000"
 }, {
-  "title": "Guitar Hero Live",
-  "metacritic": "80"
-}, {
   "title": "Pinball FX2 VR",
-  "metacritic": "80"
-}, {
-  "title": "The Evil Within: The Assignment",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP4042-CUSA06390_00-PINBALLFX2VR0000"
 }, {
   "title": "Tom Clancy's The Division",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA01262_00-THEDIVISIONSCEE0"
 }, {
   "title": "Lumines Remastered",
   "metacritic": "80",
   "url": "https://store.playstation.com/en-gb/product/EP0748-CUSA11647_00-LUMINESREMASTERE"
 }, {
   "title": "Downwell",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP3643-CUSA04575_00-DOWNWELLXBUYSCEE"
 }, {
   "title": "Rabi-Ribi",
   "metacritic": "80",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA08233_00-RABIRIBIPS400100"
-}, {
-  "title": "The Walking Dead: The Telltale Series - A New Frontier Episode 2: Ties That Bind Part Two",
-  "metacritic": "80"
 }, {
   "title": "Nobunaga's Ambition: Sphere of Influence",
   "metacritic": "80",
@@ -1359,35 +1119,25 @@
   "metacritic": "80",
   "url": "https://store.playstation.com/en-gb/product/EP2259-CUSA05956_00-EVERYTHINGPS4000"
 }, {
-  "title": "The Banner Saga 3",
-  "metacritic": "80"
-}, {
-  "title": "World of Tanks",
-  "metacritic": "80"
-}, {
   "title": "Ziggurat",
   "metacritic": "80",
   "url": "https://store.playstation.com/en-gb/product/EP0856-CUSA02306_00-ZIGGURAT00000001"
 }, {
   "title": "Middle-earth: Shadow of War",
-  "metacritic": "80"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA04402_00-KRAKENEDIT0STAND"
 }, {
   "title": "Zero Escape: Zero Time Dilemma",
-  "metacritic": "80"
-}, {
-  "title": "Skylanders Imaginators",
-  "metacritic": "79"
+  "metacritic": "80",
+  "url": "https://store.playstation.com/en-gb/product/EP1024-CUSA07627_00-ZEROESCAPE000000"
 }, {
   "title": "LocoRoco 2 Remastered",
   "metacritic": "79",
-  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA07286_00-UCES003040000001"
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA07695_00-LOCOROCO2HD00001"
 }, {
   "title": "Wolfenstein: The New Order",
   "metacritic": "79",
   "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA00320_00-WOLFENSTEIN00001"
-}, {
-  "title": "Firewall Zero Hour",
-  "metacritic": "79"
 }, {
   "title": "Joe Dever's Lone Wolf Console Edition",
   "metacritic": "79",
@@ -1396,9 +1146,6 @@
   "title": "Wandersong",
   "metacritic": "79",
   "url": "https://store.playstation.com/en-gb/product/EP3717-CUSA13944_00-APP0990000000022"
-}, {
-  "title": "Inversus",
-  "metacritic": "79"
 }, {
   "title": "The Metronomicon: Slay the Dance Floor",
   "metacritic": "79",
@@ -1416,22 +1163,13 @@
   "metacritic": "79",
   "url": "https://store.playstation.com/en-gb/product/EP3717-CUSA10028_00-AHATINTIMEPS4000"
 }, {
-  "title": "Life is Strange: Before the Storm - Episode 2: Brave New World",
-  "metacritic": "79"
-}, {
   "title": "Jazzpunk: Director's Cut",
   "metacritic": "79",
   "url": "https://store.playstation.com/en-gb/product/EP0459-CUSA05228_00-JAZZPUNK00000001"
 }, {
-  "title": "Hitman: Summer Bonus Episode",
-  "metacritic": "79"
-}, {
   "title": "South Park: The Fractured But Whole",
   "metacritic": "79",
   "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA04323_00-SOUTHPARKTFBW000"
-}, {
-  "title": "Skylanders Swap Force",
-  "metacritic": "79"
 }, {
   "title": "Oxenfree",
   "metacritic": "79",
@@ -1462,44 +1200,32 @@
   "url": "https://store.playstation.com/en-gb/product/EP0177-CUSA00362_00-ALIENISOLATIONP4"
 }, {
   "title": "Hob",
-  "metacritic": "79"
-}, {
-  "title": "The Banner Saga",
-  "metacritic": "79"
+  "metacritic": "79",
+  "url": "https://store.playstation.com/en-gb/product/EP0581-CUSA08319_00-HOBGAME000000000"
 }, {
   "title": "Trials Fusion",
   "metacritic": "79",
   "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA00230_00-TRIALSFUSION1111"
-}, {
-  "title": "LocoRoco",
-  "metacritic": "79"
 }, {
   "title": "Dust: An Elysian Tail",
   "metacritic": "79",
   "url": "https://store.playstation.com/en-gb/product/EP4526-CUSA01367_00-DUSTAETPS4000000"
 }, {
   "title": "Batman: Arkham Knight - Season of Infamy: Most Wanted",
-  "metacritic": "79"
-}, {
-  "title": "King's Quest Chapter 3: Once Upon a Climb",
-  "metacritic": "79"
+  "metacritic": "79",
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA00135_00-DLCVILLAINPACK00"
 }, {
   "title": "Shakedown Hawaii",
   "metacritic": "79",
   "url": "https://store.playstation.com/en-gb/product/EP2077-CUSA09551_00-SHAKEDOWNHAWAII0"
-}, {
-  "title": "Zen Pinball 2: Bethesda Pinball",
-  "metacritic": "79"
-}, {
-  "title": "NieR: Automata - 3C3C1D119440927",
-  "metacritic": "79"
 }, {
   "title": "Railway Empire",
   "metacritic": "79",
   "url": "https://store.playstation.com/en-gb/product/EP4365-CUSA07632_00-RAILWAYEMPIREGMS"
 }, {
   "title": "Pro Evolution Soccer 2019",
-  "metacritic": "79"
+  "metacritic": "79",
+  "url": "https://store.playstation.com/en-gb/product/EP0101-CUSA14041_00-PES2019F2P000000"
 }, {
   "title": "Naruto Shippuden: Ultimate Ninja Storm 4",
   "metacritic": "79",
@@ -1514,7 +1240,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0005-CUSA04669_00-ROCKOFAGESIIXPS4"
 }, {
   "title": "Shooty Fruity",
-  "metacritic": "79"
+  "metacritic": "79",
+  "url": "https://store.playstation.com/en-gb/product/EP4114-CUSA09500_00-BANANA0000000000"
 }, {
   "title": "SMITE",
   "metacritic": "79",
@@ -1525,14 +1252,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP2760-CUSA08394_00-0000000000000001"
 }, {
   "title": "Driveclub Bikes",
-  "metacritic": "79"
+  "metacritic": "79",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00003_00-XBIKESSTANDALONE"
 }, {
   "title": "Scribblenauts Mega Pack",
   "metacritic": "79",
   "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA12593_00-SCRIBBLENAUTSSMP"
-}, {
-  "title": "Nioh: Defiant Honor",
-  "metacritic": "79"
 }, {
   "title": "The King of Fighters XIV",
   "metacritic": "79",
@@ -1559,7 +1284,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP2182-CUSA01321_00-0000000000000000"
 }, {
   "title": "Star Trek: Bridge Crew The Next Generation",
-  "metacritic": "79"
+  "metacritic": "79",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA05761_00-STARTREKBCDLC001"
 }, {
   "title": "The Legend of Heroes: Trails of Cold Steel",
   "metacritic": "79",
@@ -1578,7 +1304,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP1052-CUSA10621_00-RIVALMEGAGUNEU00"
 }, {
   "title": "EA Sports UFC 2",
-  "metacritic": "79"
+  "metacritic": "79",
+  "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA01936_00-EASPORTSUFC2GAME"
 }, {
   "title": "Tacoma",
   "metacritic": "79",
@@ -1588,49 +1315,33 @@
   "metacritic": "79",
   "url": "https://store.playstation.com/en-gb/product/EP0122-CUSA06010_00-KEROBLASTEREE000"
 }, {
-  "title": "Call of Duty: WWII",
-  "metacritic": "79"
-}, {
   "title": "Pinball FX3",
-  "metacritic": "78"
-}, {
-  "title": "ZEN Pinball 2: Balls of Glory",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP4042-CUSA04907_00-PINBALLFX3000000"
 }, {
   "title": "EVERSPACE",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP1547-CUSA10572_00-EVERSPACE0000000"
 }, {
-  "title": "NHL 17",
-  "metacritic": "78"
-}, {
   "title": "A Way Out",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA08004_00-AWAYOUTEU0000000"
-}, {
-  "title": "Detroit: Become Human",
-  "metacritic": "78"
 }, {
   "title": "Death Road to Canada",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP3736-CUSA10629_00-DEATHROADPS4EU01"
 }, {
-  "title": "For Honor: Marching Fire",
-  "metacritic": "78"
-}, {
   "title": "Super Rude Bear Resurrection",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP1280-CUSA02896_00-RUDEBEAR00000004"
-}, {
-  "title": "King's Quest Chapter 5: The Good Knight",
-  "metacritic": "78"
 }, {
   "title": "X-Morph: Defense",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP4380-CUSA05397_00-XMORPHDEFENCE000"
 }, {
   "title": "Hatsune Miku: Project Diva X",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP0177-CUSA05748_00-PJDX393MAJITENSI"
 }, {
   "title": "Overcooked!",
   "metacritic": "78",
@@ -1643,9 +1354,6 @@
   "title": "Bridge Constructor Portal",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP0822-CUSA09604_00-BRIDPORPS4SCEE00"
-}, {
-  "title": "For Honor",
-  "metacritic": "78"
 }, {
   "title": "Forgotton Anne",
   "metacritic": "78",
@@ -1664,20 +1372,24 @@
   "url": "https://store.playstation.com/en-gb/product/EP4653-CUSA10741_00-CATASTRONAUTSPS4"
 }, {
   "title": "LEGO Star Wars: The Force Awakens",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA03397_00-LSWTFAPREORDER00"
 }, {
   "title": "Unravel",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA02532_00-UNRAVELUNRAVEL09"
 }, {
   "title": "The Persistence",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP3393-CUSA07814_00-FRONTIER25202048"
 }, {
   "title": "Forma.8",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP4487-CUSA00471_00-0000000FORMA8CRB"
 }, {
   "title": "Starwhal",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP2177-CUSA01994_00-STRWHLEUCROSSBUY"
 }, {
   "title": "Dead Rising",
   "metacritic": "78",
@@ -1686,12 +1398,6 @@
   "title": "Mothergunship",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP4151-CUSA10579_00-MOTHERGUNSHIP0EU"
-}, {
-  "title": "NHL 16",
-  "metacritic": "78"
-}, {
-  "title": "Rock Band 4",
-  "metacritic": "78"
 }, {
   "title": "Dragon's Dogma: Dark Arisen",
   "metacritic": "78",
@@ -1710,10 +1416,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP1464-CUSA07669_00-FORTNITETESTING1"
 }, {
   "title": "Heavy Rain & Beyond: Two Souls Collection",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00267_00-HRBTSCOLLECTION1"
 }, {
   "title": "RIGS: Mechanized Combat League",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00257_00-RIGS000000000000"
 }, {
   "title": "Heavy Rain",
   "metacritic": "78",
@@ -1731,9 +1439,6 @@
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP4064-CUSA04022_00-WORMSWMD00000000"
 }, {
-  "title": "Life is Strange: Episode 2 - Out of Time",
-  "metacritic": "78"
-}, {
   "title": "Amnesia Collection",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP1188-CUSA05457_00-AMNESIACOLECTION"
@@ -1741,18 +1446,6 @@
   "title": "Darknet",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP1258-CUSA07524_00-4152434849414354"
-}, {
-  "title": "Skylanders Trap Team",
-  "metacritic": "78"
-}, {
-  "title": "Call of Duty: Ghosts",
-  "metacritic": "78"
-}, {
-  "title": "The Banner Saga 2",
-  "metacritic": "78"
-}, {
-  "title": "The Walking Dead: The Telltale Series - The Final Season Episode 3: Broken Toys",
-  "metacritic": "78"
 }, {
   "title": "Little Nightmares",
   "metacritic": "78",
@@ -1767,47 +1460,40 @@
   "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA02646_00-THISWAROFMINEG01"
 }, {
   "title": "Tales From The Borderlands: Episode 4 - Escape Plan Bravo",
-  "metacritic": "78"
-}, {
-  "title": "The Walking Dead: The Telltale Series - The Final Season",
-  "metacritic": "78"
-}, {
-  "title": "ABZU",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA00860_00-TFTBL0000000DLC4"
 }, {
   "title": "Toki Tori 2 +",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP4279-CUSA00274_00-TOKITORI2PLUS000"
-}, {
-  "title": "Life is Strange: Before the Storm - Episode 1: Awake",
-  "metacritic": "78"
 }, {
   "title": "Outlast",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP4467-CUSA00409_00-OUTLAST000000000"
 }, {
   "title": "Call of Duty: Black Ops III - Zombies Chronicles",
-  "metacritic": "78"
-}, {
-  "title": "Everybody's Gone to the Rapture",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP0002-CUSA02624_00-CODBO3ZOMBIESHD1"
 }, {
   "title": "Everybody's Golf",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA02171_00-0011223344556677"
 }, {
   "title": "Teslagrad",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP4513-CUSA01434_00-0000000000000001"
 }, {
   "title": "Dying Light: The Following",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA00050_00-THEFOLLOWING0000"
 }, {
   "title": "Absolute Drift: Zen Edition",
   "metacritic": "78",
   "url": "https://store.playstation.com/en-gb/product/EP2127-CUSA05140_00-ABSOLUTEDRIFTPS4"
 }, {
   "title": "Mutant Mudds: Super Challenge",
-  "metacritic": "78"
+  "metacritic": "78",
+  "url": "https://store.playstation.com/en-gb/product/EP0884-CUSA05123_00-MUTANTMUDDSCEURO"
 }, {
   "title": "Flywrench",
   "metacritic": "78",
@@ -1837,12 +1523,6 @@
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/EP2377-CUSA05308_00-EDBASEGAME000000"
 }, {
-  "title": "Game of Thrones: Episode One - Iron From Ice",
-  "metacritic": "77"
-}, {
-  "title": "Linelight",
-  "metacritic": "77"
-}, {
   "title": "Horizon Chase Turbo",
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/EP0040-CUSA11452_00-HORIZONTURBOGAME"
@@ -1863,9 +1543,6 @@
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA04944_00-PACMANCE20000000"
 }, {
-  "title": "Life is Strange: Before the Storm - Episode 3: Hell is Empty",
-  "metacritic": "77"
-}, {
   "title": "Street Fighter V",
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA01222_00-SF5FULLGAME00000"
@@ -1875,25 +1552,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP0188-CUSA08514_00-MIRRIMGAMEPS4000"
 }, {
   "title": "Shu",
-  "metacritic": "77"
-}, {
-  "title": "Virginia",
-  "metacritic": "77"
-}, {
-  "title": "Dragon Quest Heroes: The World Tree's Woe and the Blight Below",
-  "metacritic": "77"
-}, {
-  "title": "Kerbal Space Program",
-  "metacritic": "77"
+  "metacritic": "77",
+  "url": "https://store.playstation.com/en-gb/product/EP8936-CUSA04583_00-SHUXBUYBUNDLE000"
 }, {
   "title": "Final Fantasy XV: Royal Edition",
-  "metacritic": "77"
+  "metacritic": "77",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA01615_00-FFXVROYALEDITION"
 }, {
   "title": "Life is Strange: Before the Storm",
-  "metacritic": "77"
-}, {
-  "title": "Little Red Lie",
-  "metacritic": "77"
+  "metacritic": "77",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA08487_00-DAWN000000000000"
 }, {
   "title": "Valiant Hearts: The Great War",
   "metacritic": "77",
@@ -1904,7 +1572,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0290-CUSA05968_00-PAGODA0000000000"
 }, {
   "title": "King's Quest Chapter 1: A Knight to Remember",
-  "metacritic": "77"
+  "metacritic": "77",
+  "url": "https://store.playstation.com/en-gb/product/EP0002-CUSA02014_00-KINGSQUESTCHAPT1"
 }, {
   "title": "World of Final Fantasy",
   "metacritic": "77",
@@ -1919,41 +1588,44 @@
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA10416_00-COLDWOODPIKE0000"
 }, {
   "title": "Hitman GO: Definitive Edition",
-  "metacritic": "77"
+  "metacritic": "77",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA04117_00-HITMANGOCROSSBUY"
 }, {
   "title": "Mega Man Legacy Collection",
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA08259_00-RCC2000000000001"
 }, {
   "title": "The Lost Bear",
-  "metacritic": "77"
+  "metacritic": "77",
+  "url": "https://store.playstation.com/en-gb/product/EP1731-CUSA04537_00-1234567890123456"
 }, {
   "title": "20XX",
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/EP0257-CUSA11120_00-20XX000000000000"
-}, {
-  "title": "Transformers: Devastation",
-  "metacritic": "77"
 }, {
   "title": "LEGO City Undercover",
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA06511_00-LEGOCITYUNDERCOV"
 }, {
   "title": "Xeodrifter",
-  "metacritic": "77"
+  "metacritic": "77",
+  "url": "https://store.playstation.com/en-gb/product/EP8909-CUSA02514_00-XEOCROSSBUYSCEEE"
 }, {
   "title": "Game of Thrones: Episode Five - A Nest of Vipers",
-  "metacritic": "77"
+  "metacritic": "77",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA01427_00-GOT000000000DLC5"
 }, {
   "title": "The Elder Scrolls V: Skyrim VR",
-  "metacritic": "77"
+  "metacritic": "77",
+  "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA08933_00-SKYRIMVR00000000"
 }, {
   "title": "The Playroom VR",
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/IP9100-CUSA04318_00-EU00000000000000"
 }, {
   "title": "Call of Duty: Infinite Warfare",
-  "metacritic": "77"
+  "metacritic": "77",
+  "url": "https://store.playstation.com/en-gb/product/EP0002-CUSA05282_00-CODIWPREORDER001"
 }, {
   "title": "Lost Orbit",
   "metacritic": "77",
@@ -1965,7 +1637,7 @@
 }, {
   "title": "Sniper Elite 4",
   "metacritic": "77",
-  "url": "https://store.playstation.com/en-gb/product/EP4040-CUSA00286_00-SNIPERELITE30000"
+  "url": "https://store.playstation.com/en-gb/product/EP4529-CUSA04099_00-SNIPERELITE40000"
 }, {
   "title": "The Sexy Brutale",
   "metacritic": "77",
@@ -1979,15 +1651,9 @@
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/EP1470-CUSA06702_00-DOTEMUYSORIGIN01"
 }, {
-  "title": "Resident Evil: Revelations 2 - Episode 3: Judgment",
-  "metacritic": "77"
-}, {
   "title": "Sleeping Dogs: Definitive Edition",
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA01004_00-0000SLEEPINGDOGS"
-}, {
-  "title": "Hitman - Intro Pack",
-  "metacritic": "77"
 }, {
   "title": "Headlander",
   "metacritic": "77",
@@ -1997,18 +1663,13 @@
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/EP4108-CUSA05719_00-TOUKIDEN20000000"
 }, {
-  "title": "Batman: The Enemy Within - Episode 4: What Ails You",
-  "metacritic": "77"
-}, {
-  "title": "Stellaris: Console Edition",
-  "metacritic": "77"
-}, {
   "title": "Hue",
-  "metacritic": "77"
+  "metacritic": "77",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA05065_00-HUESIEECROSSBUY0"
 }, {
   "title": "Just Dance 2019",
   "metacritic": "77",
-  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA04716_00-JD2017PS4SCEE000"
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA12549_00-JD2019PS4SIEE000"
 }, {
   "title": "Furi",
   "metacritic": "77",
@@ -2026,15 +1687,13 @@
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/EP1001-CUSA12320_00-WWE2K19000000000"
 }, {
-  "title": "DG2: Defense Grid 2",
-  "metacritic": "77"
-}, {
   "title": "Aaero",
   "metacritic": "77",
   "url": "https://store.playstation.com/en-gb/product/EP1675-CUSA10476_00-AAERO11MFVERSION"
 }, {
   "title": "Electronauts",
-  "metacritic": "77"
+  "metacritic": "77",
+  "url": "https://store.playstation.com/en-gb/product/EP2147-CUSA11546_00-EN1RELEASE000001"
 }, {
   "title": "The Disney Afternoon Collection",
   "metacritic": "76",
@@ -2045,7 +1704,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4365-CUSA01123_00-00000000TROPICO5"
 }, {
   "title": "Blasters of the Universe",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP1258-CUSA10275_00-4152434849414354"
 }, {
   "title": "War Thunder",
   "metacritic": "76",
@@ -2055,36 +1715,29 @@
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA05787_00-KINGDOMHEARTSX28"
 }, {
-  "title": "Destiny",
-  "metacritic": "76"
-}, {
   "title": "BlazBlue: Cross Tag Battle",
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA12009_00-BBTAGPS400001000"
 }, {
-  "title": "Dragon Quest Heroes II",
-  "metacritic": "76"
-}, {
   "title": "Pode",
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP5397-CUSA14851_00-PODEGAMEPS400000"
-}, {
-  "title": "Q.U.B.E. Director's Cut",
-  "metacritic": "76"
 }, {
   "title": "Torment: Tides of Numenera",
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP2911-CUSA05827_00-TORMENTTONGAME00"
 }, {
   "title": "Cosmic Star Heroine",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP0704-CUSA08322_00-ZEBOYDCROSB00001"
 }, {
   "title": "Apotheon",
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP4525-CUSA01366_00-00APOTHEONFORPS4"
 }, {
   "title": "Super Mega Baseball 2",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP0855-CUSA11694_00-SMB2GAME00000000"
 }, {
   "title": "Chariot",
   "metacritic": "76",
@@ -2095,7 +1748,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4833-CUSA04682_00-QUBE2PS4SUBMIT16"
 }, {
   "title": "2064: Read Only Memories",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP0433-CUSA06174_00-READONLYCROSSBUY"
 }, {
   "title": "Tethered",
   "metacritic": "76",
@@ -2110,10 +1764,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP4064-CUSA06244_00-THEESCAPISTS2000"
 }, {
   "title": "10 Second Ninja X",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA04692_00-10SECNINJACROSSB"
 }, {
   "title": "Race the Sun",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP2127-CUSA01129_00-RACETHESUNCROSSB"
 }, {
   "title": "L.A. Noire",
   "metacritic": "76",
@@ -2124,10 +1780,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP1302-CUSA05168_00-NEUROVOIDERPS4EU"
 }, {
   "title": "Werewolves Within",
-  "metacritic": "76"
-}, {
-  "title": "Call of Duty: Infinite Warfare - Sabotage",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA05287_00-WEREWOLVSWTHIN01"
 }, {
   "title": "Chaos;Child",
   "metacritic": "76",
@@ -2142,17 +1796,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP0196-CUSA10396_00-0000000000000000"
 }, {
   "title": "The Elder Scrolls Online: Summerset",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA00086_00-SUMSET0000000000"
 }, {
   "title": "Candleman: The Complete Journey",
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP4752-CUSA13401_00-ZODIACSIEEPS4001"
 }, {
   "title": "Assassin's Creed Syndicate",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA02376_00-ACVPOSTSTANDEURP"
 }, {
   "title": "WindJammers",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP1470-CUSA06173_00-DOTEMUWJCROSSBUY"
 }, {
   "title": "Masquerada: Songs and Shadows",
   "metacritic": "76",
@@ -2163,7 +1820,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA01604_00-WOLFENSTEINBLOOD"
 }, {
   "title": "Nioh: Dragon of the North",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA07123_00-NIOHSTORYDLC1001"
 }, {
   "title": "Flinthook",
   "metacritic": "76",
@@ -2174,7 +1832,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0122-CUSA05684_00-MOMODORA0000EU00"
 }, {
   "title": "Minutes",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP4477-CUSA00742_00-MINUTESEUCBV4000"
 }, {
   "title": "The Golf Club 2",
   "metacritic": "76",
@@ -2187,9 +1846,6 @@
   "title": "Expand",
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP3736-CUSA09578_00-EXPANDPS4EU00001"
-}, {
-  "title": "LawBreakers",
-  "metacritic": "76"
 }, {
   "title": "Far Cry Primal",
   "metacritic": "76",
@@ -2211,39 +1867,29 @@
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP4108-CUSA00783_00-HGEXEC0000000000"
 }, {
-  "title": "Klaus",
-  "metacritic": "76"
-}, {
   "title": "Heart&Slash",
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP1160-CUSA04531_00-0000000000000000"
-}, {
-  "title": "Marvel's Spider-Man: The Heist",
-  "metacritic": "76"
 }, {
   "title": "Victor Vran: Overkill Edition",
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP1195-CUSA06253_00-VICTORVRANCE0000"
 }, {
   "title": "The Flame in the Flood: Complete Edition",
-  "metacritic": "76"
-}, {
-  "title": "The Walking Dead: Michonne - Episode 3: What We Deserve",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA07173_00-FLAMEFLOODBUNDLE"
 }, {
   "title": "JYDGE",
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP4403-CUSA08646_00-JYDGE00000000000"
-}, {
-  "title": "Evolve",
-  "metacritic": "76"
 }, {
   "title": "Battlestar Galactica Deadlock",
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP4136-CUSA07063_00-BSGDEADLOCK00001"
 }, {
   "title": "Full Throttle Remastered",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP2154-CUSA06701_00-FULLTHROTTLECRBY"
 }, {
   "title": "The Magic Circle: Gold Edition",
   "metacritic": "76",
@@ -2254,17 +1900,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP4116-CUSA00786_00-DBC1400000000000"
 }, {
   "title": "Evasion",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP1258-CUSA12202_00-4152434849414354"
 }, {
   "title": "Firewatch",
   "metacritic": "76",
   "url": "https://store.playstation.com/en-gb/product/EP0144-CUSA04118_00-FIREWATCH0000000"
 }, {
-  "title": "Watch Dogs: Bad Blood",
-  "metacritic": "76"
-}, {
   "title": "BADLAND: Game of the Year Edition",
-  "metacritic": "76"
+  "metacritic": "76",
+  "url": "https://store.playstation.com/en-gb/product/EP4530-CUSA01294_00-GOTYEDITIOBUNDLE"
 }, {
   "title": ".hack//G.U. Last Recode",
   "metacritic": "76",
@@ -2290,9 +1935,6 @@
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA01708_00-MAINRDOBXXXX0000"
 }, {
-  "title": "DOOM: Unto The Evil",
-  "metacritic": "75"
-}, {
   "title": "Iron Crypticle",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP4501-CUSA07110_00-IRONFISTRE000000"
@@ -2301,24 +1943,13 @@
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP8938-CUSA05437_00-STRIKEVECTOREX01"
 }, {
-  "title": "Resident Evil 7: biohazard - Banned Footage Vol. 1",
-  "metacritic": "75"
-}, {
-  "title": "The Awesome Adventures of Captain Spirit",
-  "metacritic": "75"
-}, {
   "title": "SUPERHOT VR",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP2477-CUSA08165_00-EUSUPERHOTVRGAME"
 }, {
   "title": "Plants vs Zombies: Garden Warfare",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA00485_00-PVZGWPS400000000"
-}, {
-  "title": "NHL 18",
-  "metacritic": "75"
-}, {
-  "title": "Resident Evil 7: biohazard - End of Zoe",
-  "metacritic": "75"
 }, {
   "title": "Saints Row IV: Re-Elected",
   "metacritic": "75",
@@ -2329,30 +1960,24 @@
   "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA08367_00-JD2018PS4SIEE000"
 }, {
   "title": "EA Sports UFC 3",
-  "metacritic": "75"
-}, {
-  "title": "The Walking Dead: The Telltale Series - The Final Season Episode 1: Done Running",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA06534_00-EASPORTSUFC3GAME"
 }, {
   "title": "Hohokum",
-  "metacritic": "75"
-}, {
-  "title": "Sega Genesis Classics",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00143_00-HOHOKUM000XBBNDL"
 }, {
   "title": "Killing Floor 2",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP0114-CUSA05179_00-KFGAME0000000001"
 }, {
   "title": "Deus Ex: Mankind Divided - System Rift",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA01836_00-DLC0100000000001"
 }, {
   "title": "ETHER One",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP0947-CUSA02502_00-ETHERONEGAMEPS4E"
-}, {
-  "title": "The Elder Scrolls Online: Tamriel Unlimited - Thieves Guild",
-  "metacritic": "75"
 }, {
   "title": "The Golf Club 2019 featuring PGA Tour",
   "metacritic": "75",
@@ -2366,15 +1991,6 @@
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP0101-CUSA00211_00-MAINGAME00000000"
 }, {
-  "title": "Hitman - Episode 3: Marrakesh",
-  "metacritic": "75"
-}, {
-  "title": "Typoman: Revised",
-  "metacritic": "75"
-}, {
-  "title": "Resident Evil: Revelations 2 - Episode 2: Contemplation",
-  "metacritic": "75"
-}, {
   "title": "Donut County",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP2333-CUSA10029_00-DONUTSIEE0000000"
@@ -2382,9 +1998,6 @@
   "title": "Battle Chasers: Nightwar",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP4389-CUSA06673_00-BATTLECHASERSEU0"
-}, {
-  "title": "Digimon Story Cyber Sleuth",
-  "metacritic": "75"
 }, {
   "title": "Tempest 4000",
   "metacritic": "75",
@@ -2399,7 +2012,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP9001-CUSA02168_00-GTSPORT000000000"
 }, {
   "title": "Fallout 4: Far Harbor",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA02961_00-FALLOUT4DLC00003"
 }, {
   "title": "Stikbold! A Dodgeball Adventure",
   "metacritic": "75",
@@ -2413,25 +2027,21 @@
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP4108-CUSA05034_00-SOPHIE00MASTER00"
 }, {
-  "title": "Life is Strange: Episode 1 - Chrysalis",
-  "metacritic": "75"
-}, {
   "title": "Just Dance 2014",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA00189_00-JUSTDANCE2014EEE"
 }, {
   "title": "Rollers of the Realm",
-  "metacritic": "75"
-}, {
-  "title": "Yu-Gi-Oh! Legacy of the Duelist",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP0005-CUSA01209_00-ROLLERSCROSSBUY0"
 }, {
   "title": "Organic Panic",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP0405-CUSA03944_00-ORGANICPANICGAME"
 }, {
   "title": "Dreii",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP4195-CUSA03403_00-3000000000000001"
 }, {
   "title": "Emily Wants To Play",
   "metacritic": "75",
@@ -2462,10 +2072,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA10766_00-THECOUNCILEPISO1"
 }, {
   "title": "The Council - Episode 4: Burning Bridges",
-  "metacritic": "75"
-}, {
-  "title": "Steep: The X Games Pass",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA10766_00-THECOUNCILEPISO4"
 }, {
   "title": "Last Day of June",
   "metacritic": "75",
@@ -2508,50 +2116,44 @@
   "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA00375_00-THEEVILWITHINROW"
 }, {
   "title": "Scintillatron 4096",
-  "metacritic": "75"
-}, {
-  "title": "The Elder Scrolls Online: Morrowind",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP5148-CUSA12577_00-000SCINTILLATRON"
 }, {
   "title": "RIVE",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP4279-CUSA03675_00-RIVEPS4000000000"
 }, {
   "title": "Resident Evil: Revelations 2 - Episode 1: Penal Colony",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA00804_00-BHR2HGTRIALPS401"
 }, {
   "title": "Valentino Rossi The Game",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP4356-CUSA05164_00-MOTOGPVR46FGAME0"
 }, {
   "title": "Persona Dancing: Endless Night Collection",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP2475-CUSA12813_00-PDANENDLESSNIGHT"
 }, {
   "title": "Star Trek: Bridge Crew",
-  "metacritic": "75"
-}, {
-  "title": "Attack on Titan 2",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA05761_00-STARTREKBRGCRW01"
 }, {
   "title": "Tokyo Xanadu eX+",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP1024-CUSA06987_00-TOKYOXANADUPS4SP"
 }, {
   "title": "South Park: The Fractured But Whole - Bring the Crunch",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA04323_00-SPTFBWDLC3000000"
 }, {
   "title": "Push Me Pull You",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP1649-CUSA04502_00-00000000PMPYSCEE"
 }, {
-  "title": "Game of Thrones: Episode Six - The Ice Dragon",
-  "metacritic": "75"
-}, {
   "title": "Hotline Miami 2: Wrong Number",
-  "metacritic": "75"
-}, {
-  "title": "Call of Duty: Infinite Warfare - Continuum",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP3643-CUSA00371_00-HLM2SCEECROSSBUY"
 }, {
   "title": "Slayaway Camp: Butcher's Cut",
   "metacritic": "75",
@@ -2561,29 +2163,13 @@
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP4064-CUSA10908_00-MYTIMEATPORTIA00"
 }, {
-  "title": "The Evil Within: The Consequence",
-  "metacritic": "75"
-}, {
-  "title": "The Walking Dead: The Telltale Series - The Final Season Episode 4: Take Us Back",
-  "metacritic": "75"
-}, {
-  "title": "Marvel's Spider-Man: Silver Lining",
-  "metacritic": "75"
-}, {
   "title": "Shenmue I & II",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP0177-CUSA08355_00-SHENMUE12BUNDLE0"
 }, {
   "title": "Unmechanical: Extended Edition",
-  "metacritic": "75"
-}, {
-  "title": "Resident Evil: Revelations 2 - Episode 4: Metamorphosis",
-  "metacritic": "75"
-}, {
-  "title": "DC Universe Online",
-  "metacritic": "75"
-}, {
-  "title": "Resident Evil: Revelations 2",
-  "metacritic": "75"
+  "metacritic": "75",
+  "url": "https://store.playstation.com/en-gb/product/EP4151-CUSA01198_00-UNMECHCROSSBUY00"
 }, {
   "title": "Cryptark",
   "metacritic": "75",
@@ -2592,9 +2178,6 @@
   "title": "Reus",
   "metacritic": "75",
   "url": "https://store.playstation.com/en-gb/product/EP4541-CUSA04667_00-REUSPS4000000000"
-}, {
-  "title": "Dead or Alive 5: Last Round",
-  "metacritic": "74"
 }, {
   "title": "The Gardens Between",
   "metacritic": "74",
@@ -2609,7 +2192,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA00806_00-LARACROFT2OSIRIS"
 }, {
   "title": "Batman: Arkham VR",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA05340_00-ARKHAMVRLT000000"
 }, {
   "title": "Dead Nation: Apocalypse Edition",
   "metacritic": "74",
@@ -2618,9 +2202,6 @@
   "title": "LEGO DC Super-Villains",
   "metacritic": "74",
   "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA11550_00-LEGODCVILLAINS00"
-}, {
-  "title": "Call of Duty: Black Ops III - Eclipse",
-  "metacritic": "74"
 }, {
   "title": "Awesomenauts Assemble!",
   "metacritic": "74",
@@ -2631,7 +2212,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0671-CUSA03885_00-0ADVENTURESOFPIP"
 }, {
   "title": "SuperHyperCube",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP4427-CUSA05331_00-SUPERHYPERCUBE01"
 }, {
   "title": "CastleStorm: Definitive Edition",
   "metacritic": "74",
@@ -2642,16 +2224,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP4501-CUSA01120_00-BUNDROCKBOSHDCUT"
 }, {
   "title": "Far Cry 4: Valley of the Yetis",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA00462_00-YETIHUNTERSDLC00"
 }, {
   "title": "Stealth Inc 2: A Game of Clones",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA01431_00-STEALTHINCBUNDLE"
 }, {
   "title": "Sniper Elite III: Ultimate Edition",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP4040-CUSA01796_00-SNIPERELITE30000"
 }, {
   "title": "Trials Fusion: Awesome Level Max",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA00230_00-TFS0DLC07LIDMKL1"
 }, {
   "title": "Neverwinter",
   "metacritic": "74",
@@ -2662,10 +2248,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA09757_00-MASTEROFANIMAPS4"
 }, {
   "title": "Madden NFL 25",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA00088_00-MADDENNFL25GAME1"
 }, {
   "title": "Outlast: Whistleblower",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP4467-CUSA00409_00-OUTLASTDLC000000"
 }, {
   "title": "Omensight",
   "metacritic": "74",
@@ -2700,26 +2288,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP1875-CUSA04497_00-LAYERSOFFEAR0000"
 }, {
   "title": "Titan Attacks!",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-NPEJ00335_00-B000000000001159"
 }, {
   "title": "Aqua Kitty: Milk Mine Defender DX",
-  "metacritic": "74"
-}, {
-  "title": "Splice",
-  "metacritic": "74"
-}, {
-  "title": "Pinball FX 2: Star Wars Pinball - Rogue One",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP4501-CUSA01096_00-CROSSAQUAKITTYDX"
 }, {
   "title": "The Jackbox Party Pack 4",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP8915-CUSA08512_00-JBGPARTYPACK4PS4"
 }, {
   "title": "ChromaGun",
   "metacritic": "74",
   "url": "https://store.playstation.com/en-gb/product/EP1141-CUSA04908_00-CHROMAGUNPS40000"
-}, {
-  "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
-  "metacritic": "74"
 }, {
   "title": "Toukiden: Kiwami",
   "metacritic": "74",
@@ -2732,9 +2314,6 @@
   "title": "One Piece: Pirate Warriors 3",
   "metacritic": "74",
   "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA01742_00-PROJECTOP3EU0000"
-}, {
-  "title": "Call of Duty: Black Ops III - Awakening",
-  "metacritic": "74"
 }, {
   "title": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
   "metacritic": "74",
@@ -2765,10 +2344,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP4179-CUSA09421_00-SKYFORCERELOADED"
 }, {
   "title": "Extreme Exorcism",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP4337-CUSA01869_00-EECROSSBUY000001"
 }, {
   "title": "Call of Duty: Black Ops III - Salvation",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP0002-CUSA02624_00-BLACKOPS3MAPPAK4"
 }, {
   "title": "Her Majesty's SPIFFING",
   "metacritic": "74",
@@ -2782,20 +2363,13 @@
   "metacritic": "74",
   "url": "https://store.playstation.com/en-gb/product/EP1014-CUSA05585_00-NATPWILDGUNS0001"
 }, {
-  "title": "Attack on Titan",
-  "metacritic": "74"
-}, {
-  "title": "Scram Kitty DX",
-  "metacritic": "74"
-}, {
   "title": "The Surge: A Walk in the Park",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA04849_00-THESURGECREOPARK"
 }, {
   "title": "Space Pirate Trainer",
-  "metacritic": "74"
-}, {
-  "title": "Life is Strange 2: Episode 3 - Wastelands",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP4528-CUSA12900_00-SPTRELEASE000100"
 }, {
   "title": "Puyo Puyo Champions",
   "metacritic": "74",
@@ -2810,56 +2384,44 @@
   "url": "https://store.playstation.com/en-gb/product/EP4108-CUSA07581_00-FIRISMASTER00000"
 }, {
   "title": "Batman: The Telltale Series - Episode 3: New World Order",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA05603_00-BATM000000000EP3"
 }, {
   "title": "Shantae: Risky's Revenge - Director's Cut",
   "metacritic": "74",
   "url": "https://store.playstation.com/en-gb/product/EP8916-CUSA02811_00-RISKYSREVENGEPAK"
 }, {
   "title": "Neverending Nightmares",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP0355-CUSA04310_00-CROSSBUYNEVEREND"
 }, {
   "title": "Sparc",
-  "metacritic": "74"
-}, {
-  "title": "The Swords of Ditto",
-  "metacritic": "74"
-}, {
-  "title": "The Elder Scrolls Online: Tamriel Unlimited",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP5018-CUSA09053_00-SPARC00000000000"
 }, {
   "title": "Armello",
-  "metacritic": "74"
+  "metacritic": "74",
+  "url": "https://store.playstation.com/en-gb/product/EP1111-CUSA03287_00-00ARMELLOONESCEE"
 }, {
   "title": "Cat Quest",
   "metacritic": "74",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA09499_00-0000000000000000"
 }, {
-  "title": "Accounting+",
-  "metacritic": "74"
-}, {
   "title": "Batman: The Telltale Series - Episode 4: Guardian of Gotham",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA05603_00-BATM000000000EP4"
 }, {
   "title": "Sherlock Holmes: Crimes & Punishments",
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA00469_00-SH7CRIMESANDPUNI"
 }, {
-  "title": "NBA Live 19",
-  "metacritic": "73"
-}, {
   "title": "Killzone: Shadow Fall",
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00008_00-KZ4RELEASE000041"
 }, {
-  "title": "Battlefield Hardline",
-  "metacritic": "73"
-}, {
-  "title": "Letter Quest: Grimm's Journey Remastered",
-  "metacritic": "73"
-}, {
   "title": "Just Dance 2017",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA04716_00-JD2017PS4SCEE000"
 }, {
   "title": "Battlefield V",
   "metacritic": "73",
@@ -2870,19 +2432,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP8909-CUSA11649_00-PHANTOMDOCTRINE0"
 }, {
   "title": "Just Dance 2016",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA02315_00-JD1601MONTHFREEE"
 }, {
   "title": "Assassin's Creed Origins: The Hidden Ones",
-  "metacritic": "73"
-}, {
-  "title": "Life is Strange 2: Episode 2 - Rules",
-  "metacritic": "73"
-}, {
-  "title": "Pure Hold 'Em",
-  "metacritic": "73"
-}, {
-  "title": "Call of Duty: WWII - The War Machine",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA05625_00-DLCEXPENSIONS001"
 }, {
   "title": "Project Nimbus: Code Mirai",
   "metacritic": "73",
@@ -2897,7 +2452,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00153_00-ESCPGAMEMASTEREU"
 }, {
   "title": "Titan Souls",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP3643-CUSA01699_00-TITANSEUCROSSBUY"
 }, {
   "title": "Shio",
   "metacritic": "73",
@@ -2916,51 +2472,52 @@
   "url": "https://store.playstation.com/en-gb/product/EP4513-CUSA06930_00-WORLDTOTHEWEST01"
 }, {
   "title": "The Swindle",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA02311_00-THESWINDLECROSSB"
 }, {
   "title": "Action Henk",
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA02910_00-ACTIONHENKPS4000"
 }, {
   "title": "Batman: Return to Arkham",
-  "metacritic": "73"
-}, {
-  "title": "Never Alone",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA04607_00-RETURNTOARKHAM00"
 }, {
   "title": "Just Cause 3",
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA02747_00-JUSTCAUSE3EU0000"
 }, {
-  "title": "The Crew: Wild Run",
-  "metacritic": "73"
-}, {
   "title": "MotoGP 14",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP4356-CUSA00318_00-MOTOGP1400000000"
 }, {
   "title": "Futuridium EP Deluxe",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP4487-CUSA00702_00-FUTURIDIUMEPDCRB"
 }, {
   "title": "Stories: The Path of Destinies",
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP8933-CUSA04104_00-STORIESGAME00001"
 }, {
   "title": "NOVA-111",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA02348_00-NOVA111CROSSBUY0"
 }, {
   "title": "Mother Russia Bleeds",
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP3643-CUSA05649_00-0000000000000000"
 }, {
   "title": "Minecraft: Story Mode - Episode 3: The Last Place You Look",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA02463_00-MSM0000000000EP3"
 }, {
   "title": "Mages of Mystralia",
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP1697-CUSA08412_00-0000000000000001"
 }, {
   "title": "No Heroes Allowed! VR",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA08748_00-VRPG0000000000EU"
 }, {
   "title": "Strange Brigade",
   "metacritic": "73",
@@ -2983,20 +2540,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP1001-CUSA13619_00-0000000000000001"
 }, {
   "title": "Game of Thrones: Episode Four - Sons of Winter",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA01427_00-GOT000000000DLC4"
 }, {
   "title": "Eagle Flight",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA04876_00-EAGLEFLIGHTGAME0"
 }, {
   "title": "Demon Gaze II",
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP1063-CUSA09283_00-DEMONGAZEPS42017"
-}, {
-  "title": "WWE 2K16",
-  "metacritic": "73"
-}, {
-  "title": "Fighting EX Layer",
-  "metacritic": "73"
 }, {
   "title": "Aven Colony",
   "metacritic": "73",
@@ -3011,14 +2564,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP4122-CUSA02094_00-VERMINTIDE000001"
 }, {
   "title": "The Surge",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA04849_00-THESURGEPS4SGAME"
 }, {
   "title": "Assetto Corsa",
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP4040-CUSA01797_00-ASSETTOCORSAXXXX"
-}, {
-  "title": "The Walking Dead: The Telltale Series - A New Frontier",
-  "metacritic": "73"
 }, {
   "title": "Yesterday Origins",
   "metacritic": "73",
@@ -3040,15 +2591,9 @@
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP1063-CUSA06741_00-CLASSICDUNGEON03"
 }, {
-  "title": "Maldita Castilla EX: Cursed Castilla",
-  "metacritic": "73"
-}, {
   "title": "inFamous: First Light",
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00897_00-FIRSTLIGHTSHIP00"
-}, {
-  "title": "The Council",
-  "metacritic": "73"
 }, {
   "title": "LEGO Harry Potter Collection",
   "metacritic": "73",
@@ -3059,10 +2604,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP1621-CUSA07811_00-0000000000000000"
 }, {
   "title": "Creed: Rise to Glory",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP2147-CUSA13482_00-CR1RELEASE000001"
 }, {
   "title": "Star Wars Battlefront",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA05749_00-BATTLEFRONTII000"
 }, {
   "title": "Wizard of Legend",
   "metacritic": "73",
@@ -3076,9 +2623,6 @@
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA09923_00-DSHACKERSMEMORY1"
 }, {
-  "title": "Tom Clancy's Rainbow Six Siege",
-  "metacritic": "73"
-}, {
   "title": "Kick & Fennick",
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP4126-CUSA03859_00-KICKANDFENNIC000"
@@ -3087,11 +2631,9 @@
   "metacritic": "73",
   "url": "https://store.playstation.com/en-gb/product/EP0822-CUSA07222_00-INNERWDPS4SIEE00"
 }, {
-  "title": "Minecraft: Story Mode Season Two - Episode 2: Giant Consequences",
-  "metacritic": "73"
-}, {
   "title": "Sneaky Bears",
-  "metacritic": "73"
+  "metacritic": "73",
+  "url": "https://store.playstation.com/en-gb/product/EP3061-CUSA09093_00-0000000000000000"
 }, {
   "title": "Detective Gallo",
   "metacritic": "73",
@@ -3114,10 +2656,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP3617-CUSA14971_00-ZANKIZEROPS40000"
 }, {
   "title": "Headmaster",
-  "metacritic": "72"
-}, {
-  "title": "Destiny: House of Wolves",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP0944-CUSA06297_00-HEADMASTER100000"
 }, {
   "title": "Beyond: Two Souls",
   "metacritic": "72",
@@ -3128,7 +2668,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4456-CUSA02500_00-BROKENSWORD5CEUR"
 }, {
   "title": "Hatoful Boyfriend",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP3643-CUSA01918_00-HATOFULBOYFNDPS4"
 }, {
   "title": "Tricky Towers",
   "metacritic": "72",
@@ -3138,22 +2679,17 @@
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA00937_00-DISCONLYPARENT00"
 }, {
-  "title": "CastleStorm: Virtual Reality",
-  "metacritic": "72"
-}, {
   "title": "Monster Energy Supercross: The Official Videogame 2",
   "metacritic": "72",
-  "url": "https://store.playstation.com/en-gb/product/EP4356-CUSA09837_00-SUPERCROSSFULLGM"
+  "url": "https://store.playstation.com/en-gb/product/EP4356-CUSA13214_00-SUPERCROSS2FGAME"
 }, {
   "title": "Wayward Sky",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP0123-CUSA06309_00-WAYWARDSKY100000"
 }, {
   "title": "Cars 3: Driven to Win",
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA07027_00-DISNEYPIXARCARS3"
-}, {
-  "title": "Tales of Zestiria",
-  "metacritic": "72"
 }, {
   "title": "Just Dance 2015",
   "metacritic": "72",
@@ -3167,12 +2703,6 @@
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP1052-CUSA08206_00-SENKONORONDE2000"
 }, {
-  "title": "Killzone: Shadow Fall - Intercept",
-  "metacritic": "72"
-}, {
-  "title": "The Elder Scrolls Online: Tamriel Unlimited - Orsinium",
-  "metacritic": "72"
-}, {
   "title": "Shadows: Awakening",
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP4365-CUSA10346_00-SHADOWSAWAKENING"
@@ -3184,9 +2714,6 @@
   "title": "Silence",
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP8923-CUSA03174_00-DAEDASILENCE0001"
-}, {
-  "title": "NBA Live 18",
-  "metacritic": "72"
 }, {
   "title": "The Adventure Pals",
   "metacritic": "72",
@@ -3220,9 +2747,6 @@
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP4538-CUSA04790_00-2ALONEWITHYOUPS4"
 }, {
-  "title": "LEGO The Hobbit",
-  "metacritic": "72"
-}, {
   "title": "Peggle 2",
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA00743_00-EAPOPCAPPEGGLE02"
@@ -3232,27 +2756,24 @@
   "url": "https://store.playstation.com/en-gb/product/EP0745-CUSA02665_00-PBBG0APPLICATION"
 }, {
   "title": "Just Cause 3: Sky Fortress",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA02747_00-JC3AIRPACK000001"
 }, {
   "title": "Minecraft: Story Mode - Episode 5: Order Up!",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA02463_00-MSM0000000000EP5"
 }, {
   "title": "Psycho-Pass: Mandatory Happiness",
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP1063-CUSA05261_00-PSYCHOPASSPS4000"
 }, {
-  "title": "UEFA EURO 2016",
-  "metacritic": "72"
-}, {
   "title": "Dreadnought",
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP2211-CUSA06361_00-DREADNOUGHTEU001"
 }, {
-  "title": "Star Ocean 3: Till the End of Time",
-  "metacritic": "72"
-}, {
   "title": "Tiny Trax",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP4143-CUSA06042_00-FLTINYTRAXPSVREU"
 }, {
   "title": "Comet Crash 2: The Kronkoid Wars",
   "metacritic": "72",
@@ -3263,24 +2784,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP4389-CUSA08953_00-THERAVENEU000001"
 }, {
   "title": "Mutant Football League: Dynasty Edition",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP1082-CUSA11097_00-DYNASTYEDITIONV2"
 }, {
   "title": "Vaporum",
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP1121-CUSA14436_00-VAPORUM000000001"
 }, {
   "title": "Apex Construct",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP2907-CUSA08702_00-0000000000000000"
 }, {
   "title": "Valley",
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP8003-CUSA02810_00-VALLEYEXPERIENCE"
-}, {
-  "title": "Marvel's Guardians of the Galaxy - Episode 1: Tangled Up in Blue",
-  "metacritic": "72"
-}, {
-  "title": "Patapon",
-  "metacritic": "72"
 }, {
   "title": "STAY",
   "metacritic": "72",
@@ -3291,7 +2808,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA09176_00-DAYSGONECOMPLETE"
 }, {
   "title": "Destiny: Rise of Iron",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP0002-CUSA00568_00-DESTINYRISEIRON1"
 }, {
   "title": "Blood Bowl 2",
   "metacritic": "72",
@@ -3301,15 +2819,13 @@
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP1693-CUSA07619_00-0123456789ABCDEF"
 }, {
-  "title": "Marvel's Guardians of the Galaxy - Episode 5: Don't Stop Believin'",
-  "metacritic": "72"
-}, {
   "title": "Warriors Orochi 4",
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP4108-CUSA12641_00-NAGAGAMEEP000000"
 }, {
   "title": "Disc Jam",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP1751-CUSA07970_00-HIGHHORSEDISCJAM"
 }, {
   "title": "Fist of the North Star: Lost Paradise",
   "metacritic": "72",
@@ -3324,16 +2840,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA08112_00-SERIALCLEANEREUX"
 }, {
   "title": "Rogue Aces",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA02886_00-ROGUEACESCROSSB0"
 }, {
   "title": "Until Dawn: Rush of Blood",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA02350_00-RUSHOFBLOOD00001"
 }, {
   "title": "Minecraft: Story Mode - Episode 4: A Block and a Hard Place",
-  "metacritic": "72"
-}, {
-  "title": "Star Ocean 4: The Last Hope - 4K & Full HD Remaster",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA02463_00-MSM0000000000EP4"
 }, {
   "title": "The Deadly Tower of Monsters",
   "metacritic": "72",
@@ -3347,18 +2863,17 @@
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP3036-CUSA12504_00-EDF5MASTERPKG000"
 }, {
-  "title": "Republique",
-  "metacritic": "72"
-}, {
   "title": "Darksiders II: Deathinitive Edition",
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP4389-CUSA02419_00-DARKSIDERS2PS4E1"
 }, {
   "title": "PlayerUnknown's Battlegrounds",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP5262-CUSA14391_00-PTSBUN0000000000"
 }, {
   "title": "Assassin's Creed Syndicate: Jack the Ripper",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA02376_00-DLCJACKTHERIPPER"
 }, {
   "title": "LOUD on Planet X",
   "metacritic": "72",
@@ -3384,27 +2899,25 @@
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP1302-CUSA11403_00-SHAPEOFTHEWORLD1"
 }, {
-  "title": "Marvel vs. Capcom: Infinite",
-  "metacritic": "72"
-}, {
   "title": "MouseCraft",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-NPEJ00333_00-B000000000001136"
 }, {
   "title": "Dead Rising 4: Frank's Big Package",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA08558_00-DEADRISING4BUNDL"
 }, {
   "title": "Borderlands 2 VR",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP1001-CUSA13946_00-000000000000BLVR"
 }, {
   "title": "Kitty Powers' Matchmaker",
   "metacritic": "72",
   "url": "https://store.playstation.com/en-gb/product/EP2924-CUSA06985_00-KITTYPMATCHMAKER"
 }, {
   "title": "Tembo the Badass Elephant",
-  "metacritic": "72"
-}, {
-  "title": "Metal Gear Solid V: Metal Gear Online",
-  "metacritic": "72"
+  "metacritic": "72",
+  "url": "https://store.playstation.com/en-gb/product/EP0177-CUSA02388_00-TEMBO00000000000"
 }, {
   "title": "Mordheim: City of the Damned",
   "metacritic": "72",
@@ -3418,48 +2931,37 @@
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP3889-CUSA15635_00-OLGFALCONAGE0000"
 }, {
-  "title": "Dead Rising Triple Pack",
-  "metacritic": "71"
-}, {
   "title": "Capcom Beat 'Em Up Bundle",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA11890_00-CSSGCFULLGAME000"
 }, {
-  "title": "Assassin's Creed IV: Black Flag - Freedom Cry",
-  "metacritic": "71"
-}, {
-  "title": "World of Final Fantasy Maxima",
-  "metacritic": "71"
-}, {
   "title": "Bound",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA04380_00-BOUNDGAMEEU00001"
 }, {
   "title": "Steep",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA05526_00-STEEPGAMEEEFIGS1"
 }, {
   "title": "Job Simulator",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP0500-CUSA06311_00-JOBSIMULATOR0001"
 }, {
   "title": "Payday 2: Crimewave Edition",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP4040-CUSA01761_00-PAYDAY2CRIMEWAVE"
-}, {
-  "title": "Penarium",
-  "metacritic": "71"
 }, {
   "title": "Deponia",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP8923-CUSA03770_00-D0001DEPONIA1PS4"
 }, {
   "title": "Riddled Corpses EX",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP1762-CUSA12139_00-RIDDLEDCROSSBUY0"
 }, {
   "title": "Mega Man Legacy Collection 2",
-  "metacritic": "71"
-}, {
-  "title": "Call of Duty: WWII - The Resistance",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA08259_00-RCC2000000000001"
 }, {
   "title": "Loot Rascals",
   "metacritic": "71",
@@ -3468,9 +2970,6 @@
   "title": "Zone of the Enders: The 2nd Runner MARS",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP0101-CUSA10576_00-MAINGAME00000000"
-}, {
-  "title": "Disney Infinity 2.0 Edition",
-  "metacritic": "71"
 }, {
   "title": "Megadimension Neptunia VII",
   "metacritic": "71",
@@ -3481,20 +2980,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP0753-CUSA03646_00-1601197619764444"
 }, {
   "title": "Don't Die, Mr. Robot!",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP4514-CUSA02782_00-DONTDIEMROBOTBUN"
 }, {
   "title": "Binaries",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP8928-CUSA05044_00-BINARIES00000000"
 }, {
-  "title": "The Walking Dead: The Telltale Series - A New Frontier Episode 5: From The Gallows",
-  "metacritic": "71"
-}, {
-  "title": "Pato Box",
-  "metacritic": "71"
-}, {
   "title": "DOOM VFR",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA09090_00-DOOMVFR000000000"
 }, {
   "title": "Blackwood Crossing",
   "metacritic": "71",
@@ -3503,9 +2998,6 @@
   "title": "Far Cry New Dawn",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA13885_00-FARCRYBOWMORE000"
-}, {
-  "title": "Hitman - Episode 4: Bangkok",
-  "metacritic": "71"
 }, {
   "title": "Kona",
   "metacritic": "71",
@@ -3527,9 +3019,6 @@
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA02122_00-LEGOMARVELAVENGE"
 }, {
-  "title": "Death end re;Quest",
-  "metacritic": "71"
-}, {
   "title": "Ultra Street Fighter IV",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA01839_00-USF4DEV00104SCEE"
@@ -3538,23 +3027,21 @@
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP1563-CUSA04811_00-0000000000000001"
 }, {
-  "title": "GRIP: Combat Racing",
-  "metacritic": "71"
-}, {
   "title": "Farpoint",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA04508_00-0000000000000000"
 }, {
   "title": "Croixleur Sigma",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP0122-CUSA02163_00-CROIXLEURCROSS00"
 }, {
   "title": "Tachyon Project",
-  "metacritic": "71"
-}, {
-  "title": "Resident Evil 7: biohazard - Not a Hero",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP1704-CUSA03635_00-TACHYONBUNDLE001"
 }, {
   "title": "Raw Data",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP2147-CUSA09759_00-RD1RELEASE000001"
 }, {
   "title": "God Eater 3",
   "metacritic": "71",
@@ -3588,11 +3075,9 @@
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP0031-CUSA07998_00-CYONMEGAMIONLINE"
 }, {
-  "title": "Dark Souls III: Ashes of Ariandel",
-  "metacritic": "71"
-}, {
   "title": "Uno",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA04040_00-UBISOFTUNOFULL00"
 }, {
   "title": "Assassin's Creed Rogue Remastered",
   "metacritic": "71",
@@ -3611,24 +3096,24 @@
   "url": "https://store.playstation.com/en-gb/product/EP2078-CUSA12943_00-0876016511272090"
 }, {
   "title": "The Jackbox Party Pack 2",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP8915-CUSA03477_00-JBGPARTYPACK2PS4"
 }, {
   "title": "Resident Evil Code: Veronica X",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA07343_00-SLES503060000001"
 }, {
   "title": "Sublevel Zero Redux",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP1121-CUSA03030_00-0000000000000000"
-}, {
-  "title": "EVE: Valkyrie",
-  "metacritic": "71"
 }, {
   "title": "RONIN",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP3643-CUSA05227_00-RONINEUP40000001"
 }, {
   "title": "Time Recoil",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP4403-CUSA09041_00-TIMERECOILVB0000"
 }, {
   "title": "God's Trigger",
   "metacritic": "71",
@@ -3651,10 +3136,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP0499-CUSA10645_00-THEFALLPTUNBOUND"
 }, {
   "title": "Cold Iron",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP3325-CUSA11281_00-COLDIRON00000000"
 }, {
   "title": "Ruiner",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP3643-CUSA08386_00-RUINERPS4EU00000"
 }, {
   "title": "Runbow",
   "metacritic": "71",
@@ -3676,31 +3163,21 @@
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA00563_00-LEGOMOVIE0000000"
 }, {
-  "title": "Chambara",
-  "metacritic": "71"
-}, {
   "title": "Doki-Doki Universe",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00046_00-DDU0000000000000"
 }, {
   "title": "Psychonauts in The Rhombus of Ruin",
-  "metacritic": "71"
-}, {
-  "title": "Mass Effect: Andromeda",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP2154-CUSA06235_00-PSYCHONAUTSITROR"
 }, {
   "title": "Heaven's Vault",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP3273-CUSA11824_00-HEAVENSVAULTGAME"
 }, {
-  "title": "The Walking Dead: The Telltale Series - The Final Season Episode 2: Suffer the Children",
-  "metacritic": "71"
-}, {
-  "title": "flOw",
-  "metacritic": "71"
-}, {
   "title": "Megadimension Neptunia VIIR",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP0031-CUSA10460_00-GAME000000000000"
 }, {
   "title": "Death's Gambit",
   "metacritic": "71",
@@ -3715,7 +3192,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP1022-CUSA05881_00-SUMMONNIGHT60001"
 }, {
   "title": "Squishies",
-  "metacritic": "71"
+  "metacritic": "71",
+  "url": "https://store.playstation.com/en-gb/product/EP2962-CUSA08863_00-SQUISHIES0000000"
 }, {
   "title": "Gauntlet: Slayer Edition",
   "metacritic": "71",
@@ -3741,76 +3219,49 @@
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP2034-CUSA03952_00-NOMANSSKYHG00001"
 }, {
-  "title": "Songbringer",
-  "metacritic": "71"
-}, {
   "title": "BUTCHER",
   "metacritic": "71",
   "url": "https://store.playstation.com/en-gb/product/EP2627-CUSA07809_00-BUTCHERPS4SCEE00"
-}, {
-  "title": "Batman: The Enemy Within - Episode 1: The Enigma",
-  "metacritic": "70"
 }, {
   "title": "Sheltered",
   "metacritic": "70",
   "url": "https://store.playstation.com/en-gb/product/EP4064-CUSA04293_00-SHELTERED0000000"
 }, {
-  "title": "A Fisherman's Tale",
-  "metacritic": "70"
-}, {
   "title": "Hyper Jam",
   "metacritic": "70",
   "url": "https://store.playstation.com/en-gb/product/EP4748-CUSA11737_00-HYPERJAMPS4FULL0"
-}, {
-  "title": "Nom Nom Galaxy",
-  "metacritic": "70"
 }, {
   "title": "Deadlight: Director's Cut",
   "metacritic": "70",
   "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA04434_00-DEADLIGHTPS40100"
 }, {
-  "title": "Sundered",
-  "metacritic": "70"
-}, {
   "title": "Styx: Master of Shadows",
   "metacritic": "70",
   "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA01069_00-STYXMASTEROFUE01"
-}, {
-  "title": "Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto Expansion",
-  "metacritic": "70"
 }, {
   "title": "Resident Evil: Revelations",
   "metacritic": "70",
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA06212_00-RERHDPS400000000"
 }, {
   "title": "Starlink: Battle for Atlas",
-  "metacritic": "70"
-}, {
-  "title": "God Eater Resurrection",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA06938_00-STARLINKD01DIGIT"
 }, {
   "title": "Senran Kagura: Peach Beach Splash",
-  "metacritic": "70"
-}, {
-  "title": "The Walking Dead: Michonne - Episode 1: In Too Deep",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP4492-CUSA08343_00-PEACHBEACHSPLASH"
 }, {
   "title": "Obliteracers",
   "metacritic": "70",
   "url": "https://store.playstation.com/en-gb/product/EP0900-CUSA05096_00-OBLITERACERS0001"
 }, {
   "title": "Switch Galaxy Ultra",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP4460-CUSA00347_00-00000000CROSSBUY"
 }, {
   "title": "Degrees of Separation",
   "metacritic": "70",
   "url": "https://store.playstation.com/en-gb/product/EP4908-CUSA13081_00-0000000000000000"
-}, {
-  "title": "Hitman - Episode 5: Colorado",
-  "metacritic": "70"
-}, {
-  "title": "Marvel's Spider-Man: Turf Wars",
-  "metacritic": "70"
 }, {
   "title": "Fe",
   "metacritic": "70",
@@ -3829,7 +3280,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP2627-CUSA10529_00-REGALIAGAME00000"
 }, {
   "title": "Rick and Morty: Virtual Rick-ality",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP0149-CUSA09988_00-RICKMORTYVR00000"
 }, {
   "title": "Road Not Taken",
   "metacritic": "70",
@@ -3840,27 +3292,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP2162-CUSA02937_00-0000000000000000"
 }, {
   "title": "Hyper Void",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP8900-CUSA02393_00-BUNDDATAGAME0001"
 }, {
   "title": "Ironcast",
   "metacritic": "70",
   "url": "https://store.playstation.com/en-gb/product/EP4337-CUSA02530_00-IRONCASTMAINEU01"
 }, {
-  "title": "Atari Flashback Classics: Volume 1",
-  "metacritic": "70"
-}, {
-  "title": "Star Wars Battlefront: Death Star",
-  "metacritic": "70"
-}, {
   "title": "Naruto Shippuden: Ultimate Ninja Storm Legacy",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA06291_00-NSUNSLEGACY00001"
 }, {
   "title": "8-Bit Armies",
   "metacritic": "70",
   "url": "https://store.playstation.com/en-gb/product/EP4541-CUSA07626_00-8BITARMIESEU0000"
-}, {
-  "title": "Batman: The Enemy Within - Episode 3: The Fractured Mask",
-  "metacritic": "70"
 }, {
   "title": "Chaos on Deponia",
   "metacritic": "70",
@@ -3875,23 +3320,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP3721-CUSA09950_00-D000000000001001"
 }, {
   "title": "Steep: Road to the Olympics",
-  "metacritic": "70"
-}, {
-  "title": "Tom Clancy's Ghost Recon: Wildlands",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA05526_00-STEEPEXPANSION03"
 }, {
   "title": "Arca's Path VR",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP4529-CUSA11646_00-ARCADREAMRIPVR01"
 }, {
   "title": "Taiko no Tatsujin: Drum Session!",
   "metacritic": "70",
   "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA11106_00-TAIKONOTATSUJIN1"
-}, {
-  "title": "WRC 7",
-  "metacritic": "70"
-}, {
-  "title": "Mercenary Kings",
-  "metacritic": "70"
 }, {
   "title": "Nitroplus Blasterz: Heroines Infinite Duel",
   "metacritic": "70",
@@ -3906,7 +3344,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA05603_00-BATM000000000EP1"
 }, {
   "title": "Warriors All-Stars",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP4108-CUSA07903_00-STARGAMEEU000000"
 }, {
   "title": "1979 Revolution: Black Friday",
   "metacritic": "70",
@@ -3945,36 +3384,28 @@
   "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA00605_00-AC5GAMEPS4000001"
 }, {
   "title": "The Last Remnant Remastered",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA11846_00-LASTREMNANTBUNDL"
 }, {
   "title": "Curses 'N Chaos",
-  "metacritic": "70"
-}, {
-  "title": "Star Wars Battlefront: Outer Rim",
-  "metacritic": "70"
-}, {
-  "title": "Marvel's Guardians of the Galaxy - Episode 2: Under Pressure",
-  "metacritic": "70"
-}, {
-  "title": "Resident Evil 0: HD Remaster",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP2114-CUSA03106_00-0000000000000001"
 }, {
   "title": "Touhou Genso Wanderer",
   "metacritic": "70",
   "url": "https://store.playstation.com/en-gb/product/EP1063-CUSA06506_00-0000000000000001"
 }, {
   "title": "Game of Thrones: Episode Three - The Sword in the Darkness",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA01427_00-GOT000000000DLC3"
 }, {
   "title": "Planet of the Eyes",
   "metacritic": "70",
   "url": "https://store.playstation.com/en-gb/product/EP0920-CUSA09870_00-PLANETOFTHEEYES0"
 }, {
-  "title": "Dead Star",
-  "metacritic": "70"
-}, {
   "title": "EA Sports UFC",
-  "metacritic": "70"
+  "metacritic": "70",
+  "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA00264_00-EASPORTSUFC14PS4"
 }, {
   "title": "Grow Up",
   "metacritic": "70",
@@ -3993,10 +3424,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP8910-CUSA02506_00-PNEUMABREATHOL01"
 }, {
   "title": "Archangel",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP2397-CUSA09220_00-ARCHANGELVR00001"
 }, {
   "title": "Chocobo's Mystery Dungeon: Every Buddy!",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA14138_00-CMDEB0STANDEDBUN"
 }, {
   "title": "Kingdom Come: Deliverance",
   "metacritic": "69",
@@ -4011,20 +3444,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP2455-CUSA05581_00-SOTD000000000000"
 }, {
   "title": "Korix",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP1817-CUSA05966_00-0000000000100001"
 }, {
   "title": "Hitman HD Enhanced Collection",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP3969-CUSA12659_00-HITMANHDENHANCED"
 }, {
   "title": "Sword Art Online: Hollow Realization",
   "metacritic": "69",
   "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA05033_00-SWORDARTHR0000EU"
 }, {
-  "title": "Absolver",
-  "metacritic": "69"
-}, {
   "title": "God Eater 2: Rage Burst",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA03370_00-GE2RBBUNDLE00000"
 }, {
   "title": "Ride 2",
   "metacritic": "69",
@@ -4063,7 +3496,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA01499_00-PAMPLONA00000000"
 }, {
   "title": "Octodad: Dadliest Catch",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP2104-CUSA00655_00-OCTODADDCROSSBUY"
 }, {
   "title": "The Bunker",
   "metacritic": "69",
@@ -4074,10 +3508,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4108-CUSA00365_00-DW8WXLGAMEEU0000"
 }, {
   "title": "Super Exploding Zoo",
-  "metacritic": "69"
-}, {
-  "title": "Minecraft: Story Mode - Episode 6: A Portal to Mystery",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP4078-CUSA00446_00-SUPEREXPBUNDLE01"
 }, {
   "title": "Future Unfolding",
   "metacritic": "69",
@@ -4087,18 +3519,13 @@
   "metacritic": "69",
   "url": "https://store.playstation.com/en-gb/product/EP1968-CUSA09221_00-LETSPLAYHEROESEU"
 }, {
-  "title": "Call of Duty: Infinite Warfare - Absolution",
-  "metacritic": "69"
-}, {
   "title": "Slime Rancher",
   "metacritic": "69",
   "url": "https://store.playstation.com/en-gb/product/EP2149-CUSA11650_00-SLIMERANCHER0001"
 }, {
   "title": "The Mage's Tale",
-  "metacritic": "69"
-}, {
-  "title": "MX vs. ATV All Out: Anniversary Edition",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP2028-CUSA12977_00-0000THEMAGESTALE"
 }, {
   "title": "LEGO The Incredibles",
   "metacritic": "69",
@@ -4112,11 +3539,9 @@
   "metacritic": "69",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA07670_00-KNACK20000000000"
 }, {
-  "title": "The Walking Dead: The Telltale Series - A New Frontier Episode 3: Above the Law",
-  "metacritic": "69"
-}, {
   "title": "Tumble VR",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA04145_00-TUMBLEVR00000001"
 }, {
   "title": "Gang Beasts",
   "metacritic": "69",
@@ -4132,7 +3557,7 @@
 }, {
   "title": "Farming Simulator 17",
   "metacritic": "69",
-  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA01565_00-FARMINGSIMULAT15"
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA04549_00-FARMINGSIM17STDE"
 }, {
   "title": "Arslan: The Warriors of Legend",
   "metacritic": "69",
@@ -4141,12 +3566,6 @@
   "title": "Casey Powell Lacrosse 16",
   "metacritic": "69",
   "url": "https://store.playstation.com/en-gb/product/EP4249-CUSA00632_00-LAC1500000000000"
-}, {
-  "title": "Candlelight",
-  "metacritic": "69"
-}, {
-  "title": "Minecraft: Story Mode - Episode 8: A Journey's End?",
-  "metacritic": "69"
 }, {
   "title": "Viking Squad",
   "metacritic": "69",
@@ -4157,21 +3576,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP1302-CUSA09092_00-PANKAPUPS4SIEE00"
 }, {
   "title": "Game of Thrones: Episode Two - The Lost Lords",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA01427_00-GOT000000000DLC2"
 }, {
   "title": "Exist Archive: The Other Side of the Sky",
   "metacritic": "69",
   "url": "https://store.playstation.com/en-gb/product/EP1024-CUSA05473_00-EXISTARCHIVE0004"
 }, {
   "title": "Resident Evil 5",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA04284_00-RE5HDPS400000000"
 }, {
   "title": "Assassin's Creed Chronicles: China",
   "metacritic": "69",
   "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA01329_00-ACCHRONICLESEP01"
-}, {
-  "title": "Game of Thrones: A Telltale Games Series",
-  "metacritic": "69"
 }, {
   "title": "Paperbound",
   "metacritic": "69",
@@ -4182,17 +3600,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP3021-CUSA07443_00-SNAKEPASSPSSA001"
 }, {
   "title": "The Wizards: Enhanced Edition",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP3151-CUSA12623_00-THEWIZARDS000001"
 }, {
   "title": "ARK: Survival Evolved",
   "metacritic": "69",
   "url": "https://store.playstation.com/en-gb/product/EP0688-CUSA06782_00-ARKSEGAME0000000"
 }, {
   "title": "Fallout 4: Automatron",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA02961_00-FALLOUT4DLC00001"
 }, {
   "title": "Pier Solar and the Great Architects",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP2122-CUSA01467_00-PSHDEUROBUNDLE01"
 }, {
   "title": "Dragon Ball: Xenoverse",
   "metacritic": "69",
@@ -4207,7 +3628,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0078-CUSA04664_00-4991400188881388"
 }, {
   "title": "Skyworld",
-  "metacritic": "69"
+  "metacritic": "69",
+  "url": "https://store.playstation.com/en-gb/product/EP3392-CUSA10273_00-0000000000000000"
 }, {
   "title": "Screencheat",
   "metacritic": "69",
@@ -4221,21 +3643,13 @@
   "metacritic": "69",
   "url": "https://store.playstation.com/en-gb/product/EP0966-CUSA07336_00-0000000000000001"
 }, {
-  "title": "WWE 2K17",
-  "metacritic": "69"
-}, {
   "title": "King's Quest Chapter 2: Rubble Without a Cause",
-  "metacritic": "68"
-}, {
-  "title": "Call of Duty: Black Ops III - Descent",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP0002-CUSA02014_00-KINGSQUESTCHAPT2"
 }, {
   "title": "Lost Sphear",
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA09346_00-SKI0000000000000"
-}, {
-  "title": "Starblood Arena",
-  "metacritic": "68"
 }, {
   "title": "Danger Zone 2",
   "metacritic": "68",
@@ -4258,7 +3672,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA06713_00-UTAWAREITSUKAMEN"
 }, {
   "title": "Gundam Versus",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA08799_00-GUNDAMVSPKG00001"
 }, {
   "title": "de Blob 2",
   "metacritic": "68",
@@ -4269,10 +3684,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA05749_00-BATTLEFRONTII000"
 }, {
   "title": "MotoGP 17",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP4356-CUSA07865_00-MOTOGP17FULLGAME"
 }, {
   "title": "Killing Floor: Incursion",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP0114-CUSA11274_00-EUKILLINGFLRPSVR"
 }, {
   "title": "Battleborn",
   "metacritic": "68",
@@ -4281,9 +3698,6 @@
   "title": "Frantics",
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA09491_00-0000000000000000"
-}, {
-  "title": "Deracine",
-  "metacritic": "68"
 }, {
   "title": "Broforce",
   "metacritic": "68",
@@ -4297,9 +3711,6 @@
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP4064-CUSA05721_00-YOOKALAYLEE00000"
 }, {
-  "title": "NBA Playgrounds",
-  "metacritic": "68"
-}, {
   "title": "Rage 2",
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA10300_00-RAGE02FULLGAME00"
@@ -4308,25 +3719,17 @@
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP4474-CUSA00500_00-BRG0SSZ000000001"
 }, {
-  "title": "Assassin's Creed Odyssey: Story Arc 1 - Legacy of the First Blade: Episode 3",
-  "metacritic": "68"
-}, {
   "title": "Space Hulk: Tactics",
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA10360_00-SPACEHULKTACTICS"
-}, {
-  "title": "Batman: The Telltale Series",
-  "metacritic": "68"
 }, {
   "title": "Smoke and Sacrifice",
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA09925_00-SMOKESACRIFICEEU"
 }, {
   "title": "Assassin's Creed Unity: Dead Kings",
-  "metacritic": "68"
-}, {
-  "title": "Kromaia Omega",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA00605_00-DLCUNDEADKINGS00"
 }, {
   "title": "Daydreamer: Awakened Edition",
   "metacritic": "68",
@@ -4341,47 +3744,44 @@
   "url": "https://store.playstation.com/en-gb/product/EP3591-CUSA10515_00-VESTA2018GAME123"
 }, {
   "title": "The Council - Episode 3: Ripples",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA10766_00-THECOUNCILEPISO3"
 }, {
   "title": "Pizza Titan Ultra",
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP2177-CUSA12861_00-PIZZATITANULTRA2"
 }, {
   "title": "Dear Esther: Landmark Edition",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA05064_00-DEARESTHERBUNDLE"
 }, {
   "title": "iO",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP1513-CUSA04542_00-GAMIOUSIOTHEGAME"
 }, {
   "title": "Light Tracer",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP1830-CUSA09985_00-LIGHTTRACEREU001"
 }, {
   "title": "Root Letter",
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA05982_00-PKG000000000GAME"
 }, {
-  "title": "Home Sweet Home",
-  "metacritic": "68"
-}, {
   "title": "Earth's Dawn",
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP4034-CUSA05087_00-EARTHSDAWN000000"
 }, {
-  "title": "Marvel's Guardians of the Galaxy - Episode 4: Who Needs You",
-  "metacritic": "68"
-}, {
   "title": "The Brookhaven Experiment",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP0511-CUSA06490_00-BROOKHAVENEXPTVR"
 }, {
   "title": "Middle-earth: Shadow of Mordor - The Bright Lord",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA00053_00-THEBRIGHTLORDDL2"
 }, {
   "title": "Outlast 2",
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP4467-CUSA06633_00-OUTLAST200000000"
-}, {
-  "title": "Minecraft: Story Mode Season Two - Episode 1: Hero in Residence",
-  "metacritic": "68"
 }, {
   "title": "Mafia III",
   "metacritic": "68",
@@ -4408,7 +3808,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4403-CUSA01197_00-TENNISINTHEFACEE"
 }, {
   "title": "Slain: Back from Hell",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP8925-CUSA06465_00-SLAINCROSSBUYUSV"
 }, {
   "title": "Lords of the Fallen",
   "metacritic": "68",
@@ -4426,18 +3827,13 @@
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP8913-CUSA02587_00-THECASTLEGAMEENG"
 }, {
-  "title": "Atari Flashback Classics: Volume 2",
-  "metacritic": "68"
-}, {
-  "title": "Minecraft: Story Mode - Episode 7: Access Denied",
-  "metacritic": "68"
-}, {
   "title": "The Final Station",
   "metacritic": "68",
   "url": "https://store.playstation.com/en-gb/product/EP0096-CUSA06136_00-THEFINALSTATION0"
 }, {
   "title": "VR Invaders: Complete Edition",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP2134-CUSA07698_00-0000000000000001"
 }, {
   "title": "Pure Farming 2018",
   "metacritic": "68",
@@ -4448,17 +3844,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA12648_00-0000000000000001"
 }, {
   "title": "I Am The Hero",
-  "metacritic": "68"
+  "metacritic": "68",
+  "url": "https://store.playstation.com/en-gb/product/EP0896-CUSA10464_00-BUNDLEIAMTHEHERO"
 }, {
   "title": "Senran Kagura: Estival Versus",
   "metacritic": "67",
   "url": "https://store.playstation.com/en-gb/product/EP4492-CUSA03464_00-0000000000000000"
 }, {
   "title": "Human: Fall Flat",
-  "metacritic": "67"
-}, {
-  "title": "Lichtspeer",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA07208_00-HFFGAMEANDTHEME0"
 }, {
   "title": "Super Bomberman R",
   "metacritic": "67",
@@ -4481,14 +3876,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP2111-CUSA05196_00-BUSHIDO000000000"
 }, {
   "title": "InnerSpace",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP1875-CUSA07734_00-INNERSPACEFLIGHT"
 }, {
   "title": "How to Survive 2",
   "metacritic": "67",
   "url": "https://store.playstation.com/en-gb/product/EP4040-CUSA07008_00-HOWTOSUR2PS4SCEE"
-}, {
-  "title": "White Night",
-  "metacritic": "67"
 }, {
   "title": "We Happy Few",
   "metacritic": "67",
@@ -4503,7 +3896,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4034-CUSA04803_00-ASLEYNOS00000000"
 }, {
   "title": "Mafia III: Faster, Baby!",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP1001-CUSA03617_00-MAFIA3DLCFSTRBBY"
 }, {
   "title": "Unexplored: Unlocked Edition",
   "metacritic": "67",
@@ -4517,34 +3911,29 @@
   "metacritic": "67",
   "url": "https://store.playstation.com/en-gb/product/EP1546-CUSA12790_00-MYMEMORYOFUSGAME"
 }, {
-  "title": "Assassin's Creed Odyssey: Story Arc 1 - Legacy of the First Blade",
-  "metacritic": "67"
-}, {
-  "title": "King's Quest Chapter 4: Snow Place Like Home",
-  "metacritic": "67"
-}, {
   "title": "Nights of Azure",
   "metacritic": "67",
   "url": "https://store.playstation.com/en-gb/product/EP4108-CUSA04017_00-DARK000MASTER000"
 }, {
   "title": "How We Soar",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP1440-CUSA06675_00-HOWWESOARPS40002"
 }, {
   "title": "Nine Parchments",
   "metacritic": "67",
   "url": "https://store.playstation.com/en-gb/product/EP4029-CUSA05979_00-NINEPARCHMENTS00"
 }, {
-  "title": "Batman: The Enemy Within - Episode 2: The Pact",
-  "metacritic": "67"
-}, {
   "title": "The American Dream",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP3170-CUSA07971_00-0123012301234567"
 }, {
   "title": "DreamWorks Voltron VR Chronicles",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP2803-CUSA09887_00-VOLTRONVRCHRON01"
 }, {
   "title": "Sniper Elite III",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP4040-CUSA00286_00-SNIPERELITE30000"
 }, {
   "title": "The Town of Light",
   "metacritic": "67",
@@ -4558,28 +3947,25 @@
   "metacritic": "67",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA08253_00-WHITEDAYPS400100"
 }, {
-  "title": "The LEGO NINJAGO Movie Video Game",
-  "metacritic": "67"
-}, {
   "title": "Batman: The Telltale Series - Episode 5: City of Light",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA05603_00-BATM000000000EP5"
 }, {
   "title": "Dex",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP1160-CUSA04283_00-BUNDLEDEXPS4VITA"
 }, {
   "title": "Super Mutant Alien Assault",
   "metacritic": "67",
   "url": "https://store.playstation.com/en-gb/product/EP8921-CUSA04874_00-SMAA000000000001"
-}, {
-  "title": "Resident Evil 7: biohazard - Banned Footage Vol. 2",
-  "metacritic": "67"
 }, {
   "title": "Shiness: The Lightning Kingdom",
   "metacritic": "67",
   "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA06250_00-SHINESSLIGHTKING"
 }, {
   "title": "Watch Dogs 2: No Compromise",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA04294_00-DLC0000000000003"
 }, {
   "title": "Max: The Curse of Brotherhood",
   "metacritic": "67",
@@ -4598,7 +3984,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0177-CUSA10902_00-SHININGRESREF100"
 }, {
   "title": "Aragami: Nightfall",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP1563-CUSA04811_00-NIGHTFALL0000001"
 }, {
   "title": "Nelke & the Legendary Alchemists: Ateliers of the New World",
   "metacritic": "67",
@@ -4609,17 +3996,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP4492-CUSA06200_00-FATEEXTELLA00000"
 }, {
   "title": "Romance of the Three Kingdoms XIII",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP4108-CUSA05056_00-SAN13GAMEEU00000"
 }, {
   "title": "Mount & Blade: Warband",
   "metacritic": "67",
   "url": "https://store.playstation.com/en-gb/product/EP1457-CUSA03263_00-0000000000000000"
 }, {
   "title": "Dreamfall Chapters",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA07140_00-DREAMFALLCHBUN01"
 }, {
   "title": "Thief",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA00250_00-B000000000000923"
 }, {
   "title": "Dissidia: Final Fantasy NT",
   "metacritic": "67",
@@ -4627,26 +4017,27 @@
 }, {
   "title": "MXGP3: The Official Motocross Videogame",
   "metacritic": "67",
-  "url": "https://store.playstation.com/en-gb/product/EP4356-CUSA01184_00-MXGPHD1400000000"
+  "url": "https://store.playstation.com/en-gb/product/EP4356-CUSA07864_00-MXGP3FULLGAME000"
 }, {
   "title": "CounterSpy",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00465_00-COUNTERSPYXBBNDL"
 }, {
   "title": "A Pixel Story",
   "metacritic": "67",
   "url": "https://store.playstation.com/en-gb/product/EP4034-CUSA05957_00-APIXELSTORY00000"
 }, {
   "title": "The Council - Episode 2: Hide and Seek",
-  "metacritic": "67"
-}, {
-  "title": "Spintires: Mudrunner",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA10766_00-THECOUNCILEPISO2"
 }, {
   "title": "Monster Energy Supercross: The Official Videogame",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP4356-CUSA13214_00-SUPERCROSS2FGAME"
 }, {
   "title": "Operation Warcade",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP2650-CUSA09385_00-0000000000000013"
 }, {
   "title": "The Little Acre",
   "metacritic": "67",
@@ -4657,14 +4048,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP2551-CUSA10730_00-FULLGAME00000001"
 }, {
   "title": "Rocketbirds 2: Evolution",
-  "metacritic": "67"
+  "metacritic": "67",
+  "url": "https://store.playstation.com/en-gb/product/EP5015-CUSA02919_00-CROSSBUY00000001"
 }, {
   "title": "Agatha Christie's The ABC Murders",
   "metacritic": "67",
   "url": "https://store.playstation.com/en-gb/product/EP4295-CUSA03252_00-THEABCMURDERS001"
-}, {
-  "title": "Call of Duty: WWII - United Front",
-  "metacritic": "67"
 }, {
   "title": "TT Isle of Man: Ride On The Edge",
   "metacritic": "67",
@@ -4675,17 +4064,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP1001-CUSA08385_00-WWE2K18MAINSKU01"
 }, {
   "title": "Foul Play",
-  "metacritic": "66"
+  "metacritic": "66",
+  "url": "https://store.playstation.com/en-gb/product/EP3643-CUSA00424_00-FPPS4PSVCROSSBUY"
 }, {
   "title": "Sparkle 2",
   "metacritic": "66",
   "url": "https://store.playstation.com/en-gb/product/EP4403-CUSA00586_00-SPARKLE2PS4SCEE0"
 }, {
   "title": "A Boy and His Blob",
-  "metacritic": "66"
+  "metacritic": "66",
+  "url": "https://store.playstation.com/en-gb/product/EP1012-CUSA02661_00-BOYANDHISCB00000"
 }, {
   "title": "Impact Winter",
-  "metacritic": "66"
+  "metacritic": "66",
+  "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA07300_00-IMPACTWINTERBDL0"
 }, {
   "title": "Nights of Azure 2: Bride of the New Moon",
   "metacritic": "66",
@@ -4704,7 +4096,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP2162-CUSA01571_00-IRONCLADTACTICS0"
 }, {
   "title": "Driveclub VR",
-  "metacritic": "66"
+  "metacritic": "66",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA03296_00-XXXXXDRIVECLUBVR"
 }, {
   "title": "NASCAR Heat 2",
   "metacritic": "66",
@@ -4746,14 +4139,9 @@
   "metacritic": "66",
   "url": "https://store.playstation.com/en-gb/product/EP0017-CUSA11745_00-H1Z1CONSOLE00001"
 }, {
-  "title": "NASCAR Heat Evolution",
-  "metacritic": "66"
-}, {
-  "title": "WRC 6: World Rally Championship",
-  "metacritic": "66"
-}, {
   "title": "Batman: The Telltale Series - Episode 2: Children of Arkham",
-  "metacritic": "66"
+  "metacritic": "66",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA05603_00-BATM000000000EP2"
 }, {
   "title": "The Shapeshifting Detective",
   "metacritic": "66",
@@ -4784,20 +4172,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP4502-CUSA00904_00-THEGOLFCLUBHBSTU"
 }, {
   "title": "MotoGP 18",
-  "metacritic": "66"
+  "metacritic": "66",
+  "url": "https://store.playstation.com/en-gb/product/EP4356-CUSA09842_00-MOTOGP18FULLGAME"
 }, {
   "title": "Chaos Code: New Sign of Catastrophe",
   "metacritic": "66",
   "url": "https://store.playstation.com/en-gb/product/EP0036-CUSA07577_00-CHAOSCODEEU00001"
 }, {
   "title": "MXGP: The Official Motocross Videogame",
-  "metacritic": "66"
-}, {
-  "title": "Battlezone",
-  "metacritic": "66"
+  "metacritic": "66",
+  "url": "https://store.playstation.com/en-gb/product/EP4356-CUSA01184_00-MXGPHD1400000000"
 }, {
   "title": "Bridge Constructor",
-  "metacritic": "66"
+  "metacritic": "66",
+  "url": "https://store.playstation.com/en-gb/product/EP0822-CUSA03760_00-BRIDGECPS4SCEECB"
 }, {
   "title": "City of Brass",
   "metacritic": "66",
@@ -4819,9 +4207,6 @@
   "metacritic": "66",
   "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA01866_00-NFS16SE000000001"
 }, {
-  "title": "Among the Sleep",
-  "metacritic": "66"
-}, {
   "title": "Lethal League",
   "metacritic": "66",
   "url": "https://store.playstation.com/en-gb/product/EP2422-CUSA06135_00-LETHALLEAGUE0000"
@@ -4831,20 +4216,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP1828-CUSA13963_00-0000000000000000"
 }, {
   "title": "Detached",
-  "metacritic": "66"
+  "metacritic": "66",
+  "url": "https://store.playstation.com/en-gb/product/EP4918-CUSA11492_00-DETACHED000000EU"
 }, {
   "title": "Saints Row IV: Re-Elected & Gat Out of Hell",
-  "metacritic": "66"
+  "metacritic": "66",
+  "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA01106_00-SRIVREELECTEDGAT"
 }, {
   "title": "Oceanhorn: Monster of Uncharted Seas",
   "metacritic": "66",
   "url": "https://store.playstation.com/en-gb/product/EP0757-CUSA04750_00-OCEANHORN0000001"
 }, {
-  "title": "Unepic",
-  "metacritic": "66"
-}, {
   "title": "Talisman: Digital Edition",
-  "metacritic": "66"
+  "metacritic": "66",
+  "url": "https://store.playstation.com/en-gb/product/EP2581-CUSA05920_00-TALDIGICROSSBUY2"
 }, {
   "title": "Laserlife",
   "metacritic": "65",
@@ -4855,13 +4240,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP4029-CUSA03057_00-TRINE3ARTIFASCEE"
 }, {
   "title": "DEXED",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP8941-CUSA06883_00-DEXED2016NT001EN"
 }, {
   "title": "MXGP2: The Official Motocross Videogame",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP4356-CUSA02022_00-MXGP2FULLGAME000"
 }, {
   "title": "Final Fantasy XV: Episode Prompto",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA01615_00-PROMPTO000000001"
 }, {
   "title": "Surf World Series",
   "metacritic": "65",
@@ -4872,17 +4260,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP2148-CUSA02078_00-THARSIS000000000"
 }, {
   "title": "Dino Frontier",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP0123-CUSA09038_00-DINOFRONTIERPRE0"
 }, {
   "title": "FOX n FORESTS",
   "metacritic": "65",
   "url": "https://store.playstation.com/en-gb/product/EP0841-CUSA12044_00-BLEIASFNFEUROEE0"
 }, {
-  "title": "Marvel's Guardians of the Galaxy - Episode 3: More Than A Feeling",
-  "metacritic": "65"
-}, {
   "title": "Dark Eclipse",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA11966_00-0000000000003202"
 }, {
   "title": "Tiny Troopers: Joint Ops",
   "metacritic": "65",
@@ -4913,21 +4300,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP4337-CUSA12633_00-ACHTUNGCTHULHU00"
 }, {
   "title": "Torn",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP1875-CUSA09641_00-ASPYRTORNREL0001"
 }, {
   "title": "Punch Line",
   "metacritic": "65",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA12876_00-PUNCHLINEGAME000"
-}, {
-  "title": "The VideoKid",
-  "metacritic": "65"
 }, {
   "title": "Snooker 19",
   "metacritic": "65",
   "url": "https://store.playstation.com/en-gb/product/EP4337-CUSA14649_00-SNOOKER000000001"
 }, {
   "title": "F1 2015",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP4001-CUSA00013_00-F12015EMASTER000"
 }, {
   "title": "The Solus Project",
   "metacritic": "65",
@@ -4941,32 +4327,29 @@
   "metacritic": "65",
   "url": "https://store.playstation.com/en-gb/product/EP1121-CUSA08747_00-THELONGREACHEU01"
 }, {
-  "title": "SingStar Celebration",
-  "metacritic": "65"
-}, {
   "title": "Radial-G: Racing Revolved",
   "metacritic": "65",
   "url": "https://store.playstation.com/en-gb/product/EP8942-CUSA06662_00-RADIALGPS4PSVREU"
 }, {
   "title": "Fragments of Him",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP8939-CUSA05901_00-FRAGMENTSOFHIM00"
 }, {
   "title": "How to Survive: Storm Warning Edition",
   "metacritic": "65",
   "url": "https://store.playstation.com/en-gb/product/EP4040-CUSA00706_00-HOWTOSURVIVE0001"
 }, {
   "title": "Just Cause 4",
-  "metacritic": "65"
-}, {
-  "title": "ZEN Pinball 2: Marvel's Avengers: Age of Ultron",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA02747_00-JUSTCAUSE3EU0000"
 }, {
   "title": "Conarium",
   "metacritic": "65",
   "url": "https://store.playstation.com/en-gb/product/EP3652-CUSA12427_00-CONARIUM10037XXX"
 }, {
   "title": "Sword Art Online Re: Hollow Fragment",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA02607_00-SWORDARTREHF000E"
 }, {
   "title": "Super Motherload",
   "metacritic": "65",
@@ -4989,10 +4372,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP4529-CUSA12351_00-SNIPERELITEREDUX"
 }, {
   "title": "Abyss Odyssey: Extended Dream Edition",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP0005-CUSA01878_00-ABYSSODYSSEYXPS4"
 }, {
   "title": "Xenoraid",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP4403-CUSA04996_00-XENORAIDSIEECB00"
 }, {
   "title": "A King's Tale: Final Fantasy XV",
   "metacritic": "65",
@@ -5003,10 +4388,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP2025-CUSA05221_00-TRIONTROVE000000"
 }, {
   "title": "Smash Hit Plunder",
-  "metacritic": "65"
-}, {
-  "title": "Shadow of the Tomb Raider: The Forge",
-  "metacritic": "65"
+  "metacritic": "65",
+  "url": "https://store.playstation.com/en-gb/product/EP0864-CUSA09392_00-SMASHHITPLUNDER1"
 }, {
   "title": "Tokyo Twilight Ghost Hunters: Daybreak Special Gigs",
   "metacritic": "64",
@@ -5017,7 +4400,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00951_00-SHADOWOFBEAST0EU"
 }, {
   "title": "The Walking Dead: Michonne - A Telltale Miniseries",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA04106_00-TWDM000000000000"
 }, {
   "title": "Way of the Passive Fist",
   "metacritic": "64",
@@ -5026,9 +4410,6 @@
   "title": "The Silver Case",
   "metacritic": "64",
   "url": "https://store.playstation.com/en-gb/product/EP1063-CUSA07272_00-THESILVERCASEPS4"
-}, {
-  "title": "The Crew 2",
-  "metacritic": "64"
 }, {
   "title": "Omen of Sorrow",
   "metacritic": "64",
@@ -5039,7 +4420,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA00939_00-DIGISAINTSROWGAT"
 }, {
   "title": "Robinson: The Journey",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP4291-CUSA05800_00-ROBINSONJOURNEY1"
 }, {
   "title": "The King's Bird",
   "metacritic": "64",
@@ -5050,10 +4432,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA10168_00-SWORDARTONLINE05"
 }, {
   "title": "Kerbal Space Program: Enhanced Edition",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP4829-CUSA11258_00-KERBAL0EE0000000"
 }, {
   "title": "Farming Simulator 19",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA11593_00-FARMINGSIMULAT19"
 }, {
   "title": "Genesis Alpha One",
   "metacritic": "64",
@@ -5084,17 +4468,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP4541-CUSA13446_00-XENONRACER2030XR"
 }, {
   "title": "Symphony of the Machine",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP8947-CUSA06664_00-0000000000000000"
 }, {
   "title": "FATED: The Silent Oath",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP4096-CUSA05000_00-FATEDEPISODE01US"
 }, {
   "title": "Earth Defense Force 4.1: The Shadow of New Despair",
   "metacritic": "64",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA03467_00-EARTHDEFENSEFO41"
 }, {
   "title": "NASCAR Heat 3",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP0773-CUSA12428_00-MG704NASCARHEAT3"
 }, {
   "title": "Crimsonland",
   "metacritic": "64",
@@ -5109,30 +4496,28 @@
   "url": "https://store.playstation.com/en-gb/product/EP0701-CUSA08906_00-FALLENLEGIONPS4X"
 }, {
   "title": "Fallout 4: Nuka-World",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP1003-CUSA02961_00-FALLOUT4DLC00006"
 }, {
   "title": "Gal*Gun: Double Peace",
   "metacritic": "64",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA04606_00-GALGUNWAPP000000"
 }, {
   "title": "Just Cause 3: Mech Land Assault",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA02747_00-JC3LANDPACK00001"
 }, {
   "title": "Ninja Senki DX",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP2114-CUSA03796_00-0000111122223334"
 }, {
   "title": "The Sun and Moon",
-  "metacritic": "64"
-}, {
-  "title": "Tom Clancy's The Division - Underground",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP8925-CUSA03356_00-SNMBUNDLE000000E"
 }, {
   "title": "SwapQuest",
   "metacritic": "64",
   "url": "https://store.playstation.com/en-gb/product/EP8931-CUSA04873_00-SWAPQUESTPS40000"
-}, {
-  "title": "Tiny Brains",
-  "metacritic": "64"
 }, {
   "title": "The Caligula Effect: Overdose",
   "metacritic": "64",
@@ -5141,9 +4526,6 @@
   "title": "TRON RUN/r",
   "metacritic": "64",
   "url": "https://store.playstation.com/en-gb/product/EP1006-CUSA02395_00-TRONESCAPEXXXXXX"
-}, {
-  "title": "Dead by Daylight",
-  "metacritic": "64"
 }, {
   "title": "Knowledge is Power: Decades",
   "metacritic": "64",
@@ -5154,7 +4536,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0837-CUSA02173_00-ZOMBIEVIKINGS1EU"
 }, {
   "title": "ChromaGun VR",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP1141-CUSA11216_00-CHROMAGUNPSVR000"
 }, {
   "title": "Mulaka",
   "metacritic": "64",
@@ -5163,9 +4546,6 @@
   "title": "MXGP Pro",
   "metacritic": "64",
   "url": "https://store.playstation.com/en-gb/product/EP4356-CUSA10585_00-MXGP4FULLGAME000"
-}, {
-  "title": "To Leave",
-  "metacritic": "64"
 }, {
   "title": "Deadcore",
   "metacritic": "64",
@@ -5180,31 +4560,24 @@
   "url": "https://store.playstation.com/en-gb/product/EP1615-CUSA02144_00-MOTOUTOPIAEUR000"
 }, {
   "title": "Bard's Gold",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP1612-CUSA04895_00-BARDSGOLDGAME000"
 }, {
   "title": "The Coma: Recut",
   "metacritic": "64",
   "url": "https://store.playstation.com/en-gb/product/EP8925-CUSA09134_00-COMAPS400000000E"
 }, {
-  "title": "Kona VR",
-  "metacritic": "64"
-}, {
   "title": "Narcosis",
   "metacritic": "64",
   "url": "https://store.playstation.com/en-gb/product/EP0335-CUSA13178_00-NRCSSPJNMT000100"
 }, {
-  "title": "TETRA's Escape",
-  "metacritic": "64"
-}, {
   "title": "The Council - Episode 5: Checkmate",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA10766_00-THECOUNCILEPISO5"
 }, {
   "title": "Arcade Classics Anniversary Collection",
   "metacritic": "64",
   "url": "https://store.playstation.com/en-gb/product/EP0101-CUSA15189_00-ARCADECLASSICS01"
-}, {
-  "title": "Accel World vs. Sword Art Online: Millennium Twilight",
-  "metacritic": "64"
 }, {
   "title": "Warhammer 40,000: Inquisitor - Martyr",
   "metacritic": "64",
@@ -5215,7 +4588,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP1884-CUSA08594_00-3FE1234500000000"
 }, {
   "title": "Warframe",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP2097-CUSA00106_00-0000000000000000"
 }, {
   "title": "Seasons After Fall",
   "metacritic": "64",
@@ -5225,18 +4599,17 @@
   "metacritic": "64",
   "url": "https://store.playstation.com/en-gb/product/EP1546-CUSA04252_00-KHOLATGAME000000"
 }, {
-  "title": "Rainbow Skies",
-  "metacritic": "64"
-}, {
   "title": "Track Lab",
-  "metacritic": "64"
+  "metacritic": "64",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA11090_00-TRACKLAB000000EU"
 }, {
   "title": "The Witch and the Hundred Knight: Revival Edition",
   "metacritic": "63",
   "url": "https://store.playstation.com/en-gb/product/EP1063-CUSA02815_00-TWATHKREVIVAL100"
 }, {
   "title": "Dead Island: Definitive Collection",
-  "metacritic": "63"
+  "metacritic": "63",
+  "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA03291_00-DEADISLANDDCTL60"
 }, {
   "title": "Neon Chrome",
   "metacritic": "63",
@@ -5255,24 +4628,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP2416-CUSA12416_00-THEAIRHEARTGAMEM"
 }, {
   "title": "Windlands",
-  "metacritic": "63"
+  "metacritic": "63",
+  "url": "https://store.playstation.com/en-gb/product/EP1499-CUSA05879_00-0000000000000001"
 }, {
   "title": "Dynasty Warriors 8 Empires",
   "metacritic": "63",
   "url": "https://store.playstation.com/en-gb/product/EP4108-CUSA01564_00-DW8EMPBOOT000001"
 }, {
-  "title": "Minecraft: Story Mode Season Two - Episode 3: Jailhouse Block",
-  "metacritic": "63"
-}, {
   "title": "Insane Robots",
   "metacritic": "63",
   "url": "https://store.playstation.com/en-gb/product/EP4867-CUSA06319_00-INSANEROBOTS0000"
 }, {
-  "title": "Destiny: The Dark Below",
-  "metacritic": "63"
-}, {
   "title": "Mega Man X Legacy Collection 2",
-  "metacritic": "63"
+  "metacritic": "63",
+  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA10714_00-RXAC200000000001"
 }, {
   "title": "Darksiders III",
   "metacritic": "63",
@@ -5282,31 +4651,25 @@
   "metacritic": "63",
   "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA02007_00-TOURDEFRANCE2015"
 }, {
-  "title": "Dragon Age: Inquisition - The Descent",
-  "metacritic": "63"
-}, {
   "title": "Vertical Drop Heroes HD",
-  "metacritic": "63"
-}, {
-  "title": "Battle Princess Madelyn",
-  "metacritic": "63"
+  "metacritic": "63",
+  "url": "https://store.playstation.com/en-gb/product/EP8925-CUSA03355_00-VDHBND000000000E"
 }, {
   "title": "Beholder: Complete Edition",
-  "metacritic": "63"
+  "metacritic": "63",
+  "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA09921_00-BEHOLDER00000EUR"
 }, {
   "title": "#KILLALLZOMBIES",
   "metacritic": "63",
   "url": "https://store.playstation.com/en-gb/product/EP4101-CUSA00849_00-SOCIALSHAREARENA"
-}, {
-  "title": "Shadow Blade: Reload",
-  "metacritic": "63"
 }, {
   "title": "PONCHO",
   "metacritic": "63",
   "url": "https://store.playstation.com/en-gb/product/EP4034-CUSA02662_00-PONCHO0000000000"
 }, {
   "title": "Space Junkies",
-  "metacritic": "63"
+  "metacritic": "63",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA14019_00-SPACEJUNKIESGAME"
 }, {
   "title": "Unbox: Newbie's Adventure",
   "metacritic": "63",
@@ -5328,9 +4691,6 @@
   "metacritic": "63",
   "url": "https://store.playstation.com/en-gb/product/EP0376-CUSA05861_00-MOONHUNTERSPS401"
 }, {
-  "title": "Kung Fu Panda: Showdown of Legendary Legends",
-  "metacritic": "63"
-}, {
   "title": "Stardust Vanguards",
   "metacritic": "63",
   "url": "https://store.playstation.com/en-gb/product/EP1196-CUSA03792_00-0000000000000000"
@@ -5347,35 +4707,25 @@
   "metacritic": "63",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA10250_00-8888888888888888"
 }, {
-  "title": "Salary Man Escape VR",
-  "metacritic": "63"
-}, {
   "title": "The Order: 1886",
   "metacritic": "63",
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00076_00-TO1886GAME000000"
 }, {
   "title": "Whispering Willows",
-  "metacritic": "63"
+  "metacritic": "63",
+  "url": "https://store.playstation.com/en-gb/product/EP2135-CUSA01827_00-WSWILLOWSBUNDLE1"
 }, {
   "title": "Arizona Sunshine",
-  "metacritic": "63"
+  "metacritic": "63",
+  "url": "https://store.playstation.com/en-gb/product/EP3392-CUSA07980_00-0000000000000000"
 }, {
   "title": "The Escapists: The Walking Dead",
   "metacritic": "63",
   "url": "https://store.playstation.com/en-gb/product/EP4064-CUSA04097_00-THEESCAPISTSWD00"
 }, {
-  "title": "Tetris Ultimate",
-  "metacritic": "63"
-}, {
   "title": "Siegecraft Commander",
   "metacritic": "63",
   "url": "https://store.playstation.com/en-gb/product/EP1191-CUSA05436_00-SCCOMMANDERPS400"
-}, {
-  "title": "Destiny 2: Warmind",
-  "metacritic": "63"
-}, {
-  "title": "Middle-earth: Shadow of War - Blade of Galadriel",
-  "metacritic": "63"
 }, {
   "title": "Trailblazers",
   "metacritic": "63",
@@ -5418,7 +4768,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0036-CUSA09793_00-SLICEDICERICEE01"
 }, {
   "title": "Pop-Up Pilgrims",
-  "metacritic": "63"
+  "metacritic": "63",
+  "url": "https://store.playstation.com/en-gb/product/EP4290-CUSA08935_00-POPUPPILGRIMS000"
 }, {
   "title": "I Hate Running Backwards",
   "metacritic": "63",
@@ -5436,15 +4787,13 @@
   "metacritic": "62",
   "url": "https://store.playstation.com/en-gb/product/EP1365-CUSA05594_00-GHOSTBLADEHDEUR0"
 }, {
-  "title": "WRC 5",
-  "metacritic": "62"
-}, {
   "title": "Agents of Mayhem",
   "metacritic": "62",
   "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA03067_00-AGENTSOFMAYHEMDS"
 }, {
   "title": "Velocibox",
-  "metacritic": "62"
+  "metacritic": "62",
+  "url": "https://store.playstation.com/en-gb/product/EP2135-CUSA02736_00-DISCONLYPARENT00"
 }, {
   "title": "Blue Rider",
   "metacritic": "62",
@@ -5459,16 +4808,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP4459-CUSA10765_00-DOCTORDEKKERGAME"
 }, {
   "title": "Blind",
-  "metacritic": "62"
-}, {
-  "title": "Assassin's Creed Odyssey: Story Arc 1 - Legacy of the First Blade: Episode 2",
-  "metacritic": "62"
-}, {
-  "title": "The Walking Dead: The Telltale Series - A New Frontier Episode 4: Thicker than Water",
-  "metacritic": "62"
+  "metacritic": "62",
+  "url": "https://store.playstation.com/en-gb/product/EP8921-CUSA11114_00-0000000000001105"
 }, {
   "title": "Monster of the Deep: Final Fantasy XV",
-  "metacritic": "62"
+  "metacritic": "62",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA08629_00-FFXVVR0000000000"
 }, {
   "title": "Intruders: Hide and Seek",
   "metacritic": "62",
@@ -5478,14 +4823,9 @@
   "metacritic": "62",
   "url": "https://store.playstation.com/en-gb/product/EP1884-CUSA13942_00-DANGEROUSDRIVING"
 }, {
-  "title": "Nebulous",
-  "metacritic": "62"
-}, {
-  "title": "AIPD - Artificial Intelligence Police Department",
-  "metacritic": "62"
-}, {
   "title": "Legend of Kay Anniversary",
-  "metacritic": "62"
+  "metacritic": "62",
+  "url": "https://store.playstation.com/en-gb/product/EP4389-CUSA01153_00-LOKHDROCKSPS4EU1"
 }, {
   "title": "Mutant Football League",
   "metacritic": "62",
@@ -5496,7 +4836,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0149-CUSA05465_00-SMALLRADIOS00000"
 }, {
   "title": "Spellspire",
-  "metacritic": "62"
+  "metacritic": "62",
+  "url": "https://store.playstation.com/en-gb/product/EP4403-CUSA05456_00-SPELLSPIRECB0000"
 }, {
   "title": "Zombie Army Trilogy",
   "metacritic": "62",
@@ -5511,7 +4852,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4908-CUSA12849_00-NINJINBASEGAME01"
 }, {
   "title": "Fantastic Contraption",
-  "metacritic": "62"
+  "metacritic": "62",
+  "url": "https://store.playstation.com/en-gb/product/EP0548-CUSA07368_00-FCEU000000000001"
 }, {
   "title": "The Station",
   "metacritic": "62",
@@ -5534,7 +4876,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA07401_00-MALICIOUSFEU0001"
 }, {
   "title": "Little Nightmares: The Depths",
-  "metacritic": "62"
+  "metacritic": "62",
+  "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA05952_00-LITTLEDLC0000001"
 }, {
   "title": "Worms Battlegrounds",
   "metacritic": "62",
@@ -5548,20 +4891,9 @@
   "metacritic": "62",
   "url": "https://store.playstation.com/en-gb/product/EP3678-CUSA10859_00-ADPOFE0000000001"
 }, {
-  "title": "Lightfield",
-  "metacritic": "62"
-}, {
-  "title": "WWE 2K15",
-  "metacritic": "62"
-}, {
   "title": "Color Guardians",
-  "metacritic": "62"
-}, {
-  "title": "Back to Bed",
-  "metacritic": "62"
-}, {
-  "title": "Rory McIlroy PGA Tour",
-  "metacritic": "61"
+  "metacritic": "62",
+  "url": "https://store.playstation.com/en-gb/product/EP0836-CUSA02179_00-FPLCGBUNDLE00001"
 }, {
   "title": "99Vidas",
   "metacritic": "61",
@@ -5580,7 +4912,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP2165-CUSA06846_00-F13GAMEXXXXXXXXX"
 }, {
   "title": "Tour de France 2016",
-  "metacritic": "61"
+  "metacritic": "61",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA04251_00-TOURDEFRANCE2016"
 }, {
   "title": "Naruto to Boruto: Shinobi Striker",
   "metacritic": "61",
@@ -5591,7 +4924,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA04098_00-WORLDOFWARRIORSH"
 }, {
   "title": "WE ARE DOOMED",
-  "metacritic": "61"
+  "metacritic": "61",
+  "url": "https://store.playstation.com/en-gb/product/EP8902-CUSA02394_00-DOOMEDBUNDLE0000"
 }, {
   "title": "Dungeons 2",
   "metacritic": "61",
@@ -5602,7 +4936,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4064-CUSA11559_00-RAGINGJUSTICE000"
 }, {
   "title": "Middle-earth: Shadow of Mordor - Lord of the Hunt",
-  "metacritic": "61"
+  "metacritic": "61",
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA00053_00-LORDOFTHEHUNTDL1"
 }, {
   "title": "Risk: Urban Assault",
   "metacritic": "61",
@@ -5625,13 +4960,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP1160-CUSA04942_00-GINGERPS40000000"
 }, {
   "title": "Obduction",
-  "metacritic": "61"
+  "metacritic": "61",
+  "url": "https://store.playstation.com/en-gb/product/EP0926-CUSA09095_00-XXXOBDFULLGAME17"
 }, {
   "title": "Island Time VR",
-  "metacritic": "61"
+  "metacritic": "61",
+  "url": "https://store.playstation.com/en-gb/product/EP3720-CUSA11363_00-ISLANDTIMEXXXXXX"
 }, {
   "title": "JoJo's Bizarre Adventure: Eyes of Heaven",
-  "metacritic": "61"
+  "metacritic": "61",
+  "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA04909_00-JOJOEOHDGTLED001"
 }, {
   "title": "Metal Max Xeno",
   "metacritic": "61",
@@ -5646,33 +4984,24 @@
   "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA07172_00-UCES007750000001"
 }, {
   "title": "Batman: Arkham Knight - A Matter of Family",
-  "metacritic": "61"
-}, {
-  "title": "8DAYS",
-  "metacritic": "61"
+  "metacritic": "61",
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA00135_00-DLCBATGIRL000000"
 }, {
   "title": "Has-Been Heroes",
   "metacritic": "61",
   "url": "https://store.playstation.com/en-gb/product/EP2455-CUSA06641_00-HASBEENHEROES00E"
-}, {
-  "title": "J-Stars Victory Vs+",
-  "metacritic": "61"
-}, {
-  "title": "Marvel: Ultimate Alliance Bundle",
-  "metacritic": "61"
-}, {
-  "title": "Fast Striker",
-  "metacritic": "61"
 }, {
   "title": "The Witch and the Hundred Knight 2",
   "metacritic": "61",
   "url": "https://store.playstation.com/en-gb/product/EP1063-CUSA10135_00-WITCHHUNDKNIGHT2"
 }, {
   "title": "Layers of Fear: Inheritance",
-  "metacritic": "61"
+  "metacritic": "61",
+  "url": "https://store.playstation.com/en-gb/product/EP1875-CUSA04497_00-LAYERSOFFEARDLC1"
 }, {
   "title": "Hatsune Miku VR: Future Live",
-  "metacritic": "61"
+  "metacritic": "61",
+  "url": "https://store.playstation.com/en-gb/product/EP0177-CUSA05930_00-PDJVRLIVE3939393"
 }, {
   "title": "Flockers",
   "metacritic": "61",
@@ -5731,7 +5060,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP5002-CUSA15284_00-BATTLEFORTHEGRID"
 }, {
   "title": "Resident Evil 6",
-  "metacritic": "60"
+  "metacritic": "60",
+  "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA03840_00-BH6HDPS400000000"
 }, {
   "title": "Slender: The Arrival",
   "metacritic": "60",
@@ -5749,38 +5079,25 @@
   "metacritic": "60",
   "url": "https://store.playstation.com/en-gb/product/EP1825-CUSA04560_00-MYNIGHTJOBGAME01"
 }, {
-  "title": "Fallout 4: Vault-Tec Workshop",
-  "metacritic": "60"
-}, {
-  "title": "Just Sing",
-  "metacritic": "60"
-}, {
   "title": "Anoxemia",
   "metacritic": "60",
   "url": "https://store.playstation.com/en-gb/product/EP1160-CUSA03452_00-ANOXEMIAPS400000"
 }, {
   "title": "Final Fantasy XV: Episode Ardyn",
-  "metacritic": "60"
+  "metacritic": "60",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA01615_00-ARDYN00000000001"
 }, {
   "title": "Metal Gear Survive",
   "metacritic": "60",
   "url": "https://store.playstation.com/en-gb/product/EP0101-CUSA07201_00-MAINGAME00000000"
-}, {
-  "title": "NHL 15",
-  "metacritic": "60"
-}, {
-  "title": "EVE: Gunjack",
-  "metacritic": "60"
 }, {
   "title": "KickBeat: Special Edition",
   "metacritic": "60",
   "url": "https://store.playstation.com/en-gb/product/EP4042-CUSA00401_00-KICKBEAT00000001"
 }, {
   "title": "Ancient Amuletor",
-  "metacritic": "60"
-}, {
-  "title": "VRFC Virtual Reality Football Club",
-  "metacritic": "60"
+  "metacritic": "60",
+  "url": "https://store.playstation.com/en-gb/product/EP1545-CUSA08167_00-ANCIENTAMULETOR1"
 }, {
   "title": "RETSNOM",
   "metacritic": "60",
@@ -5798,35 +5115,21 @@
   "metacritic": "60",
   "url": "https://store.playstation.com/en-gb/product/EP1977-CUSA12578_00-JUPITERMARSPSVR0"
 }, {
-  "title": "Final Fantasy XV - Multiplayer Expansion: Comrades",
-  "metacritic": "60"
-}, {
   "title": "The Technomancer",
   "metacritic": "60",
   "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA03824_00-THETECHNOMANCER0"
-}, {
-  "title": "Deadpool",
-  "metacritic": "60"
 }, {
   "title": "All-Star Fruit Racing",
   "metacritic": "60",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA08249_00-ALLSTARFRUITRACE"
 }, {
   "title": "Morphite",
-  "metacritic": "60"
-}, {
-  "title": "De-formers",
-  "metacritic": "60"
-}, {
-  "title": "N.E.R.O.: Nothing Ever Remains Obscure",
-  "metacritic": "59"
+  "metacritic": "60",
+  "url": "https://store.playstation.com/en-gb/product/EP1191-CUSA09477_00-MORPHITEPS400000"
 }, {
   "title": "YIIK: A Postmodern RPG",
   "metacritic": "59",
   "url": "https://store.playstation.com/en-gb/product/EP2081-CUSA12012_00-YIIKPOMORPGACKK1"
-}, {
-  "title": "One Upon Light",
-  "metacritic": "59"
 }, {
   "title": "Planet of the Apes: Last Frontier",
   "metacritic": "59",
@@ -5836,25 +5139,17 @@
   "metacritic": "59",
   "url": "https://store.playstation.com/en-gb/product/EP4459-CUSA07805_00-LATESHIFTPS4GAME"
 }, {
-  "title": "Saint Seiya: Soldiers' Soul",
-  "metacritic": "59"
-}, {
   "title": "Lost Sea",
   "metacritic": "59",
   "url": "https://store.playstation.com/en-gb/product/EP2005-CUSA00608_00-LOSTSEA000000000"
-}, {
-  "title": "The Evil Within: The Executioner",
-  "metacritic": "59"
 }, {
   "title": "Micro Machines World Series",
   "metacritic": "59",
   "url": "https://store.playstation.com/en-gb/product/EP4001-CUSA07400_00-MICROMACHINES000"
 }, {
-  "title": "The Peanuts Movie: Snoopy's Grand Adventure",
-  "metacritic": "59"
-}, {
   "title": "Mortal Blitz",
-  "metacritic": "59"
+  "metacritic": "59",
+  "url": "https://store.playstation.com/en-gb/product/EP1625-CUSA08818_00-MORTALBLITZSKO00"
 }, {
   "title": "Contrast",
   "metacritic": "59",
@@ -5868,18 +5163,9 @@
   "metacritic": "59",
   "url": "https://store.playstation.com/en-gb/product/EP0364-CUSA05141_00-THERECAMEANECHO0"
 }, {
-  "title": "Loadout",
-  "metacritic": "59"
-}, {
   "title": "Override: Mech City Brawl",
   "metacritic": "59",
   "url": "https://store.playstation.com/en-gb/product/EP4908-CUSA13203_00-OVERRIDEBASEGAME"
-}, {
-  "title": "NBA Live 15",
-  "metacritic": "59"
-}, {
-  "title": "NBA Live 16",
-  "metacritic": "59"
 }, {
   "title": "Rain World",
   "metacritic": "59",
@@ -5902,10 +5188,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4151-CUSA05547_00-CLOVERISLANDPS4E"
 }, {
   "title": "The Inpatient",
-  "metacritic": "59"
-}, {
-  "title": "SG/ZH: School Girl Zombie Hunter",
-  "metacritic": "59"
+  "metacritic": "59",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA08291_00-BLACKWOOD0000001"
 }, {
   "title": "Rack N Ruin",
   "metacritic": "59",
@@ -5916,26 +5200,28 @@
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA00342_00-MURDEREDSOULSCEE"
 }, {
   "title": "StarDrone",
-  "metacritic": "59"
+  "metacritic": "59",
+  "url": "https://store.playstation.com/en-gb/product/EP4101-CUSA08064_00-VIRTUALSTARDRONE"
 }, {
   "title": "Drive!Drive!Drive!",
-  "metacritic": "59"
+  "metacritic": "59",
+  "url": "https://store.playstation.com/en-gb/product/EP2148-CUSA02568_00-DRIVEDRIVEDRIVE0"
 }, {
   "title": "Final Fantasy XV: Episode Gladiolus",
-  "metacritic": "59"
+  "metacritic": "59",
+  "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA01615_00-GLADIOLUS0000001"
 }, {
   "title": "Road Redemption",
   "metacritic": "59",
   "url": "https://store.playstation.com/en-gb/product/EP0114-CUSA13020_00-ROADREDEMPTION00"
 }, {
   "title": "PlayStation VR WORLDS",
-  "metacritic": "59"
-}, {
-  "title": "Entwined",
-  "metacritic": "59"
+  "metacritic": "59",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA01690_00-EVT1100000000000"
 }, {
   "title": "Aaru's Awakening",
-  "metacritic": "59"
+  "metacritic": "59",
+  "url": "https://store.playstation.com/en-gb/product/EP2144-CUSA01134_00-AARUSAWAKENINGEU"
 }, {
   "title": "Guilt Battle Arena",
   "metacritic": "59",
@@ -5952,12 +5238,6 @@
   "title": "Hunting Simulator",
   "metacritic": "58",
   "url": "https://store.playstation.com/en-gb/product/EP4008-CUSA07164_00-HUNTINGSIMULATOR"
-}, {
-  "title": "Star Ocean: Integrity and Faithlessness",
-  "metacritic": "58"
-}, {
-  "title": "Chivalry: Medieval Warfare",
-  "metacritic": "58"
 }, {
   "title": "One Piece: World Seeker",
   "metacritic": "58",
@@ -5980,10 +5260,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP4295-CUSA05814_00-SUBJECT13SCEE001"
 }, {
   "title": "Dick Wilde 2",
-  "metacritic": "58"
+  "metacritic": "58",
+  "url": "https://store.playstation.com/en-gb/product/EP3495-CUSA14236_00-0000000000000000"
 }, {
   "title": "Tour de France 2017",
-  "metacritic": "58"
+  "metacritic": "58",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA08153_00-TOURDEFRANCE2017"
 }, {
   "title": "Marooners",
   "metacritic": "58",
@@ -5994,7 +5276,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4008-CUSA09688_00-VR40000000000000"
 }, {
   "title": "Immortal Legacy: The Jade Cipher",
-  "metacritic": "58"
+  "metacritic": "58",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA09438_00-KILLX00000000000"
 }, {
   "title": "Mitsurugi Kamui Hikae",
   "metacritic": "58",
@@ -6013,21 +5296,24 @@
   "url": "https://store.playstation.com/en-gb/product/EP3245-CUSA12744_00-DECHILD000000000"
 }, {
   "title": "Cel Damage HD",
-  "metacritic": "58"
+  "metacritic": "58",
+  "url": "https://store.playstation.com/en-gb/product/EP2119-NPEJ00330_00-B000000000001117"
 }, {
   "title": "Dark Rose Valkyrie",
   "metacritic": "58",
   "url": "https://store.playstation.com/en-gb/product/EP0031-CUSA06927_00-GAMEDARKROSEEU00"
 }, {
   "title": "Hatoful Boyfriend: Holiday Star",
-  "metacritic": "58"
+  "metacritic": "58",
+  "url": "https://store.playstation.com/en-gb/product/EP3643-CUSA03096_00-HBHSCROSSBUYSCEE"
 }, {
   "title": "Touhou: Scarlet Curiosity",
   "metacritic": "58",
   "url": "https://store.playstation.com/en-gb/product/EP1023-CUSA06759_00-TOUHOUSCARLET000"
 }, {
   "title": "Carnival Games VR",
-  "metacritic": "58"
+  "metacritic": "58",
+  "url": "https://store.playstation.com/en-gb/product/EP1001-CUSA05842_00-000000000CVRSCEE"
 }, {
   "title": "Elex",
   "metacritic": "58",
@@ -6065,14 +5351,9 @@
   "metacritic": "57",
   "url": "https://store.playstation.com/en-gb/product/EP4486-CUSA03288_00-ZOTRIXGAMEEU0001"
 }, {
-  "title": "Necropolis",
-  "metacritic": "57"
-}, {
   "title": "The LEGO Movie 2 Videogame",
-  "metacritic": "57"
-}, {
-  "title": "Destiny 2: Curse of Osiris",
-  "metacritic": "57"
+  "metacritic": "57",
+  "url": "https://store.playstation.com/en-gb/product/EP1018-CUSA13509_00-THELEGOMOVIE2019"
 }, {
   "title": "Onechanbara Z2: Chaos",
   "metacritic": "57",
@@ -6083,17 +5364,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP4151-CUSA03736_00-MCDROID0000PS4EU"
 }, {
   "title": "Waddle Home",
-  "metacritic": "57"
+  "metacritic": "57",
+  "url": "https://store.playstation.com/en-gb/product/EP1258-CUSA06503_00-4152434849414354"
 }, {
   "title": "Caveman Warriors",
-  "metacritic": "57"
+  "metacritic": "57",
+  "url": "https://store.playstation.com/en-gb/product/EP3111-CUSA08227_00-0000000000000001"
 }, {
   "title": "DreamWorks Dragons Dawn of New Riders",
   "metacritic": "57",
   "url": "https://store.playstation.com/en-gb/product/EP3678-CUSA12945_00-HTTYD3BASEGAME01"
 }, {
   "title": "Tour de France 2018",
-  "metacritic": "57"
+  "metacritic": "57",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA10905_00-TOURDEFRANCE2018"
 }, {
   "title": "Aegis of Earth: Protonovus Assault",
   "metacritic": "57",
@@ -6108,20 +5392,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP0511-CUSA03924_00-TRAVELERGAMEXXXX"
 }, {
   "title": "Animal Force",
-  "metacritic": "57"
+  "metacritic": "57",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA11338_00-XANIMALPSVR00000"
 }, {
   "title": "Far Cry 5: Lost on Mars",
-  "metacritic": "57"
+  "metacritic": "57",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA05847_00-FC5DLCMARS000000"
 }, {
   "title": "Akiba's Trip: Undead & Undressed",
   "metacritic": "57",
   "url": "https://store.playstation.com/en-gb/product/EP1063-CUSA01539_00-AKIBASNEXTAPP000"
 }, {
-  "title": "Raiders of the Broken Planet",
-  "metacritic": "56"
-}, {
   "title": "Theseus",
-  "metacritic": "56"
+  "metacritic": "56",
+  "url": "https://store.playstation.com/en-gb/product/EP4523-CUSA08491_00-THESEUSVR0000000"
 }, {
   "title": "Jump Force",
   "metacritic": "56",
@@ -6130,9 +5414,6 @@
   "title": "Surgeon Simulator: Anniversary Edition",
   "metacritic": "56",
   "url": "https://store.playstation.com/en-gb/product/EP4491-CUSA00861_00-SURGEONSIM000001"
-}, {
-  "title": "Earthlock: Festival of Magic",
-  "metacritic": "56"
 }, {
   "title": "Bounce Rescue!",
   "metacritic": "56",
@@ -6151,14 +5432,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP1302-CUSA08066_00-0000000000000000"
 }, {
   "title": "Lethal VR",
-  "metacritic": "56"
+  "metacritic": "56",
+  "url": "https://store.playstation.com/en-gb/product/EP4064-CUSA07106_00-LETHALVR00000000"
 }, {
   "title": "Perception",
   "metacritic": "56",
   "url": "https://store.playstation.com/en-gb/product/EP1306-CUSA14357_00-PERCEPTN1EUR0001"
-}, {
-  "title": "Far Cry 4: Escape from Durgesh Prison",
-  "metacritic": "56"
 }, {
   "title": "Dangerous Golf",
   "metacritic": "56",
@@ -6193,13 +5472,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP2866-CUSA10019_00-DTGTRAINSIMWORLD"
 }, {
   "title": "100ft Robot Golf",
-  "metacritic": "56"
+  "metacritic": "56",
+  "url": "https://store.playstation.com/en-gb/product/EP0473-CUSA06254_00-100FTKAIJUBUNDLE"
 }, {
   "title": "Submerged",
-  "metacritic": "56"
-}, {
-  "title": "Drawn to Death",
-  "metacritic": "56"
+  "metacritic": "56",
+  "url": "https://store.playstation.com/en-gb/product/EP8914-CUSA02089_00-SUBMERGED0000001"
 }, {
   "title": "Bush Hockey League",
   "metacritic": "56",
@@ -6209,25 +5487,13 @@
   "metacritic": "56",
   "url": "https://store.playstation.com/en-gb/product/EP4459-CUSA06467_00-DONTKNOCKTWICE00"
 }, {
-  "title": "Sniper: Ghost Warrior 3",
-  "metacritic": "55"
-}, {
   "title": "Table Top Racing: World Tour",
   "metacritic": "55",
   "url": "https://store.playstation.com/en-gb/product/EP4537-CUSA01498_00-TABLETOPRACINGWT"
 }, {
-  "title": "Space Hulk: Deathwing",
-  "metacritic": "55"
-}, {
-  "title": "SportsBarVR",
-  "metacritic": "55"
-}, {
   "title": "Akiba's Beat",
   "metacritic": "55",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA07108_00-0000000000000000"
-}, {
-  "title": "Now That's What I Call Sing",
-  "metacritic": "55"
 }, {
   "title": "Albedo: Eyes from Outer Space",
   "metacritic": "55",
@@ -6246,7 +5512,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4395-CUSA05801_00-JUMPSTARSPS4EU00"
 }, {
   "title": "Far Cry 5: Hours of Darkness",
-  "metacritic": "55"
+  "metacritic": "55",
+  "url": "https://store.playstation.com/en-gb/product/EP0001-CUSA05847_00-FC5DLCVIETNAM000"
 }, {
   "title": "Big Bash Boom",
   "metacritic": "55",
@@ -6277,17 +5544,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP3727-CUSA12647_00-ANAMORPHINE00001"
 }, {
   "title": "Anthem",
-  "metacritic": "54"
+  "metacritic": "54",
+  "url": "https://store.playstation.com/en-gb/product/EP0006-CUSA05359_00-ANTHEM1000000000"
 }, {
   "title": "Knack",
-  "metacritic": "54"
+  "metacritic": "54",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA00202_00-KNACK00000000000"
 }, {
   "title": "Nippon Marathon",
   "metacritic": "54",
   "url": "https://store.playstation.com/en-gb/product/EP4293-CUSA11337_00-0000000000000000"
-}, {
-  "title": "The Tomorrow Children",
-  "metacritic": "54"
 }, {
   "title": "2Dark",
   "metacritic": "54",
@@ -6306,20 +5572,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA06995_00-ARVALKYRIE000100"
 }, {
   "title": "In Space We Brawl",
-  "metacritic": "54"
+  "metacritic": "54",
+  "url": "https://store.playstation.com/en-gb/product/EP4523-CUSA01257_00-INSPACEWEBRAWLB1"
 }, {
   "title": "Circuit Breakers",
   "metacritic": "54",
   "url": "https://store.playstation.com/en-gb/product/EP0806-CUSA06389_00-CIRCUITBREAKERS0"
 }, {
   "title": "GUNS UP!",
-  "metacritic": "54"
+  "metacritic": "54",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA01483_00-VALKENTGUNSUP001"
 }, {
   "title": "Farming Simulator 15",
-  "metacritic": "54"
-}, {
-  "title": "The Legend of Korra",
-  "metacritic": "54"
+  "metacritic": "54",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA01565_00-FARMINGSIMULAT15"
 }, {
   "title": "Steven Universe: Save the Light",
   "metacritic": "54",
@@ -6338,10 +5604,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP1494-CUSA12458_00-EARTHFALL0101000"
 }, {
   "title": "Time Carnage",
-  "metacritic": "54"
+  "metacritic": "54",
+  "url": "https://store.playstation.com/en-gb/product/EP4459-CUSA10391_00-TIMECARNAGEPS4VR"
 }, {
   "title": "Smashbox Arena",
-  "metacritic": "54"
+  "metacritic": "54",
+  "url": "https://store.playstation.com/en-gb/product/EP1258-CUSA08117_00-4152434849414354"
 }, {
   "title": "Jagged Alliance: Rage!",
   "metacritic": "54",
@@ -6352,7 +5620,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP3904-CUSA09871_00-OURETHEGAME00000"
 }, {
   "title": "Tour de France 2014",
-  "metacritic": "53"
+  "metacritic": "53",
+  "url": "https://store.playstation.com/en-gb/product/EP4133-CUSA10905_00-TOURDEFRANCE2018"
 }, {
   "title": "RICO",
   "metacritic": "53",
@@ -6375,7 +5644,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4541-CUSA03772_00-AV00000000000000"
 }, {
   "title": "Minecraft: Story Mode - Episode 2: Assembly Required",
-  "metacritic": "53"
+  "metacritic": "53",
+  "url": "https://store.playstation.com/en-gb/product/EP2026-CUSA02463_00-MSM0000000000EP2"
 }, {
   "title": "Bound by Flame",
   "metacritic": "53",
@@ -6390,16 +5660,16 @@
   "url": "https://store.playstation.com/en-gb/product/EP4114-CUSA01045_00-THEASSEMBLY00000"
 }, {
   "title": "Another World: 20th Anniversary Edition",
-  "metacritic": "53"
+  "metacritic": "53",
+  "url": "https://store.playstation.com/en-gb/product/EP4489-NPEJ00366_00-B000000000001218"
 }, {
   "title": "Loading Human: Chapter 1",
-  "metacritic": "53"
-}, {
-  "title": "Kill Strain",
-  "metacritic": "53"
+  "metacritic": "53",
+  "url": "https://store.playstation.com/en-gb/product/EP1877-CUSA06425_00-LOADINGHUMAN0001"
 }, {
   "title": "VR Ping Pong",
-  "metacritic": "53"
+  "metacritic": "53",
+  "url": "https://store.playstation.com/en-gb/product/EP1121-CUSA06032_00-0000000000000000"
 }, {
   "title": "Fallout 76",
   "metacritic": "53",
@@ -6409,18 +5679,13 @@
   "metacritic": "53",
   "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA11741_00-BGMNDAKAR18000EU"
 }, {
-  "title": "Commander Cherry's Puzzled Journey",
-  "metacritic": "53"
-}, {
   "title": "Dogos",
   "metacritic": "53",
   "url": "https://store.playstation.com/en-gb/product/EP2132-CUSA05740_00-DOGOSPS4EUROPE00"
 }, {
-  "title": "Tekken 7 - DLC #1: Ultimate Tekken Bowl",
-  "metacritic": "53"
-}, {
   "title": "Eden-Tomorrow",
-  "metacritic": "52"
+  "metacritic": "52",
+  "url": "https://store.playstation.com/en-gb/product/EP2299-CUSA12741_00-ET00000000000005"
 }, {
   "title": "Hidden Dragon Legend",
   "metacritic": "52",
@@ -6443,11 +5708,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP0841-CUSA13404_00-IASEUROFIMBULEE0"
 }, {
   "title": "Mighty No. 9",
-  "metacritic": "52"
+  "metacritic": "52",
+  "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA02243_00-MIGHTY9CROSSPLAY"
 }, {
   "title": "R.B.I. Baseball 16",
   "metacritic": "52",
-  "url": "https://store.playstation.com/en-gb/product/EP1690-CUSA04418_00-RBIBASEBALL16XEU"
+  "url": "https://store.playstation.com/en-gb/product/EP1690-CUSA12875_00-RBIBASEBALL19XEU"
 }, {
   "title": "Manual Samuel",
   "metacritic": "52",
@@ -6466,27 +5732,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP4389-CUSA11485_00-FADETOSILENCEEU1"
 }, {
   "title": "Pixel Gear",
-  "metacritic": "51"
-}, {
-  "title": "Sword Coast Legends",
-  "metacritic": "51"
-}, {
-  "title": "Knock-knock",
-  "metacritic": "51"
+  "metacritic": "51",
+  "url": "https://store.playstation.com/en-gb/product/EP1830-CUSA06705_00-PIXELGEARVR00001"
 }, {
   "title": "Battle Trivia Knockout",
   "metacritic": "51",
   "url": "https://store.playstation.com/en-gb/product/EP2173-CUSA03456_00-0000000000000001"
 }, {
   "title": "Unearthing Mars",
-  "metacritic": "51"
+  "metacritic": "51",
+  "url": "https://store.playstation.com/en-gb/product/EP2707-CUSA07655_00-WKVRUMARS0000000"
 }, {
   "title": "Risen 3: Titan Lords - Enhanced Edition",
   "metacritic": "51",
   "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA02017_00-RISEN3ENHANCED01"
-}, {
-  "title": "Koi",
-  "metacritic": "51"
 }, {
   "title": "I Am Bread",
   "metacritic": "51",
@@ -6500,12 +5759,6 @@
   "metacritic": "51",
   "url": "https://store.playstation.com/en-gb/product/EP4029-CUSA04540_00-SHADWENSCEE00000"
 }, {
-  "title": "Mark McMorris Infinite Air",
-  "metacritic": "50"
-}, {
-  "title": "Divide",
-  "metacritic": "50"
-}, {
   "title": "AO International Tennis",
   "metacritic": "50",
   "url": "https://store.playstation.com/en-gb/product/EP4249-CUSA09105_00-AOT0000000000000"
@@ -6518,18 +5771,9 @@
   "metacritic": "50",
   "url": "https://store.playstation.com/en-gb/product/EP4358-CUSA04694_00-KRINKLEKRUSHERP4"
 }, {
-  "title": "Fallout 4: Wasteland Workshop",
-  "metacritic": "50"
-}, {
-  "title": "VEV: Viva Ex Vivo",
-  "metacritic": "50"
-}, {
   "title": "Armikrog",
   "metacritic": "50",
   "url": "https://store.playstation.com/en-gb/product/EP0131-CUSA04559_00-ARMIKROGVSEVIL16"
-}, {
-  "title": "Night Trap: 25th Anniversary Edition",
-  "metacritic": "50"
 }, {
   "title": "Toby: The Secret Mine",
   "metacritic": "50",
@@ -6555,12 +5799,6 @@
   "metacritic": "50",
   "url": "https://store.playstation.com/en-gb/product/EP2866-CUSA12376_00-FISHINGSIMWORLD1"
 }, {
-  "title": "Mighty Morphin Power Rangers: Mega Battle",
-  "metacritic": "49"
-}, {
-  "title": "Crisis on the Planet of the Apes VR",
-  "metacritic": "49"
-}, {
   "title": "Red Goddess: Inner World",
   "metacritic": "49",
   "url": "https://store.playstation.com/en-gb/product/EP1152-CUSA02746_00-REDGODDESSIN0000"
@@ -6577,15 +5815,9 @@
   "metacritic": "49",
   "url": "https://store.playstation.com/en-gb/product/EP0822-CUSA08814_00-EARTHATPS4SIEE00"
 }, {
-  "title": "The Amazing Spider-Man 2",
-  "metacritic": "49"
-}, {
   "title": "Immortal: Unchained",
   "metacritic": "49",
   "url": "https://store.playstation.com/en-gb/product/EP2520-CUSA09922_00-IMMORTAL00000000"
-}, {
-  "title": "The Crew: Calling All Units",
-  "metacritic": "49"
 }, {
   "title": "Milanoir",
   "metacritic": "49",
@@ -6604,7 +5836,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4062-CUSA00938_00-HOMEFRONT2000000"
 }, {
   "title": "Prototype Biohazard Bundle",
-  "metacritic": "48"
+  "metacritic": "48",
+  "url": "https://store.playstation.com/en-gb/product/EP0002-CUSA01766_00-PROTOTYPEBUNDLE1"
 }, {
   "title": "Crazy Strike Bowling EX",
   "metacritic": "48",
@@ -6619,17 +5852,20 @@
   "url": "https://store.playstation.com/en-gb/product/EP2505-CUSA05948_00-ABT6666666666666"
 }, {
   "title": "Daylight",
-  "metacritic": "48"
+  "metacritic": "48",
+  "url": "https://store.playstation.com/en-gb/product/EP0005-CUSA00287_00-DAYLIGHTXXXXXXXX"
 }, {
   "title": "Out of Ammo",
-  "metacritic": "48"
+  "metacritic": "48",
+  "url": "https://store.playstation.com/en-gb/product/EP4042-CUSA09540_00-OUTOFAMMO0000000"
 }, {
   "title": "Syberia 3",
   "metacritic": "48",
   "url": "https://store.playstation.com/en-gb/product/EP4295-CUSA05545_00-SYBERIA3EU000001"
 }, {
   "title": "Space Rift: Episode 1",
-  "metacritic": "48"
+  "metacritic": "48",
+  "url": "https://store.playstation.com/en-gb/product/EP1825-CUSA06234_00-SPACERIFT0000000"
 }, {
   "title": "Our World Is Ended.",
   "metacritic": "48",
@@ -6647,17 +5883,13 @@
   "metacritic": "47",
   "url": "https://store.playstation.com/en-gb/product/EP4459-CUSA00874_00-SOULAXIOMPS4SCEE"
 }, {
-  "title": "Angry Birds Star Wars",
-  "metacritic": "47"
-}, {
-  "title": "SingStar: Ultimate Party",
-  "metacritic": "47"
-}, {
   "title": "League of War: VR Arena",
-  "metacritic": "46"
+  "metacritic": "46",
+  "url": "https://store.playstation.com/en-gb/product/EP3275-CUSA10058_00-0000000000000001"
 }, {
   "title": "The Deer God",
-  "metacritic": "46"
+  "metacritic": "46",
+  "url": "https://store.playstation.com/en-gb/product/EP1191-CUSA06207_00-THEDEERGODBUNDLE"
 }, {
   "title": "Primal Carnage: Extinction",
   "metacritic": "46",
@@ -6676,7 +5908,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4541-CUSA08005_00-AEREAEU000000000"
 }, {
   "title": "ARK Park",
-  "metacritic": "46"
+  "metacritic": "46",
+  "url": "https://store.playstation.com/en-gb/product/EP0778-CUSA10936_00-ARKPARK000000001"
 }, {
   "title": "Away: Journey to the Unexpected",
   "metacritic": "46",
@@ -6699,7 +5932,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP1226-CUSA05997_00-0000000000000000"
 }, {
   "title": "Spheroids",
-  "metacritic": "45"
+  "metacritic": "45",
+  "url": "https://store.playstation.com/en-gb/product/EP1704-CUSA03900_00-0SPHEROIDSBUNDLE"
 }, {
   "title": "Maize",
   "metacritic": "45",
@@ -6710,7 +5944,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4492-CUSA10717_00-0000000000000000"
 }, {
   "title": "Project Root",
-  "metacritic": "45"
+  "metacritic": "45",
+  "url": "https://store.playstation.com/en-gb/product/EP2059-CUSA01295_00-PROJECTROOTCRBUY"
 }, {
   "title": "Infinity Runner",
   "metacritic": "45",
@@ -6721,19 +5956,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP5439-CUSA14212_00-GENZEROBASE00000"
 }, {
   "title": "Bravo Team",
-  "metacritic": "45"
-}, {
-  "title": "Teenage Mutant Ninja Turtles: Mutants in Manhattan",
-  "metacritic": "44"
-}, {
-  "title": "AO Tennis",
-  "metacritic": "44"
-}, {
-  "title": "Q*bert: Rebooted",
-  "metacritic": "44"
-}, {
-  "title": "Harmonix Music VR",
-  "metacritic": "44"
+  "metacritic": "45",
+  "url": "https://store.playstation.com/en-gb/product/EP9000-CUSA07225_00-BRAVOTEAMEU00001"
 }, {
   "title": "Calvino Noir",
   "metacritic": "44",
@@ -6748,7 +5972,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP0182-CUSA09773_00-RCTJOYRIDE0SKUEU"
 }, {
   "title": "Riot: Civil Unrest",
-  "metacritic": "43"
+  "metacritic": "43",
+  "url": "https://store.playstation.com/en-gb/product/EP1121-CUSA13018_00-0000000000000000"
 }, {
   "title": "New Gundam Breaker",
   "metacritic": "43",
@@ -6758,20 +5983,13 @@
   "metacritic": "43",
   "url": "https://store.playstation.com/en-gb/product/EP4382-CUSA02154_00-SUPERDUNGEONBROS"
 }, {
-  "title": "Dead or Alive Xtreme 3: Fortune",
-  "metacritic": "43"
-}, {
   "title": "Surgeon Simulator: Experience Reality",
-  "metacritic": "43"
-}, {
-  "title": "Transformers: Rise of the Dark Spark",
-  "metacritic": "43"
-}, {
-  "title": "NBA Live 14",
-  "metacritic": "43"
+  "metacritic": "43",
+  "url": "https://store.playstation.com/en-gb/product/EP4491-CUSA06041_00-SURGEONSIMVR0001"
 }, {
   "title": "VR Karts",
-  "metacritic": "42"
+  "metacritic": "42",
+  "url": "https://store.playstation.com/en-gb/product/EP2889-CUSA06711_00-VRKARTS000000001"
 }, {
   "title": "Touhou Kobuto V: Burst Battle",
   "metacritic": "42",
@@ -6797,14 +6015,13 @@
   "metacritic": "41",
   "url": "https://store.playstation.com/en-gb/product/EP4008-CUSA07761_00-EKORUGBY18SCEE00"
 }, {
-  "title": "One Way Trip",
-  "metacritic": "41"
-}, {
   "title": "Gungrave VR",
-  "metacritic": "41"
+  "metacritic": "41",
+  "url": "https://store.playstation.com/en-gb/product/EP4492-CUSA13276_00-GUNGRAVEVREUR000"
 }, {
   "title": "Ace Banana",
-  "metacritic": "40"
+  "metacritic": "40",
+  "url": "https://store.playstation.com/en-gb/product/EP1830-CUSA06030_00-ACEBANANAVR00002"
 }, {
   "title": "Syndrome",
   "metacritic": "40",
@@ -6814,9 +6031,6 @@
   "metacritic": "39",
   "url": "https://store.playstation.com/en-gb/product/EP1877-CUSA06233_00-TROLLANDI0000000"
 }, {
-  "title": "Putty Squad",
-  "metacritic": "38"
-}, {
   "title": "Umbrella Corps",
   "metacritic": "38",
   "url": "https://store.playstation.com/en-gb/product/EP0102-CUSA03086_00-DISCONLYPARENT00"
@@ -6825,18 +6039,9 @@
   "metacritic": "38",
   "url": "https://store.playstation.com/en-gb/product/EP1830-CUSA07042_00-DYINGREBORNSTA01"
 }, {
-  "title": "Godzilla",
-  "metacritic": "38"
-}, {
-  "title": "Randall",
-  "metacritic": "38"
-}, {
   "title": "Agony",
   "metacritic": "37",
   "url": "https://store.playstation.com/en-gb/product/EP3617-CUSA11622_00-AGONY00000000666"
-}, {
-  "title": "Left Alive",
-  "metacritic": "37"
 }, {
   "title": "That Trivia Game",
   "metacritic": "37",
@@ -6862,9 +6067,6 @@
   "metacritic": "37",
   "url": "https://store.playstation.com/en-gb/product/EP1121-CUSA14432_00-CRIMSONKEEP00001"
 }, {
-  "title": "Heavy Fire: Red Shadow",
-  "metacritic": "36"
-}, {
   "title": "Shaq Fu: A Legend Reborn",
   "metacritic": "36",
   "url": "https://store.playstation.com/en-gb/product/EP2609-CUSA06487_00-SHAQFU1632343336"
@@ -6882,7 +6084,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP2632-CUSA12745_00-142030ETERNITY17"
 }, {
   "title": "One Piece: Grand Cruise",
-  "metacritic": "35"
+  "metacritic": "35",
+  "url": "https://store.playstation.com/en-gb/product/EP0700-CUSA11358_00-ONEPIECEGCPS4000"
 }, {
   "title": "Overlord: Fellowship of Evil",
   "metacritic": "33",
@@ -6893,19 +6096,12 @@
   "url": "https://store.playstation.com/en-gb/product/EP2955-CUSA09052_00-BEASTQUEST000000"
 }, {
   "title": "Weeping Doll",
-  "metacritic": "32"
-}, {
-  "title": "Tony Hawk's Pro Skater 5",
-  "metacritic": "32"
-}, {
-  "title": "Where the Bees Make Honey",
-  "metacritic": "31"
+  "metacritic": "32",
+  "url": "https://store.playstation.com/en-gb/product/EP1830-CUSA06706_00-2016092947650060"
 }, {
   "title": "Dino Dini's Kick Off Revival",
-  "metacritic": "31"
-}, {
-  "title": "Ghostbusters",
-  "metacritic": "30"
+  "metacritic": "31",
+  "url": "https://store.playstation.com/en-gb/product/EP4489-CUSA03453_00-KICKOFFR00000000"
 }, {
   "title": "Air Conflicts: Vietnam Ultimate Edition",
   "metacritic": "30",
@@ -6914,9 +6110,6 @@
   "title": "The Quiet Man",
   "metacritic": "29",
   "url": "https://store.playstation.com/en-gb/product/EP0082-CUSA11736_00-THEQUIETMANGAME1"
-}, {
-  "title": "Wander",
-  "metacritic": "28"
 }, {
   "title": "Basement Crawl",
   "metacritic": "27",
@@ -6935,7 +6128,8 @@
   "url": "https://store.playstation.com/en-gb/product/EP4008-CUSA02187_00-RUGBY15DISCDIGIT"
 }, {
   "title": "Yasai Ninja",
-  "metacritic": "23"
+  "metacritic": "23",
+  "url": "https://store.playstation.com/en-gb/product/EP8904-CUSA02840_00-0000000000000002"
 }, {
   "title": "Energy Hook",
   "metacritic": "22",
@@ -6944,12 +6138,6 @@
   "title": "Cartoon Network: Battle Crashers",
   "metacritic": "21",
   "url": "https://store.playstation.com/en-gb/product/EP0281-CUSA04751_00-CARTOONNETWORKBR"
-}, {
-  "title": "Afro Samurai 2: Revenge of Kuma Volume One",
-  "metacritic": "21"
-}, {
-  "title": "Rugby 15",
-  "metacritic": "19"
 }, {
   "title": "Orc Slayer",
   "metacritic": "15",

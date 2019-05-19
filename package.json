@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^1.15.0"
+    "puppeteer": "^1.15.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "underscore": "^1.9.1"
   },
   "devDependencies": {
     "eslint": "^5.16.0",

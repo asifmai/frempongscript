@@ -6,7 +6,7 @@ const similarity = require('./similar');
 module.exports = () => {
   return new Promise(async (resolve, reject) => {
     try {
-      const gamesData = JSON.parse(fs.readFileSync('psen2.json'));
+      const gamesData = JSON.parse(fs.readFileSync('metacritic.json'));
 
       // Launch Browser
       const browser = await puppeteer.launch({
@@ -69,7 +69,7 @@ module.exports = () => {
             console.log(i + 1, gamesData[i].title, '-- Not Found');
           }
           fs.writeFileSync('currentindex.txt', i + 1);
-          fs.writeFileSync('psen3.json', JSON.stringify(gamesData));
+          fs.writeFileSync('psen1.json', JSON.stringify(gamesData));
         }
       }
 
