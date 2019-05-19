@@ -6,11 +6,12 @@ const similarity = require('./similar');
 module.exports = () => {
   return new Promise(async (resolve, reject) => {
     try {
-      const gamesData = JSON.parse(fs.readFileSync('psen1.json'));
+      const gamesData = JSON.parse(fs.readFileSync('psen2.json'));
 
       // Launch Browser
       const browser = await puppeteer.launch({
-        headless: false,
+        headless: true,
+        args: ['--no-sandbox'],
       });
 
       // Launch New Page
@@ -54,8 +55,8 @@ module.exports = () => {
             const gameType = await items[a].$eval('.grid-cell__body .grid-cell__left-detail.grid-cell__left-detail--detail-2', el => el.innerText.trim());
             const gameConsole = await items[a].$eval('.grid-cell__body .grid-cell__left-detail.grid-cell__left-detail--detail-1', el => el.innerText.trim());
             const sim = similarity(gamesData[i].title.toLowerCase(), gameTitle.toLowerCase());
-            if (sim > 0.9 && gameConsole.toLowerCase() == 'ps4') {
-              if (gameType.toLowerCase() == 'ps vr game' || gameType.toLowerCase() == 'psn game') {
+            if (sim >= 0.75 && gameConsole.toLowerCase().includes('ps4')) {
+              if (gameType.toLowerCase() == 'ps vr game' || gameType.toLowerCase() == 'psn game' || gameType.toLowerCase() == 'full game' || gameType.toLowerCase() == 'level' || gameType.toLowerCase() == 'bundle') {
                 console.log(i + 1, '---', gameTitle, '--', gameType, '--', gameConsole);
                 const gameURL = await items[a].$eval('.grid-cell__body a', el => el.href);
                 gamesData[i].url = gameURL;
@@ -67,7 +68,8 @@ module.exports = () => {
           if (found == false) {
             console.log(i + 1, gamesData[i].title, '-- Not Found');
           }
-          fs.writeFileSync('psen2.json', JSON.stringify(gamesData));
+          fs.writeFileSync('currentindex.txt', i + 1);
+          fs.writeFileSync('psen3.json', JSON.stringify(gamesData));
         }
       }
 
