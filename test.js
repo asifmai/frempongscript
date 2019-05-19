@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const fl = JSON.parse(fs.readFileSync('psen2.json'));
+const fl = JSON.parse(fs.readFileSync('new.json'));
 
 let filled = 0;
 let nonfilled = 0;
