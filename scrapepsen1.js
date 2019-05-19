@@ -6,36 +6,27 @@ const similarity = require('./similar');
 module.exports = () => {
   return new Promise(async (resolve, reject) => {
     try {
-      const gamesData = JSON.parse(fs.readFileSync('metacritic.json'));
+      const gamesData = JSON.parse(fs.readFileSync('psen1.json'));
 
       // Launch Browser
       const browser = await puppeteer.launch({
-        headless: true,
-        args: ['--no-sandbox'],
+        headless: false,
       });
 
       // Launch New Page
       const page = await browser.newPage();
 
-      // Set Page view port
-      await page.setViewport({
-        width: 1366,
-        height: 768
-      });
-
-      // Goto the URL
-
-      for (let i = 0; i < gamesData.length; i++) {
-        const response = await page.goto(psenURL, {timeout: 0, waitUntil: 'load'});
+      for (let i = 1066; i < gamesData.length; i++) {
+        const response = await page.goto(psenURL, {waitUntil: 'load'});
         if (response.status() === 403) {
           console.log(`Got IP Blocked at index: ${i}`);
           process.exit(0);
         }
-        await page.waitForSelector('input#ember942');
-        await page.type('input#ember942', gamesData[i].title);
+        await page.waitForSelector('input.search-bar__input-field');
+        await page.type('input.search-bar__input-field', gamesData[i].title);
         await Promise.all([
           page.waitForNavigation({waitUntil: 'load', timeout: 0}),
-          page.click('i#ember943'),
+          page.click('i.search-bar__search-icon'),
         ]);
         const seemorelink = await page.$('.bucket-row__bucket-link')
         let bucket;
@@ -50,8 +41,13 @@ module.exports = () => {
         } else {
           // console.log(i + 1, 'No see more link');
           bucket = await page.$('.bucket-row__container');
+          if (!bucket) {
+            console.log(i + 1, gamesData[i].title, '-- No results found');
+            continue;
+          }
         }
         const items = await bucket.$$('.grid-cell');
+        let found = false;
         for (let a = 0; a < items.length; a++) {
           const gameTitle = await items[a].$eval('.grid-cell__body a', el => el.innerText.trim());
           const gameType = await items[a].$eval('.grid-cell__body .grid-cell__left-detail.grid-cell__left-detail--detail-2', el => el.innerText.trim());
@@ -61,10 +57,14 @@ module.exports = () => {
             console.log(i + 1, '---', gameTitle, '--', gameType, '--', gameConsole);
             const gameURL = await items[a].$eval('.grid-cell__body a', el => el.href);
             gamesData[i].url = gameURL;
+            found = true;
             break;
           }
         }
-        fs.writeFileSync('psen.json', JSON.stringify(gamesData));
+        if (found == false) {
+          console.log(i + 1, gamesData[i].title, '-- Not Found');
+        }
+        fs.writeFileSync('psen1.json', JSON.stringify(gamesData));
       }
 
       // Close the page
