@@ -2,6 +2,7 @@ const metacriticscrape = require('./scrapemetacritic');
 const psencrape1 = require('./scrapepsen1');
 const psencrape2 = require('./scrapepsen2');
 const scrapegamespropspsen = require('./scrapegamespropspsen');
+const scrapegamespropspsit = require('./scrapegamespropspsit');
 const splitGamesData = require('./splitGamesData');
 const scrapeItalianDesc = require('./scrapeitaliandesc');
 const correctFinalFile = require('./correctFinalFile');
@@ -26,5 +27,8 @@ const correctFinalFile = require('./correctFinalFile');
   // await scrapeItalianDesc();
 
   // Correct Final JS file
-  await correctFinalFile();
+  // await correctFinalFile();
+
+  // Scrape Italian Audio, Subtitles and Genre
+  await scrapegamespropspsit();
 })();
