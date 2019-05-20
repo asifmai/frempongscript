@@ -10,8 +10,8 @@ module.exports = () => {
 
       // Launch Browser
       const browser = await puppeteer.launch({
-        headless: true,
-        args: ['--no-sandbox'],
+        headless: false,
+        // args: ['--no-sandbox'],
       });
 
       // Launch New Page

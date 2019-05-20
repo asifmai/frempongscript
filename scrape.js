@@ -23,8 +23,8 @@ const correctFinalFile = require('./correctFinalFile');
   // await scrapegamespropspsen();
 
   // Scrape Italian Description from Playstation it website
-  await scrapeItalianDesc();
+  // await scrapeItalianDesc();
 
   // Correct Final JS file
-  // await correctFinalFile();
+  await correctFinalFile();
 })();

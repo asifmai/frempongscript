@@ -8,7 +8,10 @@ module.exports = () => {
   return new Promise(async (resolve, reject) => {
     try {
       // Launch Browser
-      const browser = await puppeteer.launch({ headless: false, args: ['--window-size=1366,768'] });
+      const browser = await puppeteer.launch({ 
+        headless: false, 
+        args: ['--window-size=1366,768'] 
+      });
 
       // Launch New Page
       const page = await browser.newPage();

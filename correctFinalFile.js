@@ -34,7 +34,7 @@ module.exports = () => new Promise((resolve, reject) => {
       }
       newGamesData.push(newGameObj);
     }
-    fs.writeFileSync('gamesData3.js', util.inspect(newGamesData));
+    fs.writeFileSync('gamesDataFinal.js', JSON.stringify(newGamesData));
   } catch (error) {
     reject(error);
   }
