@@ -15,6 +15,7 @@ module.exports = () => new Promise(async (resolve, reject) => {
     const page = await browser.newPage();
 
     for (let i = 0; i < gamesData.length; i++) {
+      console.log(i + 1, '--', gamesData[i].title);
       const rawpgURL = gamesData[i].url;
       const pgURL = rawpgURL.replace('en-gb', 'it-it');
       
