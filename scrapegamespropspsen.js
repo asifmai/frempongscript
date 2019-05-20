@@ -26,7 +26,7 @@ module.exports = () => {
           console.log(`Got IP Blocked at index: ${i}`);
           process.exit(0);
         }
-        await page.waitForSelector('.pdp.padding-medium .row');
+        // await page.waitForSelector('.pdp.padding-medium .row');
         const res = await page.evaluate(() => {
           const headers = document.querySelectorAll('.large-3.columns.pdp__left-content .tech-specs .tech-specs__pivot-menus .tech-specs__menu-header');
           let results = []
@@ -59,8 +59,12 @@ module.exports = () => {
         const coverImage = await page.$eval('.large-3.columns.pdp__left-content .product-image__img.product-image__img--main img', elm => elm.getAttribute('src'));
         const publisher = await page.$eval('.large-9.columns.pdp__right-content .provider-info .provider-info__text:first-of-type', elm => elm.innerText.trim());
         let releaseDate = await page.$eval('.large-9.columns.pdp__right-content .provider-info .provider-info__text:nth-of-type(2) .provider-info__list-item:nth-of-type(2)', elm => elm.innerText.trim());
-        releaseDate = releaseDate.replace('Released ', '');
-        releaseDate = convertDate(releaseDate);
+        if (releaseDate.startsWith('Released')) {
+          releaseDate = releaseDate.replace('Released ', '');
+          releaseDate = convertDate(releaseDate);
+        } else {
+          releaseDate = '';
+        }
 
         const ageContainer = await page.$('.age-gate-form__container');
         if (ageContainer) {
@@ -79,10 +83,15 @@ module.exports = () => {
           await page.select('select[name="ageYear"]', '1984');
           await page.click('.age-gate-form__container + input')
           await page.waitFor(10000);
-          await page.waitForSelector('.pdp-carousel__thumbnail-pages-container');
+          // await page.waitForSelector('.pdp-carousel__thumbnail-pages-container');
         }
+        let gameImages;
         const carouselContainer = await page.$('div#pdp-carousel-pages');
-        const gameImages = await carouselContainer.$$eval('img', elms => elms.map(el => el.getAttribute('src')));
+        if (carouselContainer) {
+          gameImages = await carouselContainer.$$eval('img', elms => elms.map(el => el.getAttribute('src')));
+        } else {
+          gameImages = [];
+        }
 
         const plateform = 'ps4';
         const region = 'uk';
@@ -113,10 +122,10 @@ module.exports = () => {
       }
 
       // Close the page
-      // await page.close();
+      await page.close();
 
       // Close the browser
-      // await browser.close();
+      await browser.close();
       resolve('Completed...');
     } catch (error) {
       reject(error);
