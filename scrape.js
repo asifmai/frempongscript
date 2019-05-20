@@ -4,6 +4,7 @@ const psencrape2 = require('./scrapepsen2');
 const scrapegamespropspsen = require('./scrapegamespropspsen');
 const splitGamesData = require('./splitGamesData');
 const scrapeItalianDesc = require('./scrapeitaliandesc');
+const correctFinalFile = require('./correctFinalFile');
 
 (async function run () {
   // Scrape Game Titles and Metascore from metacritics
@@ -23,4 +24,7 @@ const scrapeItalianDesc = require('./scrapeitaliandesc');
 
   // Scrape Italian Description from Playstation it website
   await scrapeItalianDesc();
+
+  // Correct Final JS file
+  // await correctFinalFile();
 })();

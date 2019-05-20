@@ -14,6 +14,17 @@ module.exports = () => new Promise(async (resolve, reject) => {
     // Launch New Page
     const page = await browser.newPage();
 
+    // Set Request Interception to avoid receiving images, fonts and stylesheets
+    await page.setRequestInterception(true);
+    page.on('request', (req) => {
+      if(req.resourceType() === 'image' || req.resourceType() === 'font' || req.resourceType() === 'stylesheet'){
+        req.abort();
+      }
+      else {
+        req.continue();
+      }
+    });
+
     for (let i = 0; i < gamesData.length; i++) {
       console.log(i + 1, '--', gamesData[i].title);
       const rawpgURL = gamesData[i].url;
@@ -24,6 +35,7 @@ module.exports = () => new Promise(async (resolve, reject) => {
         console.log(`Got IP Blocked at index: ${i}`);
         process.exit(0);
       }
+      // await page.waitForSelector('.pdp__description');
       const rawItalianDesc = await page.$eval('.pdp__description', elm => elm.innerText);
       const italianDesc = rawItalianDesc.replace('Descrizione\n\n','');
       gamesData[i].description = italianDesc;
